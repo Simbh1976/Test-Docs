@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Manual and Help File](README.md)
+* [Software Compatibility](software-compatibility.md)
 
