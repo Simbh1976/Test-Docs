@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Revision 1.0.1](README.md)
 
