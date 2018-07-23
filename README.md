@@ -1,16 +1,4 @@
----
-description: Version 1.0.0-Initial Release
----
+# Welcome!
 
-# Manual and Help File
-
-## Version 1.0.0-Rel 1 \(20-Jul-18\)
-
-### Fixed
-
-* None
-
-### Changed
-
-* None
+![](.gitbook/assets/entrypass_logo.png)
 
