@@ -1,24 +1,24 @@
 ---
-description: This is a revised document
+description: 'Version: v3.14c.17.03.R01'
 ---
 
-# Revision 1.0.1
+# Welcome!
 
-## 15.0.0 - 2042-12-03
+![](.gitbook/assets/entrypass_logo.png)
 
-### Fixed
+## Changelog 
 
-* Removed humans, they weren't doing fine with animals.
+### Version: v3.14c.17.03.R01
 
-### Changed
+#### Added:
 
-* Animals are now super cute, all of them.
+Entrypass Logo on the main page
 
-## 14.0.0 - 2042-10-06
+#### Removed
 
-### Added
+Contents on 'How to install Entrypass Platform1 Server'.
 
-* Introduced animals into the world, we believe they're going to be a neat addition.
+
 
 
 
