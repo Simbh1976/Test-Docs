@@ -14,6 +14,4 @@
 * [Users](users.md)
 * [Event Visualisation](event-visualisation/README.md)
   * [Online Transaction Tab](event-visualisation/online-transaction-tab.md)
-* [Time Attendance](time-attendance.md)
-* [Appendices](appendices.md)
 
