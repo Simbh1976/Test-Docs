@@ -16,5 +16,7 @@ description: This page will fully describe the steps needed to install Firebird 
 
 
 
-### STEP 3: 
+#### STEP 3: Click 'Ok' to continue
+
+![](../.gitbook/assets/untitled2b.png)
 
