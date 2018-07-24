@@ -24,6 +24,6 @@ Firebird is a free and open sourced database management system and it is a relat
 
 ### Why install Firebird Database?
 
-Firebird database is where all data from Entrypass Platform1 Server will be stored and is an integral part of the system's operation.   
+Platform1 Server store all of it's data within Firebird Database and this database system is an integral part of the system's operation.   
 
 

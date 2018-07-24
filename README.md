@@ -1,22 +1,22 @@
+---
+description: 'Version: v3.14c.17.03.R01'
+---
+
 # Welcome!
 
 ![](.gitbook/assets/entrypass_logo.png)
 
-## Changelog
+## Changelog 
 
-### Current Version: v3.14c.17.03 \(Rev01\)
+### Version: v3.14c.17.03.R01
 
-{% hint style="info" %}
-Added:
+#### Added:
 
-1. Entrypass logo on the main page
-{% endhint %}
+Entrypass Logo on the main page
 
-{% hint style="info" %}
-Removed:
+#### Removed
 
-1. Contents on 'How to install Entrypass Platform1 Server'. 
-{% endhint %}
+Contents on 'How to install Entrypass Platform1 Server'.
 
 
 
