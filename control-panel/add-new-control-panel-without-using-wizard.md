@@ -33,7 +33,7 @@ description: >-
 
 #### STEP 4: Proceed to ‘Door Setting’. Provide a name to ‘Doors’ and ‘Description’.
 
-![](../.gitbook/assets/untitled4a.png)
+![](../.gitbook/assets/untitled4a%20%281%29.png)
 
 
 

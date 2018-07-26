@@ -34,5 +34,15 @@ description: >-
 
 #### STEP 5: Tick on the Control Panel and click ‘Retrieve Firmware’ to check the firmware version and model that the Control Panel is currently under.
 
+![](../.gitbook/assets/untitled4a.png)
 
+
+
+#### STEP 6: 
+
+1. Locate the firmware file by opening the file 'location icon'. 
+2. Once the file had been selected, you will be able to see the Series and Version of the file.
+3. Once you have ensured that the file version is correct, you can proceed to click 'Upgrade Firmware'.
+
+![](../.gitbook/assets/untitled5b.png)
 
