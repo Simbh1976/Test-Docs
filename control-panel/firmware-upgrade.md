@@ -30,3 +30,9 @@ description: >-
 
 ![](../.gitbook/assets/untitled2a%20%282%29.png)
 
+
+
+#### STEP 5: Tick on the Control Panel and click ‘Retrieve Firmware’ to check the firmware version and model that the Control Panel is currently under.
+
+
+
