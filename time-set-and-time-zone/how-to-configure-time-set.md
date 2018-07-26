@@ -16,7 +16,7 @@ description: This section will highlight the steps to configure Time Set feature
 
 1. Click **'Add \(F2\)'** to add new Time Set into the system.
 
-![](../.gitbook/assets/untitled1a%20%284%29.png)
+![](../.gitbook/assets/untitled1a%20%285%29.png)
 
 ### 
 
