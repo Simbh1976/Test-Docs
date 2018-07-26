@@ -12,4 +12,5 @@
   * [Enabling AES Encryption](control-panel/enabling-aes-encryption.md)
   * [Change AES User Key](control-panel/change-aes-user-key.md)
   * [Firmware Upgrade](control-panel/firmware-upgrade.md)
+  * [Backing up data on Entrypass Platform1 Server](control-panel/backing-up-data-on-entrypass-platform1-server.md)
 
