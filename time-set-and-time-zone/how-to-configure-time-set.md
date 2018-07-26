@@ -16,7 +16,7 @@ description: This section will highlight the steps to configure Time Set feature
 
 1. Click **'Add \(F2\)'** to add new Time Set into the system.
 
-![](../.gitbook/assets/untitled1a%20%283%29.png)
+![](../.gitbook/assets/untitled1a%20%284%29.png)
 
 ### 
 
@@ -26,7 +26,7 @@ description: This section will highlight the steps to configure Time Set feature
 2. Next, key in the time set intervals \(hourly intervals\). You can provide up to 3 different time intervals within 1 Time Set.
 3. Click **'Save and Close'** when complete.
 
-![](../.gitbook/assets/untitled2a%20%281%29.png)
+![](../.gitbook/assets/untitled2a%20%282%29.png)
 
 
 

@@ -16,7 +16,7 @@ description: This section will highlight the steps to configure Time Zone featur
 
 1. Click **‘Add \(F2\)’** to continue adding new Time Zone into the system.
 
-![](../.gitbook/assets/untitled2a%20%282%29.png)
+![](../.gitbook/assets/untitled2a%20%283%29.png)
 
 
 
