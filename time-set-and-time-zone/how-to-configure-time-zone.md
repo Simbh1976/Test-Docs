@@ -4,23 +4,21 @@ description: This section will highlight the steps to configure Time Zone featur
 
 # How to configure Time Zone
 
-### STEP 1
+## List of Steps
 
-1. Proceed to **‘Control Panel Tab’** and click on the icon **‘Time Zone’** to continue.
+#### STEP 1: Proceed to **‘Control Panel Tab’** and click on the icon **‘Time Zone’** to continue.
 
 ![](../.gitbook/assets/untitled1%20%283%29.png)
 
 
 
-### STEP 2
+#### STEP 2: Click **‘Add \(F2\)’** to continue adding new Time Zone into the system.
 
-1. Click **‘Add \(F2\)’** to continue adding new Time Zone into the system.
-
-![](../.gitbook/assets/untitled2a%20%283%29.png)
+![](../.gitbook/assets/untitled2a%20%284%29.png)
 
 
 
-### STEP 3
+#### STEP 3
 
 1. Proceed to key in the description of the Time Zone. 
 2. Click on the link to fill in the **‘Time-Set’**. 
@@ -30,7 +28,7 @@ description: This section will highlight the steps to configure Time Zone featur
 
 
 
-### COMPLETE
+## Complete
 
 A new Time Zone will appear from the Time Zone list. Once Save and Close is pressed, the system will send the information required to the control panel.
 

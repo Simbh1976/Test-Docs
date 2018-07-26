@@ -1,0 +1,32 @@
+---
+description: >-
+  This section will highlight the steps needed to allow you to upgrade the
+  firmware of the Control Panel
+---
+
+# Firmware Upgrade
+
+## List of Steps
+
+#### STEP 1: Proceed to ‘Control Panel Tab’ and click on ‘Utilities’ drop down menu.
+
+![](../.gitbook/assets/untitleda.png)
+
+
+
+#### STEP 2: Click ‘Send / Retrieve’.
+
+![](../.gitbook/assets/untitledb.png)
+
+
+
+#### STEP 3: On the ‘Send / Retrieve’ screen, tick ‘Firmware Upgrade’. Click 'Next'. 
+
+![](../.gitbook/assets/untitled1a%20%284%29.png)
+
+
+
+#### STEP 4: Click either ‘Serial Model’ OR ‘Network Model’. Select ‘Filter’ to list out the Control Panels.
+
+![](../.gitbook/assets/untitled2a%20%282%29.png)
+

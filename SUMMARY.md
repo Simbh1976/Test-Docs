@@ -11,4 +11,5 @@
   * [Add New Control Panel \(without using wizard\)](control-panel/add-new-control-panel-without-using-wizard.md)
   * [Enabling AES Encryption](control-panel/enabling-aes-encryption.md)
   * [Change AES User Key](control-panel/change-aes-user-key.md)
+  * [Firmware Upgrade](control-panel/firmware-upgrade.md)
 
