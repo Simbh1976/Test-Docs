@@ -2,21 +2,35 @@
 description: This section will highlight the important steps on how to back up server data.
 ---
 
-# Backing up data on Entrypass Platform1 Server
+# Backing up data on Platform1 Server
 
 ## List of Steps
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click on ‘Utilities’ drop down menu.
 
+![](../.gitbook/assets/untitleda.png)
+
+
+
 #### STEP 2: Click ‘Backup’.
 
-#### STEP 3: On the ‘Database’ Tab, tick the type of data to backup.
+![](../.gitbook/assets/untitled.png)
 
-#### STEP 4: \(If Required\) On the ‘Transactions’ Tab, tick ‘Transaction’ and also the month that the System Administrator would like to backup \(refer to Quick Note 1\).
 
-#### STEP 5: \(If Required\) On the ‘Audit’ Tab, tick ‘Audit’ and also the month that the System Administrator would like to backup \(refer to Quick Note 2\).
 
-#### STEP 6: \(If Required\) On the ‘Miscellaneous’ Tab, tick Photo files, Maps files or Wave files that the System Administrator would like to backup \(refer to Quick Note 3\).
+#### STEP 3: On the ‘Database’ Tab, tick the type of data to backup \(refer to Quick Note 1\).
+
+![](../.gitbook/assets/untitled1b.png)
+
+
+
+#### STEP 4: \(Option\) On the ‘Transactions’ Tab, tick ‘Transaction’ and also the month that you would like to backup \(refer to Quick Note 2\).
+
+![](../.gitbook/assets/untitled2a%20%285%29.png)
+
+#### STEP 5: \(Option\) On the ‘Audit’ Tab, tick ‘Audit’ and also the month that the System Administrator would like to backup \(refer to Quick Note 3\).
+
+#### STEP 6: \(Option\) On the ‘Miscellaneous’ Tab, tick Photo files, Maps files or Wave files that the System Administrator would like to backup \(refer to Quick Note 4\).
 
 #### STEP 7: Proceed to the section ‘Options’ and provide a file name in the Backup title row.
 
@@ -34,7 +48,8 @@ Once backup is complete, a file with an extension of **'.bck'** will be created 
 
 ## Quick Note
 
-1. **Transaction:** This would include all transaction messages that occurred during the period chosen.
-2. **Audit:** This would include all audit trail information occurred during the period chosen.
-3. **Miscellaneous:** This would include Photo Files related to staff, Maps files related to Floor Plan and also Wave files related to Instructions and Comments.
+1. **Web Plus:** This is a special feature and is to be ignored.
+2. **Transaction:** This would include all transaction messages that occurred during the period chosen.
+3. **Audit:** This would include all audit trail information occurred during the period chosen.
+4. **Miscellaneous:** This would include Photo Files related to staff, Maps files related to Floor Plan and also Wave files related to Instructions and Comments.
 

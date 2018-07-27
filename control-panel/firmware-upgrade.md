@@ -10,7 +10,7 @@ description: >-
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click on ‘Utilities’ drop down menu.
 
-![](../.gitbook/assets/untitleda.png)
+![](../.gitbook/assets/untitleda%20%281%29.png)
 
 
 
