@@ -46,13 +46,29 @@ description: This section will highlight the important steps on how to back up s
 
 ![](../.gitbook/assets/untitled5b%20%281%29.png)
 
+
+
 #### STEP 8: Proceed to Backup location and choose the medium for backup. If CDRW method is chosen, key in a name in the ‘CD Name’ row.
+
+![](../.gitbook/assets/untitled6.png)
+
+
 
 #### STEP 9: Proceed to Backup file and click on the icon ‘Open file location’.
 
+![](../.gitbook/assets/untitled7.png)
+
+
+
 #### STEP 10: Specify the location where the file will be backed up to and provide a name for the backup file in the ‘File Name’ row. Click ‘Open’ when done.
 
-#### STEP 11: Click ‘Backup’ to backup the Platform1 Server Data.
+![](../.gitbook/assets/untitled8b%20%281%29.png)
+
+
+
+#### STEP 11: Click ‘Backup’ to backup the Platform1 Server Data \(refer to Quick Note 5\).
+
+![](../.gitbook/assets/untitled9b.png)
 
 ## Complete
 
@@ -64,4 +80,5 @@ Once backup is complete, a file with an extension of **'.bck'** will be created 
 2. **Transaction:** This would include all transaction messages that occurred during the period chosen.
 3. **Audit:** This would include all audit trail information occurred during the period chosen.
 4. **Miscellaneous:** This would include Photo Files related to staff, Maps files related to Floor Plan and also Wave files related to Instructions and Comments.
+5. **Please overwrite if file exists:** Please note that this feature should be enabled \(ticked\) to overwrite an existing backup file. If this row is not ticked, the system will still proceed with the back up process BUT will not overwrite the existing file. 
 
