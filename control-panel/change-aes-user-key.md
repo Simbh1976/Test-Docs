@@ -8,7 +8,7 @@ description: This section will highlight the required steps to change AES User K
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click on the icon ‘Preferences’ to continue.
 
-![](../.gitbook/assets/untitled1b%20%281%29.png)
+![](../.gitbook/assets/untitled1b%20%282%29.png)
 
 
 

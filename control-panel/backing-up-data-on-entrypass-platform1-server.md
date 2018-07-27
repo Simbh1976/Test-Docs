@@ -20,7 +20,7 @@ description: This section will highlight the important steps on how to back up s
 
 #### STEP 3: On the ‘Database’ Tab, tick the type of data to backup \(refer to Quick Note 1\).
 
-![](../.gitbook/assets/untitled1b.png)
+![](../.gitbook/assets/untitled1b%20%281%29.png)
 
 
 

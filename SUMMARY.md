@@ -4,7 +4,7 @@
 * [Introduction](introduction.md)
 * [System Requirements](system-requirements.md)
 * [Getting Started](getting-started.md)
-* [Time Set and Time Zone](time-set-and-time-zone/README.md)
+* [Time Set & Time Zone](time-set-and-time-zone/README.md)
   * [How to configure Time Set](time-set-and-time-zone/how-to-configure-time-set.md)
   * [How to configure Time Zone](time-set-and-time-zone/how-to-configure-time-zone.md)
 * [Control Panel](control-panel/README.md)
@@ -14,4 +14,6 @@
   * [Firmware Upgrade](control-panel/firmware-upgrade.md)
   * [Backing up data on Platform1 Server](control-panel/backing-up-data-on-entrypass-platform1-server.md)
   * [How to restore data on Platform1 Server](control-panel/how-to-restore-data-on-platform1-server.md)
+* [Door & Readers](door-and-readers/README.md)
+  * [Doors](door-and-readers/doors.md)
 

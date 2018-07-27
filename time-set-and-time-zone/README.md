@@ -4,7 +4,7 @@ description: >-
   how to go about configuring it.
 ---
 
-# Time Set and Time Zone
+# Time Set & Time Zone
 
 This section will cover the aspects of setting up Time Set and Time Zone. System Users should take particular note on the importance of having proper settings for Time Set and Time Zone as it will affect operational timing for HARDWARE and FEATURES. 
 
