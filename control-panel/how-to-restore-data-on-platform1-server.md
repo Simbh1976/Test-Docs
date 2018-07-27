@@ -14,7 +14,7 @@ description: >-
 
 #### STEP 3: On the ‘Path’ section, look for the backup file by clicking on the ‘Open File Folder’ icon.
 
-#### STEP 4: \(If Required\) Click ‘Read Content’ to identify the various types of files that will be restored back into the server.
+#### STEP 4: \(Option\) Click ‘Read Content’ to identify the various types of files that will be restored back into the server.
 
 #### STEP 5: On the ‘Options’ section, choose to restore the data to Application Path or Other Path.
 
