@@ -62,3 +62,17 @@ This parameter will dictate the time period in which the Buddy Mode will be acti
 
 This is where you will be able to set the Pin Number for local doors. By setting a Pin Number for the Doors, the User would have to key in this Pin Number \(up to three different pins\) whenever they flash their access control cards to the reader. This feature is a universal feature where all users will be required to key in the pin, irrespective of whether ‘Pin + Card’ feature is enabled or not.
 
+### 14. Pin 1 to Pin 3 Time Zone 
+
+This parameter is where you can set the time period in which the Pin numbers will be active. By default, this feature is inactive and when a Time Zone is assigned to this feature, Pin 1 to Pin 3 feature will stay active throughout the time period.
+
+### 15. Pin Lock Out Count 
+
+This parameter will dictate the number of times a user will be allowed to enter ‘wrong’ Pin Numbers. Once a user incorrectly entered wrong pin number exceeding the allowable count specified within this parameter, a lockout will occur.
+
+### 16. Time Attendance reader 
+
+This parameter will enable the feature for Time Attendance. By enabling this feature, the door will record data required for Time Attendance Reporting. By default, this feature is inactive and by ticking the checkbox, this will activate the feature and will be active at all times.
+
+
+
