@@ -16,7 +16,7 @@ description: >-
 
 #### STEP 2: Click ‘Send / Retrieve’.
 
-![](../.gitbook/assets/untitledb.png)
+![](../.gitbook/assets/untitledb%20%281%29.png)
 
 
 
@@ -28,7 +28,7 @@ description: >-
 
 #### STEP 4: Click either ‘Serial Model’ OR ‘Network Model’. Select ‘Filter’ to list out the Control Panels.
 
-![](../.gitbook/assets/untitled2a%20%282%29.png)
+![](../.gitbook/assets/untitled2a%20%283%29.png)
 
 
 

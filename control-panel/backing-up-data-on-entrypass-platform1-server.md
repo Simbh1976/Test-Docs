@@ -26,7 +26,7 @@ description: This section will highlight the important steps on how to back up s
 
 #### STEP 4: \(Option\) On the ‘Transactions’ Tab, tick ‘Transaction’ and also the month that you would like to backup \(refer to Quick Note 2\).
 
-![](../.gitbook/assets/untitled2a%20%285%29.png)
+![](../.gitbook/assets/untitled2a%20%286%29.png)
 
 
 

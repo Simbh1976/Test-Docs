@@ -8,13 +8,13 @@ description: This section will highlight the steps to configure Time Set feature
 
 #### STEP 1: Proceed to **'Control Panel Tab'** and click on the icon **'Time Set'** to continue.
 
-![](../.gitbook/assets/untitled2.png)
+![](../.gitbook/assets/untitledb.png)
 
 ### 
 
 #### STEP 2: Click **'Add \(F2\)'** to add new Time Set into the system.
 
-![](../.gitbook/assets/untitled1a%20%287%29.png)
+![](../.gitbook/assets/untitled1a%20%286%29.png)
 
 ### 
 
@@ -24,7 +24,7 @@ description: This section will highlight the steps to configure Time Set feature
 2. Next, key in the time set intervals \(hourly intervals\). You can provide up to 3 different time intervals within 1 Time Set.
 3. Click **'Save and Close'** when complete.
 
-![](../.gitbook/assets/untitled2a%20%284%29.png)
+![](../.gitbook/assets/untitled2a%20%281%29.png)
 
 ## Complete
 
