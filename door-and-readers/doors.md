@@ -74,5 +74,23 @@ This parameter will dictate the number of times a user will be allowed to enter 
 
 This parameter will enable the feature for Time Attendance. By enabling this feature, the door will record data required for Time Attendance Reporting. By default, this feature is inactive and by ticking the checkbox, this will activate the feature and will be active at all times.
 
+### 17. Roll Call Reader 
 
+This parameter will enable the Roll Call feature. For more information on Roll Call feature please refer to ‘5.9 How to Configure Roll Call Group’. By default, this feature is inactive and by ticking the checkbox, this will activate the feature and will be active at all times.
+
+### 18. Roll Call Group 
+
+This parameter will enable you to set the Roll Call Group that had been created within the Roll Call Group List. To choose the group, click the ‘undefined’ \(this is the default setting\) and choose the group from the available list. If there are no groups available, you can create the group by pressing the button ‘Add \(F2\)’.
+
+### 19. Check Card Expiry Date 
+
+This parameter will enable you to check each users’ card expiry date. Card Expiry settings can be found in ‘Staff’ settings, ‘6.1 How to enrol Users’. When the card is expired, a user will not be allowed to enter the designated door either a new card had been issued to the user OR the expiry date of the card is extended.
+
+### 20. Software Fire Release 
+
+This parameter will enable the integration of Fire Release feature where once this feature is enabled, it will work in conjunction with fire sensors to turn off the security of the doors when fire sensors were triggered \(refer to ‘How to Configure Fire Release’.\)
+
+### 21. Fire Release Group 
+
+This parameter will enable you to choose the group of doors to be released \(security turned off\) in the event that fire alarms were triggered. To create Fire Release Group, refer to the section ‘5.6.1 How to configure Fire Release Group’.
 
