@@ -10,7 +10,7 @@ description: >-
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click on the icon ‘Controller’ to continue.
 
-![](../.gitbook/assets/untitled1a%20%282%29.png)
+![](../.gitbook/assets/untitled1a%20%283%29.png)
 
 
 
@@ -27,7 +27,7 @@ description: >-
 3. Input the **'Network Address'** of the control panel \(see Quick Note 2\)
 4. Proceed to 'Controller Setting' and key in the **'Current Port No'** \(see Quick Note 2\)
 
-![](../.gitbook/assets/untitled3b%20%281%29.png)
+![](../.gitbook/assets/untitled3b%20%282%29.png)
 
 
 
