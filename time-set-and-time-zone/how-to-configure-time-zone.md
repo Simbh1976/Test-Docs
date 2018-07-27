@@ -24,7 +24,7 @@ description: This section will highlight the steps to configure Time Zone featur
 2. Click on the link to fill in the **‘Time-Set’**. 
 3. Click **‘Save and Close’** when done.
 
-![](../.gitbook/assets/untitled3a.png)
+![](../.gitbook/assets/untitled3a%20%281%29.png)
 
 
 

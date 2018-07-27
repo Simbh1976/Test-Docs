@@ -28,11 +28,23 @@ description: This section will highlight the important steps on how to back up s
 
 ![](../.gitbook/assets/untitled2a%20%285%29.png)
 
-#### STEP 5: \(Option\) On the ‘Audit’ Tab, tick ‘Audit’ and also the month that the System Administrator would like to backup \(refer to Quick Note 3\).
 
-#### STEP 6: \(Option\) On the ‘Miscellaneous’ Tab, tick Photo files, Maps files or Wave files that the System Administrator would like to backup \(refer to Quick Note 4\).
 
-#### STEP 7: Proceed to the section ‘Options’ and provide a file name in the Backup title row.
+#### STEP 5: \(Option\) On the ‘Audit’ Tab, tick ‘Audit’ and also the month that you would like to backup \(refer to Quick Note 3\).
+
+![](../.gitbook/assets/untitled3b.png)
+
+
+
+#### STEP 6: \(Option\) On the ‘Miscellaneous’ Tab, tick Photo files, Maps files or Wave files that you would like to backup \(refer to Quick Note 4\).
+
+![](../.gitbook/assets/untitled4b.png)
+
+
+
+#### STEP 7: Proceed to the section ‘Options’ and provide a file name in the 'Backup title' row.
+
+![](../.gitbook/assets/untitled5b%20%281%29.png)
 
 #### STEP 8: Proceed to Backup location and choose the medium for backup. If CDRW method is chosen, key in a name in the ‘CD Name’ row.
 
