@@ -94,3 +94,50 @@ This parameter will enable the integration of Fire Release feature where once th
 
 This parameter will enable you to choose the group of doors to be released \(security turned off\) in the event that fire alarms were triggered. To create Fire Release Group, refer to the section ‘5.6.1 How to configure Fire Release Group’.
 
+### 22. Security Mode 
+
+This parameter will enable you to toggle the security mode in either ‘Low’ or ‘High’ settings. This toggle will affect the ‘EXIT Reader’ only and below would be a list of functions that will be affected by this setting:
+
+| Low Security Mode | High Security Mode |
+| --- | --- |
+|  |  |
+
+### 23. Keyed Card + Pin Time Zone 
+
+This parameter will enable the feature Keyed Card + Pin Time Zone. By default this feature will be inactive and when a Time Zone had been assigned to this feature, Keyed Card + Pin Time Zone feature will stay active throughout the time period. Keyed Card is a feature where users do not possess the ‘physical card’ however, they have the ‘Card Number’ that is allocated to them. When using a terminal, instead of flashing the physical access card, users would have to key in the ‘card number’ in conjunction with the ‘pin number’ of the terminal.
+
+### 24. Enable Interlock 
+
+This parameter will enable the Interlock feature. To further understand the ‘Interlock Feature’ refer to ‘5.5 How to configure ‘Interlock Feature’.
+
+### 25. Lock Energize Option 
+
+This parameter will allow you to choose to de-energize \(Unlock\) the Electromagnetic Lock \(EM Lock\) by: 
+
+* **Release Time:** The EM Lock is unlocked and the time period of unlock is calculated from THE TIME EM LOCK IS DE-ENERGIZED \(UNLOCKED\). 
+* **Open Time:** The EM Lock is unlocked and the time period of unlock is calculated when THE DOOR IS OPENED \(UNLOCKED\).
+
+To further illustrate between the differences in both modes, refer to the below where both options is set with different time period: 
+
+* Release Time Setting: 15 Seconds 
+* Open Time Setting: 30 Seconds 
+
+#### Infographic Illustration
+
+Lock Energize option = Open Time
+
+![](../.gitbook/assets/concept1.png)
+
+* Action 1
+
+#### Action1: The user flashes the access card at the terminal. 
+
+{% hint style="info" %}
+Scenario 1 \(Lock Energize option = Open Time\)
+
+1. EM Lock unlocks
+2. 
+{% endhint %}
+
+2. The EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW – follow ‘Release Time’\) a. If Open Time is chosen Scenario 1 a. If door is open by user within 15 seconds: Additional 30 seconds is calculated from the time the door is opened, system register ‘Door Open’ Status. b. If door is closed within 30 seconds after the door is opened: System register ‘Door Close’ status and re-energise the EM Lock \(LOCKED\). c. If door remain open after 30 seconds the door is opened: System register ‘Door is left open’ and trigger alarm. Scenario 2 a. Door remain closed while the EM Lock is unlocked – System register ‘Door Closed’. b. Door remain closed after 15 seconds – System register ‘Door Close’ status and re-energise the EM Lock \(LOCKED\). 3. Release Time \(Time Period: 15 Seconds\): a. The user flashes the access card. b. The EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW\) a. Door Open within 15 seconds – System register ‘Door Open’ Status. b. Door Close within 15 seconds – System register ‘Door Close’ status and re-energise the EM Lock \(LOCKED\). c. Door Remain Open after 15 seconds – System register ‘Door is left open’ and trigger alarm.
+
