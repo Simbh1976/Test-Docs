@@ -122,22 +122,32 @@ To further illustrate between the differences in both modes, refer to the below 
 * Release Time Setting: 15 Seconds 
 * Open Time Setting: 30 Seconds 
 
-#### Infographic Illustration
+#### **Infographic Illustration**
 
-Lock Energize option = Open Time
+_Lock Energize option = Open Time_
 
 ![](../.gitbook/assets/concept1.png)
 
-* Action 1
+_Scenario 1_
 
-#### Action1: The user flashes the access card at the terminal. 
+1. When a user flashes his access card at the reader
+2. The EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW\)
+3. Door is left UNOPENED
+4. EM Lock re-energize \(lock\) when door is left unopened. 
 
-{% hint style="info" %}
-Scenario 1 \(Lock Energize option = Open Time\)
+_Scenario 2_
 
-1. EM Lock unlocks
-2. 
-{% endhint %}
+1. When a user flashes his access card at the reader
+2. The EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW\)
+3. The door is OPENED 15 seconds later. 
+4. EM Lock time will follow 'Open Time' \(30 Seconds\). The status of EM Lock at this time is still UNLOCKED.
+5. Door close 30 seconds after it was opened. EM Lock will re-energize. No alarm will be triggered.
 
-2. The EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW – follow ‘Release Time’\) a. If Open Time is chosen Scenario 1 a. If door is open by user within 15 seconds: Additional 30 seconds is calculated from the time the door is opened, system register ‘Door Open’ Status. b. If door is closed within 30 seconds after the door is opened: System register ‘Door Close’ status and re-energise the EM Lock \(LOCKED\). c. If door remain open after 30 seconds the door is opened: System register ‘Door is left open’ and trigger alarm. Scenario 2 a. Door remain closed while the EM Lock is unlocked – System register ‘Door Closed’. b. Door remain closed after 15 seconds – System register ‘Door Close’ status and re-energise the EM Lock \(LOCKED\). 3. Release Time \(Time Period: 15 Seconds\): a. The user flashes the access card. b. The EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW\) a. Door Open within 15 seconds – System register ‘Door Open’ Status. b. Door Close within 15 seconds – System register ‘Door Close’ status and re-energise the EM Lock \(LOCKED\). c. Door Remain Open after 15 seconds – System register ‘Door is left open’ and trigger alarm.
+Scenario 3
+
+1. When a user flashes his access card at the reader
+2. The EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW\)
+3. The door is OPENED 15 seconds later. 
+4. EM Lock time will follow 'Open Time' \(30 Seconds\). The status of EM Lock at this time is still UNLOCKED.
+5. Door STAYED OPEN after 30 seconds. EM Lock will re-energize. Alarm will be triggered with the message 'Door is left open'. 
 
