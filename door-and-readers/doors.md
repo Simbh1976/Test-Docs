@@ -157,3 +157,5 @@ This parameter will enable you to set a ‘delay’ in registering of doors’ o
 
 #### 27. Authorisation Lock Release
 
+This is a test section that is to be released.
+
