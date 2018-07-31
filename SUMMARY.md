@@ -21,4 +21,6 @@
   * [How to configure Access Level](access-control-features/how-to-configure-access-level.md)
   * [How to configure Access Group](access-control-features/how-to-configure-access-group.md)
   * [How to configure Local Antipassback](access-control-features/how-to-configure-local-antipassback.md)
+  * [How to configure Global Antipassback](access-control-features/how-to-configure-global-antipassback.md)
+  * [How to configure Single Board Interlock](access-control-features/how-to-configure-single-board-interlock.md)
 
