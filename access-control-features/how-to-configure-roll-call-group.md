@@ -20,7 +20,7 @@ STEP 6: Select the ‘Door’ that you would like to enable Roll Call and click 
 
 STEP 7: Select the Roll Call group that had been created. Click ‘Select’.
 
-STEP 8 & Complete: Click ‘Accept’ once done and Roll Call Group function will be active.
+STEP 8 & COMPLETE: Click ‘Accept’ once done and Roll Call Group function will be active.
 
 ## Quick Note
 

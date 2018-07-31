@@ -38,7 +38,7 @@ description: >-
 
 
 
-#### STEP 6: 
+#### STEP 6 & COMPLETE: 
 
 1. Locate the firmware file by opening the file 'location icon'. 
 2. Once the file had been selected, you will be able to see the Series and Version of the file.

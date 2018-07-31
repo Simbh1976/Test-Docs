@@ -28,7 +28,7 @@ STEP 10: Click on ‘0 – Not Active’ link.
 
 STEP 11: Proceed to choose a Time Zone for this feature and click ‘Select’.
 
-STEP 12 & Complete: Proceed to click ‘Accept’ and the Buddy Mode feature will be enabled for that particular door.
+STEP 12 & COMPLETE: Proceed to click ‘Accept’ and the Buddy Mode feature will be enabled for that particular door.
 
 ## Quick Note
 

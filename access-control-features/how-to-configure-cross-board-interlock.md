@@ -34,9 +34,7 @@ STEP 12: Click on the chosen row and select option 8. The system will automatica
 
 STEP 13: Proceed to Output Relay Tab. On the row indicating ‘Interlock’, tick a checkbox that the checkbox on the relay column \(See note\).
 
-STEP 14: Click ‘Accept’ and 
+STEP 14 & COMPLETE: Click ‘Accept’ and the Control Panel will begin the configuration once the final interlock process is completed.
 
-## Complete
 
-The Control Panel will begin the configuration once the final interlock process is completed.
 

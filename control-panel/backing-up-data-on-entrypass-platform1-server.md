@@ -66,13 +66,9 @@ description: This section will highlight the important steps on how to back up s
 
 
 
-#### STEP 11: Click ‘Backup’ to backup the Platform1 Server Data \(refer to Quick Note 5\).
+#### STEP 11 & COMPLETE: Click ‘Backup’ to backup the Platform1 Server Data \(refer to Quick Note 5\). Once backup is complete, a file with an extension of **'.bck'** will be created in the location that you have specified. 
 
 ![](../.gitbook/assets/untitled9b.png)
-
-## Complete
-
-Once backup is complete, a file with an extension of **'.bck'** will be created in the location that you have specified. 
 
 ## Quick Note
 

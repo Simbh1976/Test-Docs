@@ -14,5 +14,5 @@ STEP 3: Provide a name and description for the Access Group that is to be create
 
 STEP 4: Proceed to the ‘Door’ section and highlight the doors that you would like to add into the list. Click ‘Add’. Please note that a default Time Zone of 1 – 24 Hours Active.
 
-STEP 5: Click ‘Save and Close’.
+STEP 5 & COMPLETE: Click ‘Save and Close’.
 

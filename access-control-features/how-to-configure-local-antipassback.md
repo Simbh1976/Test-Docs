@@ -30,9 +30,7 @@ STEP 10: Proceed to tick ‘Antipassback’ to Yes.
 
 STEP 11: Click ‘Accept’.
 
-STEP 12: Click ‘Accept’. 
+STEP 12 & COMPLETE: Click ‘Accept’ and the Antipassback feature is now enabled for that staff.
 
-## Complete
 
-The Antipassback feature is now enabled for that staff.
 

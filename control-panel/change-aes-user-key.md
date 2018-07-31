@@ -18,13 +18,11 @@ description: This section will highlight the required steps to change AES User K
 
 
 
-#### STEP 3: Click ‘Accept’.
+#### STEP 3 & COMPLETE: Click ‘Accept’. Once the Accept button is clicked, AES encryption will take effect. 
 
 ![](../.gitbook/assets/untitled9a.png)
 
 
 
-## Complete
 
-Once the Accept button is clicked, AES encryption will take effect. 
 

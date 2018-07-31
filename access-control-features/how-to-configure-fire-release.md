@@ -20,11 +20,7 @@ STEP 6: Proceed to ‘Input Point Setting’. Navigate to the ‘Type’ column 
 
 STEP 7: Click on the input point and choose choice ‘4 – Fire Input’ \(see notes\).
 
-STEP 8: Proceed to click ‘Accept’. 
-
-## Complete
-
-The system will start configuring the Fire Release feature once all the process above is complete.
+STEP 8 & COMPLETE: Proceed to click ‘Accept’. The system will start configuring the Fire Release feature once all the process above is complete.
 
 ## Quick Note
 

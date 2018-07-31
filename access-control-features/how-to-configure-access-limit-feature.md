@@ -16,11 +16,7 @@ STEP 4: Proceed to ‘Bind to Zone’ and select the zone that you would like to
 
 STEP 5: Proceed to ‘Zone Setting’ Tab’ and set the ‘Maximum In-Count’ \(the maximum number of users within the selected zone\) number to your required value.
 
-STEP 6: Click ‘Accept’ when done and the selected readers will be configured with Access Limit Feature.
-
-## Complete
-
-Once all steps have been completed, the system will begin to keep track the number of staffs within a 'zone'.
+STEP 6 & COMPLETE: Click ‘Accept’ when done and the selected readers will be configured with Access Limit Feature. Once all steps have been completed, the system will begin to keep track the number of staffs within a 'zone'.
 
 ## Quick Note
 

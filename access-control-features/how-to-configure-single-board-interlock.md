@@ -14,9 +14,7 @@ STEP 3: Proceed to ‘Controller Setting’. Tick on the checkbox ‘Enabled Int
 
 STEP 4: Proceed to ‘Door Setting’. Click ‘Enable Interlock’ on the doors that you would like to have the interlock function.
 
-STEP 5: Click ‘Accept’. 
+STEP 5 & COMPLETE: Click ‘Accept’. The interlock function will be enabled for the doors that had been marked for interlocking purpose.
 
-## Complete
 
-The interlock function will be enabled for the doors that had been marked for interlocking purpose.
 

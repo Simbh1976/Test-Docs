@@ -16,9 +16,7 @@ STEP 4: Click the green ‘+’ button and a choice of doors will be presented.
 
 STEP 5: Tick the doors that you would like to automatically unlock in the event the Fire trigger is triggered. Press ‘Accept’.
 
-STEP 6: Click ‘Save and Close’.
+STEP 6 & COMPLETE: Click ‘Save and Close’. A Fire Release group will be created in this list. This group is required for the following section in configuring Fire Release Feature.
 
-## Complete
 
-A Fire Release group will be created in this list. This group is required for the following section in configuring Fire Release Feature.
 

@@ -16,9 +16,7 @@ STEP 4: Return to Control Panel and click ‘Controller’. Choose the Control P
 
 STEP 5: Proceed to ‘Controller Setting’ and click on ‘Global Antipassback Group’. Choose the group that you have created earlier. Click ‘Select’ and proceed to next step.
 
-STEP 6: For this step, follow and complete instruction from 5.3 How to configure Local Antipassback. 
+STEP 6 & COMPLETE: For this step, follow and complete instruction from 5.3 How to configure Local Antipassback. Once this process is completed, the Control Panel will now be part of Global Antipassback group.
 
-## Complete
 
-Once this process is completed, the Control Panel will now be part of Global Antipassback group.
 
