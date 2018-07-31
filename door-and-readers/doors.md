@@ -6,9 +6,11 @@ description: >-
 
 # Doors
 
-### Door \(Image\)
+## Door \(Image\)
 
 ![](../.gitbook/assets/untitled4a.png)
+
+## List of Parameters
 
 ### 1. Name 
 
@@ -151,9 +153,9 @@ Scenario 3
 4. EM Lock time will follow 'Open Time' \(30 Seconds\). The status of EM Lock at this time is still UNLOCKED.
 5. Door STAYED OPEN after 30 seconds. EM Lock will re-energize. Alarm will be triggered with the message 'Door is left open'. 
 
-#### 26. Door Sensor Delay 
+### 26. Door Sensor Delay 
 
 This parameter will enable you to set a ‘delay’ in registering of doors’ open/close status within EntryPass Platform1 Server Standard Edition. The time period is measured in ‘units’ i.e. 1 unit \(0.1 Seconds\) while maximum units is at 255 \(approx.. 14 seconds\). When an event happen e.g. a door being forced open, that event reporting will be delayed hence, the triggering of alarm will also be delayed by the number of units that had been set.
 
-#### 27. Authorisation Lock Release
+### 27. Authorisation Lock Release
 

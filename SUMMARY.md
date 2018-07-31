@@ -16,4 +16,5 @@
   * [How to restore data on Platform1 Server](control-panel/how-to-restore-data-on-platform1-server.md)
 * [Door & Readers](door-and-readers/README.md)
   * [Doors](door-and-readers/doors.md)
+  * [Readers](door-and-readers/readers.md)
 
