@@ -18,7 +18,7 @@ description: This section will highlight the steps to configure Time Zone featur
 
 
 
-#### STEP 3 & Complete
+#### STEP 3 & COMPLETE
 
 1. Proceed to key in the description of the Time Zone. 
 2. Click on the link to fill in the **‘Time-Set’**. 

@@ -18,7 +18,7 @@ description: This section will highlight the steps to configure Time Set feature
 
 ### 
 
-#### STEP 3 & Complete
+#### STEP 3 & COMPLETE
 
 1. Proceed to key in the name and provide a description to the Time Zone.
 2. Next, key in the time set intervals \(hourly intervals\). You can provide up to 3 different time intervals within 1 Time Set.

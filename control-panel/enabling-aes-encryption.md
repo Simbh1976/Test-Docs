@@ -18,15 +18,11 @@ description: This section will highlight the required steps to Enable AES Encryp
 
 
 
-#### STEP 3: Click ‘Advanced Setting Tab’ and tick ‘Use AES Encryption’. Click ‘Accept’.
+#### STEP 3 & COMPLETE: Click ‘Advanced Setting Tab’ and tick ‘Use AES Encryption’. Click ‘Accept’. The Platform1 Server will begin to update the Control Panel to use AES Encryption.
 
 ![](../.gitbook/assets/untitled7b.png)
 
-## Complete
-
-The Platform1 Server will begin to update the Control Panel to use AES Encryption.
-
-## Alternative AES Enabling process
+## Alternative method to enable AES encryption
 
 During setting up of Control Panel using **‘Add New Controller Wizard’**, AES encryption can be enabled during this phase. Please refer to manual: 
 

@@ -37,15 +37,9 @@ description: >-
 
 
 
-#### STEP 4: Proceed to ‘Reader’ tab and a name for 'Reader Name' and 'Description'. To complete the setting, click 'Save and Close'. 
+#### STEP 5 & COMPLETE: Proceed to ‘Reader’ tab and a name for 'Reader Name' and 'Description'. To complete the setting, click 'Save and Close'. The Platform1 Server will begin to configure the control panel into its device listing.
 
 ![](../.gitbook/assets/untitled5a.png)
-
-
-
-## Complete
-
-The Platform1 Server will begin to configure the control panel into its device listing.
 
 ## Quick Note
 

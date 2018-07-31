@@ -28,4 +28,5 @@
   * [How to configure Fire Release](access-control-features/how-to-configure-fire-release.md)
   * [How to configure Access Limit feature](access-control-features/how-to-configure-access-limit-feature.md)
   * [How to configure Buddy Mode](access-control-features/how-to-configure-buddy-mode.md)
+  * [How to configure Roll Call Group](access-control-features/how-to-configure-roll-call-group.md)
 
