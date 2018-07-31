@@ -18,17 +18,14 @@ description: This section will highlight the steps to configure Time Zone featur
 
 
 
-#### STEP 3
+#### STEP 3 & Complete
 
 1. Proceed to key in the description of the Time Zone. 
 2. Click on the link to fill in the **‘Time-Set’**. 
 3. Click **‘Save and Close’** when done.
+4. A new Time Zone will appear from the Time Zone list. Once Save and Close is pressed, the system will send the information required to the control panel.
 
 ![](../.gitbook/assets/untitled3a%20%283%29.png)
 
 
-
-## Complete
-
-A new Time Zone will appear from the Time Zone list. Once Save and Close is pressed, the system will send the information required to the control panel.
 
