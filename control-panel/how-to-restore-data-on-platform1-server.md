@@ -26,13 +26,11 @@ description: >-
 
 
 
-#### STEP 4: On the ‘Options’ section, choose to restore the data to Application Path or Other Path. Click ‘Restore’ when ready.
+#### STEP 4: On the ‘Options’ section, choose to restore the data to Application Path or Other Path. Click ‘Restore’ when ready. Once the restoration process is complete, you shall be able to see various information that you have backed up had been restored to the server. 
 
 ![](../.gitbook/assets/untitled3b%20%281%29.png)
 
-## Complete
 
-Once the restoration process is complete, you shall be able to see various information that you have backed up had been restored to the server. 
 
 ## Quick Note
 
