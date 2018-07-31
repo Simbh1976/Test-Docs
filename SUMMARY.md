@@ -17,4 +17,8 @@
 * [Door & Readers](door-and-readers/README.md)
   * [Doors](door-and-readers/doors.md)
   * [Readers](door-and-readers/readers.md)
+* [Access Control Features](access-control-features/README.md)
+  * [How to configure Access Level](access-control-features/how-to-configure-access-level.md)
+  * [How to configure Access Group](access-control-features/how-to-configure-access-group.md)
+  * [How to configure Local Antipassback](access-control-features/how-to-configure-local-antipassback.md)
 
