@@ -23,4 +23,6 @@
   * [How to configure Local Antipassback](access-control-features/how-to-configure-local-antipassback.md)
   * [How to configure Global Antipassback](access-control-features/how-to-configure-global-antipassback.md)
   * [How to configure Single Board Interlock](access-control-features/how-to-configure-single-board-interlock.md)
+  * [How to configure Cross Board Interlock](access-control-features/how-to-configure-cross-board-interlock.md)
+  * [How to configure Fire Release Group](access-control-features/how-to-configure-fire-release-group.md)
 
