@@ -29,4 +29,9 @@
   * [How to configure Access Limit feature](access-control-features/how-to-configure-access-limit-feature.md)
   * [How to configure Buddy Mode](access-control-features/how-to-configure-buddy-mode.md)
   * [How to configure Roll Call Group](access-control-features/how-to-configure-roll-call-group.md)
+* [Users](users/README.md)
+  * [How to set up Staff](users/how-to-set-up-staff.md)
+  * [How to set up users / staff from unknown cards](users/how-to-set-up-users-staff-from-unknown-cards.md)
+  * [How to export staff data](users/how-to-export-staff-data.md)
+  * [How to create User Defined Field](users/how-to-create-user-defined-field.md)
 
