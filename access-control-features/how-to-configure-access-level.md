@@ -20,7 +20,7 @@ description: This section will highlight the steps in configuring Access Level
 
 #### STEP 3: Provide a description for the Access Level that is to be created.
 
-![](../.gitbook/assets/untitled3a%20%285%29.png)
+![](../.gitbook/assets/untitled3a%20%286%29.png)
 
 
 

@@ -25,7 +25,7 @@ description: This section will highlight the steps to configure Time Zone featur
 3. Click **‘Save and Close’** when done.
 4. A new Time Zone will appear from the Time Zone list. Once Save and Close is pressed, the system will send the information required to the control panel.
 
-![](../.gitbook/assets/untitled3a%20%283%29.png)
+![](../.gitbook/assets/untitled3a%20%284%29.png)
 
 
 

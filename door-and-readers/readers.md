@@ -4,7 +4,7 @@ This section will be covering general aspects and explanation on the various set
 
 ## Reader \(Image\)
 
-![](../.gitbook/assets/untitled3a%20%284%29.png)
+![](../.gitbook/assets/untitled3a%20%285%29.png)
 
 ## List of Parameters
 
