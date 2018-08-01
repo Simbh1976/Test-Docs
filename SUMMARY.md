@@ -39,4 +39,9 @@
   * [How to show staff details on Online Transaction Screen](event-visualisation/how-to-show-staff-details-on-online-transaction-screen.md)
   * [How to configure alarms](event-visualisation/how-to-configure-alarms.md)
   * [How to configure Floor Plan Tab](event-visualisation/how-to-configure-floor-plan-tab.md)
+* [Time Attendance](time-attendance/README.md)
+  * [How to configure Time Attendance on Doors](time-attendance/how-to-configure-time-attendance-on-doors.md)
+  * [How to create Normal Shift in Time Attendance](time-attendance/how-to-create-normal-shift-in-time-attendance.md)
+  * [How to create Roster Shift in Time Attendance](time-attendance/how-to-create-roster-shift-in-time-attendance.md)
+  * [How to edit Staff Roster Shifts in Time Attendance](time-attendance/how-to-edit-staff-roster-shifts-in-time-attendance.md)
 
