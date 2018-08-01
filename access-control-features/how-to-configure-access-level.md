@@ -8,7 +8,13 @@ description: This section will highlight the steps in configuring Access Level
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click ‘Access Level’.
 
+![](../.gitbook/assets/untitled1a%20%289%29.png)
+
+
+
 #### STEP 2: Click ‘Add \(F2\)’.
+
+![](../.gitbook/assets/untitled2.png)
 
 #### STEP 3: Provide a description for the Access Level that is to be created.
 
