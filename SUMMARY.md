@@ -34,4 +34,9 @@
   * [How to set up users / staff from unknown cards](users/how-to-set-up-users-staff-from-unknown-cards.md)
   * [How to export staff data](users/how-to-export-staff-data.md)
   * [How to create User Defined Field](users/how-to-create-user-defined-field.md)
+* [Event Visualisation](event-visualisation/README.md)
+  * [How to detach tabs from the main tab screen](event-visualisation/how-to-detach-tabs-from-the-main-tab-screen.md)
+  * [How to show staff details on Online Transaction Screen](event-visualisation/how-to-show-staff-details-on-online-transaction-screen.md)
+  * [How to configure alarms](event-visualisation/how-to-configure-alarms.md)
+  * [How to configure Floor Plan Tab](event-visualisation/how-to-configure-floor-plan-tab.md)
 
