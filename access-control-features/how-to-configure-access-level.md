@@ -8,7 +8,7 @@ description: This section will highlight the steps in configuring Access Level
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click ‘Access Level’.
 
-![](../.gitbook/assets/untitled1a%20%289%29.png)
+![](../.gitbook/assets/untitled1a%20%2810%29.png)
 
 
 
