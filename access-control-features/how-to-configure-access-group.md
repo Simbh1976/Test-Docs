@@ -14,7 +14,7 @@ description: This section will highlight the steps needed to configure Access Gr
 
 #### STEP 2: Click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled2%20%286%29.png)
+![](../.gitbook/assets/untitled2%20%287%29.png)
 
 
 
@@ -47,5 +47,5 @@ STEP 6: A warning prompt will appear highlight whether to Assign this Access Gro
 
 #### STEP 7 & COMPLETE: A new Access Group will appear from the list.
 
-![](../.gitbook/assets/untitled7.png)
+![](../.gitbook/assets/untitled7%20%281%29.png)
 

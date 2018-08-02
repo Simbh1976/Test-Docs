@@ -18,19 +18,19 @@ description: >-
 
 #### STEP 2: Select on the Control Panel that you would like to enable the feature. Click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled2%20%284%29.png)
+![](../.gitbook/assets/untitled2%20%285%29.png)
 
 
 
 #### STEP 3: Proceed to ‘Door Setting’ and scroll down to ‘Antipassback Time Zone’.
 
-![](../.gitbook/assets/untitled3%20%282%29.png)
+![](../.gitbook/assets/untitled3%20%283%29.png)
 
 
 
 #### STEP 4: Select the ‘Time Zone’ that you would like to have the Antipassback feature to be active. Click ‘Select’ when done.
 
-![](../.gitbook/assets/untitled4%20%283%29.png)
+![](../.gitbook/assets/untitled4%20%284%29.png)
 
 
 
@@ -48,25 +48,25 @@ description: >-
 
 #### STEP 7: List the name of the staff either through Filter View or Classic View. Once the list is listed out, select the staff that you would like to enable Antipassback feature.
 
-![](../.gitbook/assets/untitled7%20%283%29.png)
+![](../.gitbook/assets/untitled7%20%284%29.png)
 
 
 
 #### STEP 8: Proceed to ‘Card Data’ and double click on the listed card number that you have assigned to the staff.
 
-![](../.gitbook/assets/untitled8%20%281%29.png)
+![](../.gitbook/assets/untitled8%20%282%29.png)
 
 
 
 #### STEP 9: Proceed to tick ‘Antipassback’ to Yes.
 
-![](../.gitbook/assets/untitled9%20%281%29.png)
+![](../.gitbook/assets/untitled9%20%282%29.png)
 
 
 
 #### STEP 10: Click ‘Accept’.
 
-![](../.gitbook/assets/untitled11.png)
+![](../.gitbook/assets/untitled11%20%281%29.png)
 
 #### STEP 11 & COMPLETE: Click ‘Accept’ and the Antipassback feature is now enabled for that staff.
 
