@@ -14,9 +14,11 @@ description: >-
 
 
 
-STEP 2: Proceed to ‘Control Panel Tab’ and click on ‘System’ to continue.
+#### STEP 2: Proceed to ‘Control Panel Tab’ and click on ‘System’ to continue. Next, click Interlock Group.
 
-STEP 3: Click Interlock Group.
+![](../.gitbook/assets/untitled1%20%288%29.png)
+
+
 
 STEP 4: Click ‘Add \(F2\)’.
 
