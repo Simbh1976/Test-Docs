@@ -24,7 +24,7 @@ STEP 5: Provide a Name and Description of the Interlock Group that is to be crea
 
 STEP 6: Return to ‘Control Panel’ Tab. Click ‘Controller’.
 
-STEP 7: Choose the Control Panel \(minimum 2 Control Panels\) that you would like to add into the Interlock Group.
+STEP 7: Choose the Control Panel that you would like to add into the Interlock Group \(refer to Quick Note 1\).
 
 STEP 8: Click ‘Cross board Interlock Group’ on ‘Undefined’ link.
 
@@ -39,6 +39,10 @@ STEP 12: Click on the chosen row and select option 8. The system will automatica
 STEP 13: Proceed to Output Relay Tab. On the row indicating ‘Interlock’, tick a checkbox that the checkbox on the relay column \(See note\).
 
 STEP 14 & COMPLETE: Click ‘Accept’ and the Control Panel will begin the configuration once the final interlock process is completed.
+
+Quick Note
+
+1. To incorporate more control panels into the Cross Board Interlock, repeat STEP 2 onwards on different Control Panel and select the same group \(as per STEP 9\) to be included into the Cross Board Group.
 
 
 
