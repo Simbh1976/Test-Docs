@@ -8,7 +8,11 @@ description: >-
 
 ## List of Steps
 
-STEP 1: Before commencing 5.5.2, please complete the process for 5.5.1 How to configure Single Board Interlock Feature. Once complete, proceed to STEP 2.
+#### STEP 1: Before commencing, please complete the process for 'How to configure Single Board Interlock Feature'. Once complete, proceed to STEP 2.
+
+{% page-ref page="how-to-configure-single-board-interlock.md" %}
+
+
 
 STEP 2: Proceed to ‘Control Panel Tab’ and click on ‘System’ to continue.
 
