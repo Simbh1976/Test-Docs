@@ -14,13 +14,13 @@ description: This page will highlight the necessary steps to configure Interlock
 
 #### STEP 2: Choose the Control Panel that you would like to enable Interlock Feature. Click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled2%20%2811%29.png)
+![](../.gitbook/assets/untitled2%20%2812%29.png)
 
 
 
 #### STEP 3: Proceed to ‘Controller Setting’. Tick on the checkbox ‘Enabled Interlock’.
 
-![](../.gitbook/assets/untitled3%20%283%29.png)
+![](../.gitbook/assets/untitled3%20%284%29.png)
 
 
 
@@ -32,7 +32,7 @@ description: This page will highlight the necessary steps to configure Interlock
 
 #### STEP 5 & COMPLETE: Click ‘Accept’. The interlock function will be enabled for the doors that had been marked for interlocking purpose.
 
-![](../.gitbook/assets/untitled5%20%2810%29.png)
+![](../.gitbook/assets/untitled5%20%2811%29.png)
 
 
 
