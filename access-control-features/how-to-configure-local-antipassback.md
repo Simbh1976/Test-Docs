@@ -18,19 +18,19 @@ description: >-
 
 #### STEP 2: Select on the Control Panel that you would like to enable the feature. Click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled2%20%287%29.png)
+![](../.gitbook/assets/untitled2%20%288%29.png)
 
 
 
 #### STEP 3: Proceed to ‘Door Setting’ and scroll down to ‘Antipassback Time Zone’.
 
-![](../.gitbook/assets/untitled3%20%284%29.png)
+![](../.gitbook/assets/untitled3%20%286%29.png)
 
 
 
 #### STEP 4: Select the ‘Time Zone’ that you would like to have the Antipassback feature to be active. Click ‘Select’ when done.
 
-![](../.gitbook/assets/untitled4%20%285%29.png)
+![](../.gitbook/assets/untitled4%20%287%29.png)
 
 
 

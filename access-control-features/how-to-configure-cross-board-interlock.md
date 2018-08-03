@@ -16,13 +16,13 @@ description: >-
 
 #### STEP 2: Proceed to ‘Control Panel Tab’ and click on ‘System’ to continue. Next, click 'Interlock Group'.
 
-![](../.gitbook/assets/untitled1%20%2810%29.png)
+![](../.gitbook/assets/untitled1%20%2811%29.png)
 
 
 
 #### STEP 3: Click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled2%20%285%29.png)
+![](../.gitbook/assets/untitled2%20%286%29.png)
 
 
 
