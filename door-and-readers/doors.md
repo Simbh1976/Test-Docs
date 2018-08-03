@@ -101,7 +101,7 @@ This parameter will enable you to choose the group of doors to be released \(sec
 This parameter will enable you to toggle the security mode in either ‘Low’ or ‘High’ settings. This toggle will affect the ‘EXIT Reader’ only and below would be a list of functions that will be affected by this setting:
 
 | Low Security Mode | High Security Mode |
-| --- | --- |
+| :--- | :--- |
 |  |  |
 
 ### 23. Keyed Card + Pin Time Zone 

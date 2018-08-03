@@ -18,7 +18,7 @@ description: >-
 
 #### STEP 2: Select on the Control Panel that you would like to enable the feature. Click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled2%20%286%29.png)
+![](../.gitbook/assets/untitled2%20%287%29.png)
 
 
 
@@ -36,13 +36,13 @@ description: >-
 
 #### STEP 5: Click ‘Accept’.
 
-![](../.gitbook/assets/untitled5%20%286%29.png)
+![](../.gitbook/assets/untitled5%20%287%29.png)
 
 ### Staff Setting
 
 #### STEP 6: Return to ‘Control Panel’ and click ‘Company’. Proceed to ‘Staff’.
 
-![](../.gitbook/assets/untitled6%20%286%29.png)
+![](../.gitbook/assets/untitled6%20%287%29.png)
 
 
 

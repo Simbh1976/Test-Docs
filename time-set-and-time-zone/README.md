@@ -54,7 +54,7 @@ To illustrate the above concept, we shall take a look at some of the setting sce
 {% endhint %}
 
 | Time Zone | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-| --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Time Set | **TS 2** | **TS 2** | **TS 2** | **TS 2** | **TS 2** | **TS 0** | **TS 0** |
 
 When the above setting is applied to a hardware \(eg. a reader\), any staff using the access card would experience the following:
@@ -75,11 +75,11 @@ When the above setting is applied to a hardware \(eg. a reader\), any staff usin
 {% endhint %}
 
 | **Hardware** Time Zone | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-| --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Time Set | **TS 2** | **TS 2** | **TS 2** | **TS 2** | **TS 2** | **TS 0** | **TS 0** |
 
 | **Feature** Time Zone | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-| --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Time Set | **TS 3** | **TS 3** | **TS 3** | **TS 3** | **TS 3** | **TS 0** | **TS 0** |
 
 When the above setting is applied to a hardware \(eg. a reader\) and feature \(Antipassback\), any staff using the access card would experience the following:
