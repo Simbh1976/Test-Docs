@@ -8,13 +8,13 @@ description: This section will highlight the steps needed to configure fire rele
 
 #### STEP 1: Proceed to ‘Control Panel Tab’. Click on ‘Fire Release Group’.
 
-![](../.gitbook/assets/untitled1%20%2810%29.png)
+![](../.gitbook/assets/untitled1%20%2811%29.png)
 
 
 
 #### STEP 2: Click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled2%20%285%29.png)
+![](../.gitbook/assets/untitled2%20%286%29.png)
 
 
 
@@ -33,7 +33,7 @@ If General option is chosen, once the Name and Description of the Fire Release G
 {% tab title="Specific" %}
 #### Click the green ‘+’ button and a choice of doors will be presented.
 
-![](../.gitbook/assets/untitled4.png)
+![](../.gitbook/assets/untitled4%20%281%29.png)
 
 #### 
 

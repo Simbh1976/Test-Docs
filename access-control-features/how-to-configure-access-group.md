@@ -8,13 +8,13 @@ description: This section will highlight the steps needed to configure Access Gr
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click ‘Access Group’.
 
-![](../.gitbook/assets/untitled1%20%289%29.png)
+![](../.gitbook/assets/untitled1%20%2810%29.png)
 
 
 
 #### STEP 2: Click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled2%20%2811%29.png)
+![](../.gitbook/assets/untitled2%20%2812%29.png)
 
 
 
@@ -32,7 +32,7 @@ description: This section will highlight the steps needed to configure Access Gr
 
 #### STEP 5: Click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled5%20%286%29.png)
+![](../.gitbook/assets/untitled5%20%287%29.png)
 
 
 
@@ -47,5 +47,5 @@ STEP 6: A warning prompt will appear highlight whether to Assign this Access Gro
 
 #### STEP 7 & COMPLETE: A new Access Group will appear from the list.
 
-![](../.gitbook/assets/untitled7%20%281%29.png)
+![](../.gitbook/assets/untitled7%20%282%29.png)
 

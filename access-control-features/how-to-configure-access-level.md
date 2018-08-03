@@ -14,7 +14,7 @@ description: This section will highlight the steps in configuring Access Level
 
 #### STEP 2: Click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled2%20%281%29.png)
+![](../.gitbook/assets/untitled2%20%282%29.png)
 
 
 
@@ -26,7 +26,7 @@ description: This section will highlight the steps in configuring Access Level
 
 #### STEP 4: Proceed to the ‘Door’ section and highlight the doors that you would like to add into the list. Click ‘Add’. Please note that a default Time Zone of 1 – 24 Hours Active.
 
-![](../.gitbook/assets/untitled4%20%285%29.png)
+![](../.gitbook/assets/untitled4%20%286%29.png)
 
 
 

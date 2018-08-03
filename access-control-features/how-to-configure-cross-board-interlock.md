@@ -16,13 +16,13 @@ description: >-
 
 #### STEP 2: Proceed to ‘Control Panel Tab’ and click on ‘System’ to continue. Next, click 'Interlock Group'.
 
-![](../.gitbook/assets/untitled1%20%2811%29.png)
+![](../.gitbook/assets/untitled1%20%2812%29.png)
 
 
 
 #### STEP 3: Click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled2%20%286%29.png)
+![](../.gitbook/assets/untitled2%20%287%29.png)
 
 
 
@@ -34,19 +34,19 @@ description: >-
 
 #### STEP 5: Return to ‘Control Panel’ Tab. Click ‘Controller’.
 
-![](../.gitbook/assets/untitled4%20%283%29.png)
+![](../.gitbook/assets/untitled4%20%284%29.png)
 
 
 
 #### STEP 6: Choose the Control Panel that you would like to add into the Interlock Group \(refer to Quick Note 1\).
 
-![](../.gitbook/assets/untitled5%20%288%29.png)
+![](../.gitbook/assets/untitled5%20%289%29.png)
 
 
 
 #### STEP 7: Click ‘Cross board Interlock Group’ on ‘Undefined’ link.
 
-![](../.gitbook/assets/untitled6%20%288%29.png)
+![](../.gitbook/assets/untitled6%20%289%29.png)
 
 
 
@@ -58,13 +58,13 @@ description: >-
 
 #### STEP 9: Proceed to ‘Input Point Setting’.
 
-![](../.gitbook/assets/untitled8.png)
+![](../.gitbook/assets/untitled8%20%281%29.png)
 
 
 
 #### STEP 10: Select an input \(those which had not been occupied\) and proceed to ‘Type’ column.
 
-![](../.gitbook/assets/untitled9.png)
+![](../.gitbook/assets/untitled9%20%281%29.png)
 
 
 
