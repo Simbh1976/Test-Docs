@@ -26,7 +26,7 @@ description: >-
 
 
 
-#### STEP: Choose the type of card as per the section 'How to set up Staff' \(refer below\). Next, click the ‘Icon' \(beside ‘Accessibility’\) to add ‘Access Groups’ manually. 
+#### STEP: Choose the type of card to be assigned to the new staff. Refer to the section 'How to set up Staff' \(refer below\) on what type of card to be assigned. Next, click the ‘Icon' \(beside ‘Accessibility’\) to add ‘Access Groups’ manually. 
 
 {% page-ref page="how-to-set-up-staff.md" %}
 
