@@ -14,7 +14,7 @@ description: This page will highlight the necessary steps to configure Interlock
 
 #### STEP 2: Choose the Control Panel that you would like to enable Interlock Feature. Click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled2%20%2814%29.png)
+![](../.gitbook/assets/untitled2%20%2815%29.png)
 
 
 

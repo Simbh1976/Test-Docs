@@ -8,7 +8,7 @@ description: This section will highlight the steps needed to configure fire rele
 
 #### STEP 1: Proceed to ‘Control Panel Tab’. Click on ‘Controller’.
 
-![](../.gitbook/assets/untitled1%20%2810%29.png)
+![](../.gitbook/assets/untitled1%20%2811%29.png)
 
 
 
@@ -20,7 +20,7 @@ description: This section will highlight the steps needed to configure fire rele
 
 #### STEP 3: Click ‘Door Setting’ Tab. Scroll down to ‘Software Fire Release’ row. Tick on the checkbox. Proceed to ‘Fire Release Group’ and click on ‘undefined’.
 
-![](../.gitbook/assets/untitled3%20%2811%29.png)
+![](../.gitbook/assets/untitled3%20%2812%29.png)
 
 
 

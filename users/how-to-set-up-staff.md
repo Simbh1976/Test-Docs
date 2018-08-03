@@ -20,7 +20,7 @@ description: This section will highlight the necessary steps to set up staff
 
 #### STEP 3: Fill up the necessary details to create staff information. 
 
-![](../.gitbook/assets/untitled2%20%2813%29.png)
+![](../.gitbook/assets/untitled2%20%2814%29.png)
 
 
 
@@ -56,7 +56,7 @@ description: This section will highlight the necessary steps to set up staff
 
 #### STEP 9 & COMPLETE: Access card details will appear on the list of card numbers. Click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled7%20%288%29.png)
+![](../.gitbook/assets/untitled7%20%2810%29.png)
 
 ## Quick note
 
