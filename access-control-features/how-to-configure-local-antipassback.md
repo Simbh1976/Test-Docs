@@ -42,7 +42,7 @@ description: >-
 
 #### STEP 6: Return to ‘Control Panel’ and click ‘Company’. Proceed to ‘Staff’.
 
-![](../.gitbook/assets/untitled6%20%2810%29.png)
+![](../.gitbook/assets/untitled6%20%2811%29.png)
 
 
 
@@ -54,7 +54,7 @@ description: >-
 
 #### STEP 8: Proceed to ‘Card Data’ and double click on the listed card number that you have assigned to the staff.
 
-![](../.gitbook/assets/untitled8%20%289%29.png)
+![](../.gitbook/assets/untitled8%20%2810%29.png)
 
 
 

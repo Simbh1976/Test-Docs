@@ -40,7 +40,7 @@ This section will allow you to export data by **job title** \(by untick 'All' ch
 {% endtab %}
 
 {% tab title="Shift" %}
-![](../.gitbook/assets/untitled6%20%2812%29.png)
+![](../.gitbook/assets/untitled6%20%2813%29.png)
 
 This section will allow you to export data by **working shifts** \(by untick 'All' checkbox\) within an organisation.
 {% endtab %}
@@ -56,7 +56,7 @@ This section will allow you to export data by **working shifts** \(by untick 'Al
 
 #### STEP 4: Under the ‘Options – Export Format’ section, you can choose either to export the data in Text, MS Excel or CSV format.
 
-![](../.gitbook/assets/untitled8%20%288%29.png)
+![](../.gitbook/assets/untitled8%20%289%29.png)
 
 {% tabs %}
 {% tab title="Export by Text File" %}

@@ -46,7 +46,7 @@ description: >-
 
 #### STEP 7: Click ‘Cross board Interlock Group’ on ‘Undefined’ link.
 
-![](../.gitbook/assets/untitled6%20%2813%29.png)
+![](../.gitbook/assets/untitled6%20%2814%29.png)
 
 
 
