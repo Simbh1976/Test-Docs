@@ -8,7 +8,7 @@ description: This section will highlight the steps to configure Global Antipassb
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click on ‘System’ to continue. Click ‘Global Antipassback Group’.
 
-![](../.gitbook/assets/untitled1%20%288%29.png)
+![](../.gitbook/assets/untitled1%20%289%29.png)
 
 
 
@@ -32,13 +32,13 @@ description: This section will highlight the steps to configure Global Antipassb
 
 #### STEP 5: Choose the Control Panel that you would like to enable the Global Antipassback Feature.
 
-![](../.gitbook/assets/untitled5%20%285%29.png)
+![](../.gitbook/assets/untitled5%20%286%29.png)
 
 
 
 #### STEP 6: Proceed to ‘Controller Setting’ and click on ‘Global Antipassback Group’. 
 
-![](../.gitbook/assets/untitled6%20%288%29.png)
+![](../.gitbook/assets/untitled6%20%289%29.png)
 
 
 

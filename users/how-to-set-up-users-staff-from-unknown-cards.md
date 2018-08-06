@@ -10,13 +10,13 @@ description: >-
 
 #### STEP 1: Locate the transactions that display 'Unknown Card Number \(Entry/Exit\)'.
 
-![](../.gitbook/assets/untitled1%20%289%29.png)
+![](../.gitbook/assets/untitled1%20%2810%29.png)
 
 
 
 #### STEP 2: Right click on the transaction showing ‘Unknown Card Number \(Entry/Exit\)’.
 
-![](../.gitbook/assets/untitled2%20%2812%29.png)
+![](../.gitbook/assets/untitled2%20%2813%29.png)
 
 
 
@@ -30,7 +30,7 @@ description: >-
 
 {% page-ref page="how-to-set-up-staff.md" %}
 
-![](../.gitbook/assets/untitled4%20%2813%29.png)
+![](../.gitbook/assets/untitled4%20%2814%29.png)
 
 
 

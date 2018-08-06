@@ -8,7 +8,7 @@ description: This section will highlight the necessary steps to configure Roll C
 
 #### STEP 1: Proceed to Control Panel Tab and click on ‘System’. Next, click ‘Roll Call Group’.
 
-![](../.gitbook/assets/untitled1%20%2813%29.png)
+![](../.gitbook/assets/untitled1%20%2814%29.png)
 
 
 
@@ -26,13 +26,13 @@ description: This section will highlight the necessary steps to configure Roll C
 
 #### STEP 4: Return to Control Panel Tab and proceed to ‘Controller’.
 
-![](../.gitbook/assets/untitled4%20%288%29.png)
+![](../.gitbook/assets/untitled4%20%289%29.png)
 
 
 
 #### STEP 5: Select the desired Control Panel that you would like to enable Roll Call feature. Click Edit \(F4\).
 
-![](../.gitbook/assets/untitled5%20%288%29.png)
+![](../.gitbook/assets/untitled5%20%289%29.png)
 
 
 
