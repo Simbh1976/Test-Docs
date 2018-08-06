@@ -16,7 +16,7 @@ description: >-
 
 #### STEP 2: Right click on the transaction showing ‘Unknown Card Number \(Entry/Exit\)’.
 
-![](../.gitbook/assets/untitled2%20%2811%29.png)
+![](../.gitbook/assets/untitled2%20%2812%29.png)
 
 
 
@@ -30,7 +30,7 @@ description: >-
 
 {% page-ref page="how-to-set-up-staff.md" %}
 
-![](../.gitbook/assets/untitled4%20%2812%29.png)
+![](../.gitbook/assets/untitled4%20%2813%29.png)
 
 
 
@@ -42,7 +42,7 @@ description: >-
 
 #### STEP 6: You will brought back to the add card screen. Proceed to untick ‘Antipassback’. Click ‘Ok’.
 
-![](../.gitbook/assets/untitled9%20%284%29.png)
+![](../.gitbook/assets/untitled9%20%285%29.png)
 
 
 
@@ -63,7 +63,7 @@ description: >-
 {% tab title="Assign card to this staff" %}
 #### If this card is to be assigned an existing staff, click on the checkbox and proceed to choose the staff from the pulldown menu. Click ‘Ok’ when done.
 
-![](../.gitbook/assets/untitled10%20%282%29.png)
+![](../.gitbook/assets/untitled10%20%284%29.png)
 {% endtab %}
 {% endtabs %}
 

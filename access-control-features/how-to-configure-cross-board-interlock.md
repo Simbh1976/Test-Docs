@@ -40,13 +40,13 @@ description: >-
 
 #### STEP 6: Choose the Control Panel that you would like to add into the Interlock Group \(refer to Quick Note 1\).
 
-![](../.gitbook/assets/untitled5%20%2811%29.png)
+![](../.gitbook/assets/untitled5%20%2812%29.png)
 
 
 
 #### STEP 7: Click ‘Cross board Interlock Group’ on ‘Undefined’ link.
 
-![](../.gitbook/assets/untitled6%20%2811%29.png)
+![](../.gitbook/assets/untitled6%20%2812%29.png)
 
 
 
@@ -76,7 +76,7 @@ description: >-
 
 #### STEP 13: Proceed to Output Relay Tab. On the row indicating ‘Interlock’, tick a checkbox that the checkbox on the relay column \(See Quick Note 2\). Click ‘Accept’ and the Control Panel will begin the configuration once the final interlock process is completed.
 
-![](../.gitbook/assets/untitled11%20%282%29.png)
+![](../.gitbook/assets/untitled11%20%284%29.png)
 
 ## Quick Note: 
 

@@ -20,7 +20,7 @@ description: This section will highlight the steps to configure Global Antipassb
 
 #### STEP 3: Proceed to provide a Name and Description to the Global Antipassback Group. Select the Antipassback Time Zone \(Antipassback TZ\). Click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled3%20%2813%29.png)
+![](../.gitbook/assets/untitled3%20%2814%29.png)
 
 
 
@@ -32,7 +32,7 @@ description: This section will highlight the steps to configure Global Antipassb
 
 #### STEP 5: Choose the Control Panel that you would like to enable the Global Antipassback Feature.
 
-![](../.gitbook/assets/untitled5%20%284%29.png)
+![](../.gitbook/assets/untitled5%20%285%29.png)
 
 
 
