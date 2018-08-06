@@ -8,7 +8,7 @@ description: This section will highlight the necessary steps to set up staff
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click ‘Company’ Menu. Proceed to click ‘Staff’. 
 
-![](../.gitbook/assets/untitled1%20%282%29.png)
+![](../.gitbook/assets/untitled1%20%283%29.png)
 
 
 

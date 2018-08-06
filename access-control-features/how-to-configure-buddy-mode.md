@@ -8,7 +8,7 @@ description: This section will highlight the steps needed to configure Buddy Mod
 
 #### STEP 1: Proceed to ‘Control Panel’ Tab and click on ‘Company’. Proceed to click ‘Staff’.
 
-![](../.gitbook/assets/untitled1%20%285%29.png)
+![](../.gitbook/assets/untitled1%20%286%29.png)
 
 
 

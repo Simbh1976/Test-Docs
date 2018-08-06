@@ -10,7 +10,7 @@ description: >-
 
 #### STEP 1: Locate the transactions that display 'Unknown Card Number \(Entry/Exit\)'.
 
-![](../.gitbook/assets/untitled1%20%288%29.png)
+![](../.gitbook/assets/untitled1%20%289%29.png)
 
 
 

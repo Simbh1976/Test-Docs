@@ -6,11 +6,37 @@ description: This section will highlight the necessary steps to export staff dat
 
 ## List of Steps
 
-STEP 1: Proceed to ‘Control Panel Tab’ and click on ‘Utilities’ Menu.
+#### STEP 1: Proceed to ‘Control Panel Tab’ and click on ‘Utilities’ Menu. Click ‘Export Staff’.
 
-STEP 2: Click ‘Export Staff’.
+![](../.gitbook/assets/untitled1.png)
 
-STEP 3: On the ‘Staff’ section under the ‘Staff’ Tab, you can have a choice of either exporting ‘a single staff’ data or ‘all staff data’. Untick the checkbox ‘All’ if you would like to export single User \(Staff\) data.
+
+
+#### STEP 2: On the ‘Staff’ section under the ‘Staff’ Tab, you will be presented with options to export staff data. Below would be a brief explanation on the options available. 
+
+{% tabs %}
+{% tab title="Staff" %}
+This section will allow you to export data by either:
+
+1. **Staff No**: This is where you can export individual staff \(by untick 'All' checkbox\) by their assigned staff number.
+2. **Card No**: This is where you can export individual staff \(by untick 'All' checkbox\) by their assigned Access Card number.
+3. **Name**: This is where you can export individual staff \(by untick 'All' checkbox\) by their name.
+{% endtab %}
+
+{% tab title="Department" %}
+This section will allow you to export data by **department** \(by untick 'All' checkbox\) within an organisation.
+{% endtab %}
+
+{% tab title="Job" %}
+This section will allow you to export data by **job title** \(by untick 'All' checkbox\) within an organisation.
+{% endtab %}
+
+{% tab title="Shift" %}
+This section will allow you to export data by **working shifts** \(by untick 'All' checkbox\) within an organisation.
+{% endtab %}
+{% endtabs %}
+
+STEP 3: 
 
 STEP 4: On ‘Fields Available’ section, click on the ‘Check’ mark if you would like to export all data fields OR tick on the individual checkboxes if you would like to individual data to be exported.
 
@@ -18,13 +44,10 @@ STEP 5: Under the ‘Options – Export Format’ section, you can choose either
 
 {% tabs %}
 {% tab title="Export by Text File" %}
-STEP I: \(Export by TEXT FILE\): If there is no requirement to change the Delimiter, leave this section as it is. Proceed to assign an export path by clicking on the ‘Open Folder’ icon.
-
-STEP II: \(Export by TEXT FILE\): Locate OR create a folder that you would like to export the file into. By default, the file name will be ‘Export’ and you can rename the file if you wish to do so.
-
-STEP III: \(Export by TEXT FILE\): By default, Single Line output format \(information will be written on horizontal basis\) will be the export choice. Untick this checkbox if you would like the data to be written in vertical format.
-
-STEP IV: \(Export by Text File\): The fixed field length is to specify the data within the file to be in a fixed position. Tick the checkbox if there is such requirement.
+1. If there is no requirement to change the Delimiter, leave this section as it is. Proceed to assign an export path by clicking on the ‘Open Folder’ icon.
+2. Locate OR create a folder that you would like to export the file into. By default, the file name will be ‘Export’ and you can rename the file if you wish to do so.
+3. By default, Single Line output format \(information will be written on horizontal basis\) will be the export choice. Untick this checkbox if you would like the data to be written in vertical format
+4. \(Export by Text File\): The fixed field length is to specify the data within the file to be in a fixed position. Tick the checkbox if there is such requirement.
 {% endtab %}
 
 {% tab title="Export by MS Excel" %}

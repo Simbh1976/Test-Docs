@@ -8,7 +8,7 @@ description: This section will highlight the steps needed to configure Access Li
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click on ‘Controller’.
 
-![](../.gitbook/assets/untitled1%20%281%29.png)
+![](../.gitbook/assets/untitled1%20%282%29.png)
 
 
 
