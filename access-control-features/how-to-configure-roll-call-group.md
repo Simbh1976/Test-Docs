@@ -8,7 +8,7 @@ description: This section will highlight the necessary steps to configure Roll C
 
 #### STEP 1: Proceed to Control Panel Tab and click on ‘System’. Next, click ‘Roll Call Group’.
 
-![](../.gitbook/assets/untitled1%20%2814%29.png)
+![](../.gitbook/assets/untitled1%20%2815%29.png)
 
 
 
@@ -26,7 +26,7 @@ description: This section will highlight the necessary steps to configure Roll C
 
 #### STEP 4: Return to Control Panel Tab and proceed to ‘Controller’.
 
-![](../.gitbook/assets/untitled4%20%289%29.png)
+![](../.gitbook/assets/untitled4%20%2811%29.png)
 
 
 

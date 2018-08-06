@@ -26,7 +26,7 @@ description: This section will highlight the steps to configure Global Antipassb
 
 #### STEP 4: Return to Control Panel and click ‘Controller’. 
 
-![](../.gitbook/assets/untitled4%20%282%29.png)
+![](../.gitbook/assets/untitled4%20%283%29.png)
 
 
 

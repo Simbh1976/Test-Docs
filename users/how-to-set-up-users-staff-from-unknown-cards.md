@@ -30,7 +30,7 @@ description: >-
 
 {% page-ref page="how-to-set-up-staff.md" %}
 
-![](../.gitbook/assets/untitled4%20%2814%29.png)
+![](../.gitbook/assets/untitled4%20%2816%29.png)
 
 
 

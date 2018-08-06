@@ -8,7 +8,7 @@ description: This section will highlight the steps needed to configure fire rele
 
 #### STEP 1: Proceed to ‘Control Panel Tab’. Click on ‘Controller’.
 
-![](../.gitbook/assets/untitled1%20%2813%29.png)
+![](../.gitbook/assets/untitled1%20%2814%29.png)
 
 
 
@@ -26,7 +26,7 @@ description: This section will highlight the steps needed to configure fire rele
 
 #### STEP 4: Choose the Fire Release Group that was created earlier. Click ‘Select’.
 
-![](../.gitbook/assets/untitled4%20%2813%29.png)
+![](../.gitbook/assets/untitled4%20%2815%29.png)
 
 
 

@@ -2,13 +2,27 @@
 
 ## List of Steps
 
-STEP 1: Proceed to any of the tabs listed and click on that tab.
+#### STEP 1: Proceed to any of the tabs listed and click on that tab.
 
-STEP 2: Click the icon ‘Docked’.
+![](../.gitbook/assets/untitled1%20%2813%29.png)
 
-STEP 3: Once the icon is clicked, green ‘numbers’ will appear on the monitor identifying the monitor numbers.
 
-STEP 4: Scroll down to the desired monitor number and click on it.
+
+#### STEP 2: Click the icon ‘Docked’.
+
+![](../.gitbook/assets/untitled4%20%286%29.png)
+
+
+
+#### STEP 3: Once the 'Docked' icon is clicked, green ‘numbers’ will appear on the monitor identifying the monitor numbers.
+
+![](../.gitbook/assets/untitled5%20%2812%29.png)
+
+
+
+#### STEP 4: Scroll down to the desired monitor number and click on it.
+
+
 
 STEP 5 & COMPLETE: The tab will be detached from the main monitor and will be displayed on the monitor which you have chosen to detach to.
 

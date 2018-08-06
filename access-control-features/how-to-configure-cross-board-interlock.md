@@ -16,7 +16,7 @@ description: >-
 
 #### STEP 2: Proceed to ‘Control Panel Tab’ and click on ‘System’ to continue. Next, click 'Interlock Group'.
 
-![](../.gitbook/assets/untitled1%20%2817%29.png)
+![](../.gitbook/assets/untitled1%20%2818%29.png)
 
 
 
@@ -34,13 +34,13 @@ description: >-
 
 #### STEP 5: Return to ‘Control Panel’ Tab. Click ‘Controller’.
 
-![](../.gitbook/assets/untitled4%20%284%29.png)
+![](../.gitbook/assets/untitled4%20%285%29.png)
 
 
 
 #### STEP 6: Choose the Control Panel that you would like to add into the Interlock Group \(refer to Quick Note 1\).
 
-![](../.gitbook/assets/untitled5%20%2813%29.png)
+![](../.gitbook/assets/untitled5%20%2814%29.png)
 
 
 

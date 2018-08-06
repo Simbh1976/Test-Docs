@@ -30,13 +30,13 @@ description: >-
 
 #### STEP 4: Select the ‘Time Zone’ that you would like to have the Antipassback feature to be active. Click ‘Select’ when done.
 
-![](../.gitbook/assets/untitled4%20%2812%29.png)
+![](../.gitbook/assets/untitled4%20%2814%29.png)
 
 
 
 #### STEP 5: Click ‘Accept’.
 
-![](../.gitbook/assets/untitled5%20%2812%29.png)
+![](../.gitbook/assets/untitled5%20%2813%29.png)
 
 ### Staff Setting
 

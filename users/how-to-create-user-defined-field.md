@@ -26,7 +26,7 @@ description: This section will highlight the necessary steps to create User Defi
 
 #### STEP 4: To view the additional information that had been created, return to Control Panel Tab and click 'Company Menu. Next, click 'Staff' icon. 
 
-![](../.gitbook/assets/untitled4%20%287%29.png)
+![](../.gitbook/assets/untitled4%20%289%29.png)
 
 
 

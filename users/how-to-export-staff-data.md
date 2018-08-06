@@ -28,7 +28,7 @@ This section will allow you to export data by either:
 {% endtab %}
 
 {% tab title="Department" %}
-![](../.gitbook/assets/untitled4%20%288%29.png)
+![](../.gitbook/assets/untitled4%20%2810%29.png)
 
 This section will allow you to export data by **department** \(by untick 'All' checkbox\) within an organisation.
 {% endtab %}
