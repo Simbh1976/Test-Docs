@@ -45,5 +45,5 @@ If General option is chosen, once the Name and Description of the Fire Release G
 
 #### STEP 4 & COMPLETE: Click ‘Save and Close’. A Fire Release group will be created in this list. This group is required for the following section in configuring Fire Release Feature.
 
-![](../.gitbook/assets/untitled6%20%283%29.png)
+![](../.gitbook/assets/untitled6%20%285%29.png)
 

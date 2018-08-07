@@ -26,7 +26,7 @@ description: This section will highlight the necessary steps to configure Roll C
 
 #### STEP 4: Return to Control Panel Tab and proceed to ‘Controller’.
 
-![](../.gitbook/assets/untitled4%20%2812%29.png)
+![](../.gitbook/assets/untitled4%20%2813%29.png)
 
 
 
@@ -38,7 +38,7 @@ description: This section will highlight the necessary steps to configure Roll C
 
 #### STEP 6: Proceed to ‘Door Setting’ tab. Scroll to locate Roll Call Reader and click on the door that you would like to enable Roll Call feature. Next, proceed to ‘Roll Call Group’ and click on ‘Undefined’.
 
-![](../.gitbook/assets/untitled6%20%284%29.png)
+![](../.gitbook/assets/untitled6%20%286%29.png)
 
 
 

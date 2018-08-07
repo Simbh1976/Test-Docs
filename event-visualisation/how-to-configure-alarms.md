@@ -32,29 +32,63 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 {% endtab %}
 
 {% tab title="3. Priority" %}
-![](../.gitbook/assets/untitled4%20%283%29.png)
+#### Here, you can set the alarm according to your required priority from 'Lowest' to 'Highest'. By default, all settings are at 'Normal'. 
 
-Here, you can set the alarm according to your required priority from 'Lowest' to 'Highest'. Depending on the setting for the alarm, when an event had been triggered, it will showcase itself in the 'Alarm List' according to it's level as shown below.
+![](../.gitbook/assets/untitled4%20%286%29.png)
+
+
+
+#### Depending on the priority setting for the alarm, when an event had been triggered, it will showcase itself in the 'Alarm List' according to it's level as shown below.
 
 ![](../.gitbook/assets/untitled5%20%285%29.png)
+{% endtab %}
+
+{% tab title="4. Instructions" %}
+#### Under this section, you can type the necessary instructions into the instruction box which is intended for Security Personnel view when an alarm event had been triggered. 
+
+![](../.gitbook/assets/untitled6%20%284%29.png)
+{% endtab %}
+
+{% tab title="5. Comments" %}
+#### Under Comments, you can prepare a set of ‘standard’ replies that can used by the security personnel to input replies in the event an alarm is triggered.
+
+![](../.gitbook/assets/untitled7%20%2811%29.png)
+{% endtab %}
+
+{% tab title="6. Sound" %}
+#### STEP I: The ‘Sound’ section will allow you to record 'Instructions' \(like no.4\) in voice format. You can either upload wave files \(pre-recorded messages\) OR record them directly from the PC \(the microphone must be enabled\). To start recording, click the red ‘Record’ button.
+
+![](../.gitbook/assets/untitled8%20%281%29.png)
+
+
+
+#### STEP II: Provide a file name for the voice file and click ‘Save’ when done.
+
+![](../.gitbook/assets/untitled9%20%283%29.png)
+
+
+
+#### STEP III: Click ‘Ok’ and start recording your voice. 
+
+![](../.gitbook/assets/untitled10.png)
+
+
+
+#### STEP IV: Once complete recording, click the 'Stop' button.
+
+![](../.gitbook/assets/untitled11.png)
+
+
+
+#### STEP V: To listen back to the recording, click the 'Play' button. 
+
+![](../.gitbook/assets/untitled12%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 
 
 
-STEP 4: 
+#### STEP 4 & COMPLETE: When all is completed, click ‘Accept’ when done.
 
-STEP 5: \(Option\) Under ‘Priority’ row, you can set the order of importance from Lowest to Highest for any alarms. By default, the system set all alarms to ’Normal’ level.
-
-STEP 6: \(Option\) Under ‘Instructions’, you can type the necessary instructions into the instruction box.
-
-STEP 7: \(Option\) Under Comments, you can prepare a set of ‘Standard’ comments to be used by the security personnel in the event an alarm is triggered.
-
-STEP 8: \(Option\) Proceed to the ‘Sound’ section if you would like to record the instructions by voice. You can either upload the wave file OR record them directly from the PC \(the microphone must be enabled\). To record, click the red ‘Record’ button.
-
-STEP 9: Provide a file name for the voice file and click ‘Save’ when done.
-
-STEP 10: Click ‘Ok’ and start recording your voice. Once complete recording, click the stop button.
-
-STEP 11 & COMPLETE: Click ‘Accept’ when done.
+![](../.gitbook/assets/untitled13%20%281%29.png)
 

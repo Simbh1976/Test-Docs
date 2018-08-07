@@ -40,19 +40,19 @@ _\*\*\*\*_
 
 #### STEP 7: Select the Control Panel that you would like to enable the Buddy Mode. Click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled6%20%2812%29.png)
+![](../.gitbook/assets/untitled6%20%2815%29.png)
 
 
 
 #### STEP 8: Proceed to ‘Door Setting’ and scroll to ‘Buddy Mode Time Zone’. Choose the door that you would like to enable this Buddy Mode feature. Click on ‘0 – Not Active’ link.
 
-![](../.gitbook/assets/untitled7%20%282%29.png)
+![](../.gitbook/assets/untitled7%20%284%29.png)
 
 
 
 #### STEP 9: Proceed to choose a Time Zone for this feature and click ‘Select’.
 
-![](../.gitbook/assets/untitled8%20%283%29.png)
+![](../.gitbook/assets/untitled8%20%284%29.png)
 
 
 

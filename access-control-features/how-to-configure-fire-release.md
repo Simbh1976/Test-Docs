@@ -26,7 +26,7 @@ description: This section will highlight the steps needed to configure fire rele
 
 #### STEP 4: Choose the Fire Release Group that was created earlier. Click ‘Select’.
 
-![](../.gitbook/assets/untitled4%20%2816%29.png)
+![](../.gitbook/assets/untitled4%20%2817%29.png)
 
 
 
@@ -38,7 +38,7 @@ description: This section will highlight the steps needed to configure fire rele
 
 #### STEP 6 & COMPLETE: Proceed to click ‘Accept’. The system will start configuring the Fire Release feature once all the process above is complete.
 
-![](../.gitbook/assets/untitled6%20%286%29.png)
+![](../.gitbook/assets/untitled6%20%288%29.png)
 
 ## Quick Note
 

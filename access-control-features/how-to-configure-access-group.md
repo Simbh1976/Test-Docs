@@ -47,5 +47,5 @@ STEP 6: A warning prompt will appear highlight whether to Assign this Access Gro
 
 #### STEP 7 & COMPLETE: A new Access Group will appear from the list.
 
-![](../.gitbook/assets/untitled7%20%283%29.png)
+![](../.gitbook/assets/untitled7%20%285%29.png)
 
