@@ -14,7 +14,7 @@ description: This section will highlight the steps needed to configure Access Gr
 
 #### STEP 2: Click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled2%20%2818%29.png)
+![](../.gitbook/assets/untitled2%20%2819%29.png)
 
 
 
@@ -26,13 +26,13 @@ description: This section will highlight the steps needed to configure Access Gr
 
 #### STEP 4: Proceed to the ‘Door’ section and highlight the doors that you would like to add into the list. Click ‘Add’. Please note that a default Time Zone of 1 – 24 Hours Active.
 
-![](../.gitbook/assets/untitled4a%20%282%29.png)
+![](../.gitbook/assets/untitled4a%20%283%29.png)
 
 
 
 #### STEP 5: Click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled5%20%2811%29.png)
+![](../.gitbook/assets/untitled5%20%2812%29.png)
 
 
 

@@ -8,7 +8,7 @@ description: >-
 
 ## Door \(Image\)
 
-![](../.gitbook/assets/untitled4a.png)
+![](../.gitbook/assets/untitled4a%20%281%29.png)
 
 ## List of Parameters
 

@@ -27,13 +27,13 @@ description: >-
 3. Input the **'Network Address'** of the control panel \(see Quick Note 2\)
 4. Proceed to 'Controller Setting' and key in the **'Current Port No'** \(see Quick Note 2\)
 
-![](../.gitbook/assets/untitled3b%20%282%29.png)
+![](../.gitbook/assets/untitled3b%20%283%29.png)
 
 
 
 #### STEP 4: Proceed to ‘Door Setting’. Provide a name to ‘Doors’ and ‘Description’.
 
-![](../.gitbook/assets/untitled4a%20%283%29.png)
+![](../.gitbook/assets/untitled4a%20%284%29.png)
 
 
 

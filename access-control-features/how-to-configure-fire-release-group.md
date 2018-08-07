@@ -14,7 +14,7 @@ description: This section will highlight the steps needed to configure fire rele
 
 #### STEP 2: Click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled2%20%288%29.png)
+![](../.gitbook/assets/untitled2%20%289%29.png)
 
 
 

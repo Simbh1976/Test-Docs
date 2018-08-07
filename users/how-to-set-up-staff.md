@@ -20,7 +20,7 @@ description: This section will highlight the necessary steps to set up staff
 
 #### STEP 3: Fill up the necessary details to create staff information. 
 
-![](../.gitbook/assets/untitled2%20%2816%29.png)
+![](../.gitbook/assets/untitled2%20%2817%29.png)
 
 
 
@@ -32,13 +32,13 @@ description: This section will highlight the necessary steps to set up staff
 
 #### STEP 5: Input the card number provided by the vendor. Alternatively, click ‘Scan from Reader’. Proceed to a nearest access card reader and scan on the card reader to obtain the card number.
 
-![](../.gitbook/assets/untitled4%20%288%29.png)
+![](../.gitbook/assets/untitled4%20%289%29.png)
 
 
 
 #### STEP 6: Choose the type of card for the staff \(refer to Quick Note 1\). Click the ‘Icon' \(beside ‘Accessibility’\) to add ‘Access Groups’ manually. 
 
-![](../.gitbook/assets/untitled5%20%2815%29.png)
+![](../.gitbook/assets/untitled5%20%2816%29.png)
 
 
 

@@ -34,7 +34,7 @@ description: >-
 
 #### STEP 5: Tick on the Control Panel and click ‘Retrieve Firmware’ to check the firmware version and model that the Control Panel is currently under.
 
-![](../.gitbook/assets/untitled4a%20%281%29.png)
+![](../.gitbook/assets/untitled4a%20%282%29.png)
 
 
 
