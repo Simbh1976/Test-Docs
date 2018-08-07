@@ -20,7 +20,7 @@ description: This section will highlight the steps needed to configure Buddy Mod
 
 #### STEP 3: On the staff card, proceed to ‘Card Data’. On the list of allocated Access Card, double click on the card which you would like to enable the Buddy Mode.
 
-![](../.gitbook/assets/untitled3%20%2814%29.png)
+![](../.gitbook/assets/untitled3%20%2815%29.png)
 
 
 
@@ -40,7 +40,7 @@ _\*\*\*\*_
 
 #### STEP 7: Select the Control Panel that you would like to enable the Buddy Mode. Click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled6%20%2815%29.png)
+![](../.gitbook/assets/untitled6%20%2816%29.png)
 
 
 

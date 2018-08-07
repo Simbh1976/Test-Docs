@@ -14,7 +14,7 @@ description: This section will highlight the steps needed to configure Access Gr
 
 #### STEP 2: Click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled2%20%2819%29.png)
+![](../.gitbook/assets/untitled2%20%2820%29.png)
 
 
 

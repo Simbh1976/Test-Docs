@@ -30,7 +30,7 @@ Time Zone defines a **'Time Interval'** **\(‘Operational Hours’\)** for the 
 
 ## Infographic Illustration
 
-![Time Set within Time Zone](../.gitbook/assets/untitled1a%20%282%29.png)
+![Time Set within Time Zone](../.gitbook/assets/untitled1a%20%283%29.png)
 
 From the above illustration, we can clearly see that Time Zone contain subset\(s\) of Time Set. All hardware and features will point to Time Zone for operational day and time instruction.
 

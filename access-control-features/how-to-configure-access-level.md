@@ -8,7 +8,7 @@ description: This section will highlight the steps in configuring Access Level
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click ‘Access Level’.
 
-![](../.gitbook/assets/untitled1a%20%2811%29.png)
+![](../.gitbook/assets/untitled1a%20%2813%29.png)
 
 
 
@@ -26,7 +26,7 @@ description: This section will highlight the steps in configuring Access Level
 
 #### STEP 4: Proceed to the ‘Door’ section and highlight the doors that you would like to add into the list. Click ‘Add’. Please note that a default Time Zone of 1 – 24 Hours Active.
 
-![](../.gitbook/assets/untitled4%20%2814%29.png)
+![](../.gitbook/assets/untitled4%20%2815%29.png)
 
 
 

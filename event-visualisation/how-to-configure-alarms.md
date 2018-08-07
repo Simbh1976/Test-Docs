@@ -2,7 +2,7 @@
 description: This section will highlight the steps needed in configuring alarms
 ---
 
-# How to configure alarms
+# How to configure instructions and comments for alarms
 
 ## List of Steps
 
@@ -34,7 +34,7 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 {% tab title="3. Priority" %}
 #### Here, you can set the alarm according to your required priority from 'Lowest' to 'Highest'. By default, all settings are at 'Normal'. 
 
-![](../.gitbook/assets/untitled4%20%286%29.png)
+![](../.gitbook/assets/untitled4%20%287%29.png)
 
 
 
@@ -52,7 +52,7 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 {% tab title="5. Comments" %}
 #### Under Comments, you can prepare a set of ‘standard’ replies that can used by the security personnel to input replies in the event an alarm is triggered.
 
-![](../.gitbook/assets/untitled7%20%2811%29.png)
+![](../.gitbook/assets/untitled7%20%2812%29.png)
 {% endtab %}
 
 {% tab title="6. Sound" %}

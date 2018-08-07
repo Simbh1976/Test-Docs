@@ -6,25 +6,68 @@ description: This section will show the necessary steps in configuring the Floor
 
 ## List of Steps
 
-STEP 1: Proceed to ‘Floor Plan’ Tab
+#### STEP 1: Proceed to ‘Floor Plan’ Tab and click ‘To Edit Mode’ icon.
 
-STEP 2: Click ‘To Edit Mode’ icon.
+![](../.gitbook/assets/untitled1a%20%2812%29.png)
 
-STEP 3: Click on the ‘Map’ icon.
 
-STEP 4: On the view map card, click ‘Add \(F2\)’.
 
-STEP 5: On the ‘Map -Add’ card, provide a name to the map and also upload the file into the system by clicking open folder icon in ‘File Location’.
+#### STEP 2: Click on the ‘Map’ icon.
 
-STEP 6: Locate the map file and select it. Click ‘Open’ when done. It is important to note that only three type of files will be accepted \(.bmp, .jpg and .gif\).
+![](../.gitbook/assets/untitled2%20%2815%29.png)
 
-STEP 7: Click ‘Save and Close’.
 
-STEP 8: Click ‘Close’.
 
-STEP 9: Navigate to ‘Point’ icon and click.
+#### STEP 3: On the view map card, click ‘Add \(F2\)’.
 
-STEP 10: Under the properties card, choose which type of point.
+![](../.gitbook/assets/untitled3%20%2812%29.png)
+
+
+
+#### STEP 4: On the ‘Map -Add’ card, provide a name to the map and also upload the file into the system by clicking open folder icon in ‘File Location’.
+
+![](../.gitbook/assets/untitled4%20%281%29.png)
+
+
+
+#### STEP 5: Locate the map file and select it. Click ‘Open’ when done. It is important to note that only three type of files will be accepted \(.bmp, .jpg and .gif\).
+
+![](../.gitbook/assets/untitled5%20%2817%29.png)
+
+
+
+#### STEP 6: Click ‘Save and Close’.
+
+![](../.gitbook/assets/untitled6%20%2814%29.png)
+
+
+
+#### STEP 7: The map that you have named and uploaded will appear on the list. Next, click ‘Close’.
+
+![](../.gitbook/assets/untitled7%20%286%29.png)
+
+
+
+#### STEP 8: The list of floor plans will show the map that you have uploaded as well as the the name of the map while the full size map is displayed next to it. Next, navigate to ‘Point’ icon and click.
+
+![](../.gitbook/assets/untitled8%20%287%29.png)
+
+
+
+STEP 9: The 'Properties' card will appear and under the parameter 'Type', choose the type of point that you would like to designate this point to:
+
+| Type of Points | Description |
+| :--- | :--- |
+| Door | Specifies the 'Door' which is located at the which is tied to the control panel at specific location |
+| Alarm | Alarm hardware which had been configured into the control panel. |
+| Fire | Fire hardware sensors that had been configured into the control panel. |
+| General Purpose | General purpose hardware sensors which had been configured into the control panel. |
+| AM Input | This choice is related to the product **'HIO'** only. All Input trigger points will be referenced to this choice. |
+| AM Output | This choice is related to the product **'HIO'** only. All Output trigger points will be referenced to this choice.  |
+| AM Zone | This choice is related to the product **'HIO'** only. All Zone trigger points will be referenced to this choice. |
+| Dynamic Triggering | All trigger points \(input and output based\) will be referenced to this choice.  |
+
+STEP 10: Under the properties card, choose which type of point .
 
 STEP 11: Choose the ‘Control Panel’ for this point.
 

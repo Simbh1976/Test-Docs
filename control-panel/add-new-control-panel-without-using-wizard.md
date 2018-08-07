@@ -10,7 +10,7 @@ description: >-
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click on the icon ‘Controller’ to continue.
 
-![](../.gitbook/assets/untitled1a%20%283%29.png)
+![](../.gitbook/assets/untitled1a%20%284%29.png)
 
 
 

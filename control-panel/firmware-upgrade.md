@@ -22,7 +22,7 @@ description: >-
 
 #### STEP 3: On the ‘Send / Retrieve’ screen, tick ‘Firmware Upgrade’. Click 'Next'. 
 
-![](../.gitbook/assets/untitled1a%20%285%29.png)
+![](../.gitbook/assets/untitled1a%20%286%29.png)
 
 
 

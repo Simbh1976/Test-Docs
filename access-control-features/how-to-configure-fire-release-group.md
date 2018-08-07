@@ -33,7 +33,7 @@ If General option is chosen, once the Name and Description of the Fire Release G
 {% tab title="Specific" %}
 #### Click the green ‘+’ button and a choice of doors will be presented.
 
-![](../.gitbook/assets/untitled4%20%282%29.png)
+![](../.gitbook/assets/untitled4%20%283%29.png)
 
 #### 
 

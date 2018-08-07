@@ -37,7 +37,7 @@
 * [Event Visualisation](event-visualisation/README.md)
   * [How to detach tabs from the main tab screen](event-visualisation/how-to-detach-tabs-from-the-main-tab-screen.md)
   * [How to show staff details on Online Transaction Screen](event-visualisation/how-to-show-staff-details-on-online-transaction-screen.md)
-  * [How to configure alarms](event-visualisation/how-to-configure-alarms.md)
+  * [How to configure instructions and comments for alarms](event-visualisation/how-to-configure-alarms.md)
   * [How to configure Floor Plan Tab](event-visualisation/how-to-configure-floor-plan-tab.md)
 * [Time Attendance](time-attendance/README.md)
   * [How to configure Time Attendance on Doors](time-attendance/how-to-configure-time-attendance-on-doors.md)

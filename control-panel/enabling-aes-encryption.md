@@ -8,7 +8,7 @@ description: This section will highlight the required steps to Enable AES Encryp
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click on the icon ‘Controller’ to continue.
 
-![](../.gitbook/assets/untitled1a%20%284%29.png)
+![](../.gitbook/assets/untitled1a%20%285%29.png)
 
 
 

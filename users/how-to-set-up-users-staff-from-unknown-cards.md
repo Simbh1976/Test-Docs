@@ -22,7 +22,7 @@ description: >-
 
 #### STEP 3: Move cursor to ‘Add Card’ and choose ‘Normal card OR Guard Tour card’ \(refer to Quick Note 1\).
 
-![](../.gitbook/assets/untitled3%20%2812%29.png)
+![](../.gitbook/assets/untitled3%20%2813%29.png)
 
 
 
@@ -30,13 +30,13 @@ description: >-
 
 {% page-ref page="how-to-set-up-staff.md" %}
 
-![](../.gitbook/assets/untitled4%20%2818%29.png)
+![](../.gitbook/assets/untitled4%20%2819%29.png)
 
 
 
 #### STEP 5: Select the Access Groups that had been created previously and click 'Add'. Once it is done, click 'Accept'.
 
-![](../.gitbook/assets/untitled8%20%287%29.png)
+![](../.gitbook/assets/untitled8%20%288%29.png)
 
 
 
@@ -57,7 +57,7 @@ description: >-
 {% tab title="Create a New Staff" %}
 #### You will see the Staff Card and proceed to fill in the necessary details of the staff. Click ‘Ok’ when done.
 
-![](../.gitbook/assets/untitled7%20%286%29.png)
+![](../.gitbook/assets/untitled7%20%287%29.png)
 {% endtab %}
 
 {% tab title="Assign card to this staff" %}
