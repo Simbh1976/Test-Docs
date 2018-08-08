@@ -16,13 +16,13 @@ description: >-
 
 #### STEP 2: Proceed to ‘Control Panel Tab’ and click on ‘System’ to continue. Next, click 'Interlock Group'.
 
-![](../.gitbook/assets/untitled1%20%2819%29.png)
+![](../.gitbook/assets/untitled1%20%2820%29.png)
 
 
 
 #### STEP 3: Click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled2%20%2811%29.png)
+![](../.gitbook/assets/untitled2%20%2812%29.png)
 
 
 
@@ -46,7 +46,7 @@ description: >-
 
 #### STEP 7: Click ‘Cross board Interlock Group’ on ‘Undefined’ link.
 
-![](../.gitbook/assets/untitled6%20%2818%29.png)
+![](../.gitbook/assets/untitled6%20%2820%29.png)
 
 
 

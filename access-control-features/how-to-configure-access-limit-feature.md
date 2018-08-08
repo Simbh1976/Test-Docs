@@ -20,7 +20,7 @@ description: This section will highlight the steps needed to configure Access Li
 
 #### STEP 3: Proceed to ‘Reader’ Tab and choose the reader that is to be enabled with Access Limit. Proceed to the ‘Enable Access Limit’ parameter and tick yes \(read Important Note\).
 
-![](../.gitbook/assets/untitled3%20%282%29.png)
+![](../.gitbook/assets/untitled3%20%283%29.png)
 
 
 

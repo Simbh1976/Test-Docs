@@ -14,13 +14,13 @@ description: This section will highlight the necessary steps to create User Defi
 
 #### STEP 2: Click ‘User Defined Field’ Tab’ and you can further create the required information fields to be displayed in ‘Staff’ card. Click 'Edit' in order to start input new fields.
 
-![](../.gitbook/assets/untitled2%20%2810%29.png)
+![](../.gitbook/assets/untitled2%20%2811%29.png)
 
 
 
 #### STEP 3: Once complete, click 'Accept' and after that, click 'Close'. 
 
-![](../.gitbook/assets/untitled3%20%2820%29.png)
+![](../.gitbook/assets/untitled3%20%2822%29.png)
 
 
 

@@ -20,13 +20,13 @@ description: This section will highlight the necessary steps to set up staff
 
 #### STEP 3: Fill up the necessary details to create staff information. 
 
-![](../.gitbook/assets/untitled2%20%2819%29.png)
+![](../.gitbook/assets/untitled2%20%2820%29.png)
 
 
 
 #### STEP 4: On the tab column, click ‘Card Data’. Click ‘Add’ to create a new card to be allocated to the User.
 
-![](../.gitbook/assets/untitled3%20%283%29.png)
+![](../.gitbook/assets/untitled3%20%284%29.png)
 
 
 
@@ -56,7 +56,7 @@ description: This section will highlight the necessary steps to set up staff
 
 #### STEP 9 & COMPLETE: Access card details will appear on the list of card numbers. Click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled7%20%2815%29.png)
+![](../.gitbook/assets/untitled7%20%2816%29.png)
 
 ## Quick note
 
