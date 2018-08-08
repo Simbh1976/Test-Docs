@@ -14,7 +14,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 2: Click on the ‘Map’ icon.
 
-![](../.gitbook/assets/untitled2%20%2816%29.png)
+![](../.gitbook/assets/untitled2%20%2817%29.png)
 
 
 
@@ -32,31 +32,31 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 5: Locate the map file and select it. Click ‘Open’ when done. It is important to note that only three type of files will be accepted \(.bmp, .jpg and .gif\).
 
-![](../.gitbook/assets/untitled5%20%2817%29.png)
+![](../.gitbook/assets/untitled5%20%2818%29.png)
 
 
 
 #### STEP 6: Click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled6%20%2816%29.png)
+![](../.gitbook/assets/untitled6%20%2817%29.png)
 
 
 
 #### STEP 7: The map that you have named and uploaded will appear on the list. Next, click ‘Close’.
 
-![](../.gitbook/assets/untitled7%20%286%29.png)
+![](../.gitbook/assets/untitled7%20%287%29.png)
 
 
 
 #### STEP 8: The list of floor plans will show the map that you have uploaded as well as the the name of the map while the full size map is displayed next to it. Next, navigate to ‘Point’ icon and click.
 
-![](../.gitbook/assets/untitled8%20%287%29.png)
+![](../.gitbook/assets/untitled8%20%288%29.png)
 
 
 
 #### STEP 9: The 'Properties' card will appear and under the parameter 'Type', choose the type of point that you would like to designate this point to. In this example, we shall use 'Door'. 
 
-![](../.gitbook/assets/untitled9%20%287%29.png)
+![](../.gitbook/assets/untitled9%20%288%29.png)
 
 | Type of Points | Description |
 | :--- | :--- |
@@ -109,7 +109,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 14: At this juncture, you'll be able to see the point updated on the left top corner of the map while you can freely move the icon to the desired location as well. Repeat Step 8 – Step 13 for all the required points.
 
-![](../.gitbook/assets/untitled15%20%281%29.png)
+![](../.gitbook/assets/untitled15%20%283%29.png)
 
 
 
@@ -121,7 +121,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 16 & COMPLETE: All points will be updated with relevant icons showing real time updates on all points within the map. 
 
-![](../.gitbook/assets/untitled17%20%281%29.png)
+![](../.gitbook/assets/untitled17%20%282%29.png)
 
 ## Quick Note
 

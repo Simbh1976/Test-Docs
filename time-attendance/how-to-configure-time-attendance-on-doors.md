@@ -16,7 +16,7 @@ description: >-
 
 #### STEP 2: Select the Control Panel that you would like to enable the door as a Time Attendance Reader.
 
-![](../.gitbook/assets/untitled2%20%2817%29.png)
+![](../.gitbook/assets/untitled2%20%2818%29.png)
 
 
 

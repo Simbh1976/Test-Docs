@@ -16,13 +16,13 @@ description: >-
 
 #### STEP 2: Proceed to ‘Control Panel Tab’ and click on ‘System’ to continue. Next, click 'Interlock Group'.
 
-![](../.gitbook/assets/untitled1%20%2820%29.png)
+![](../.gitbook/assets/untitled1%20%2821%29.png)
 
 
 
 #### STEP 3: Click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled2%20%2812%29.png)
+![](../.gitbook/assets/untitled2%20%2813%29.png)
 
 
 
@@ -40,25 +40,25 @@ description: >-
 
 #### STEP 6: Choose the Control Panel that you would like to add into the Interlock Group \(refer to Quick Note 1\).
 
-![](../.gitbook/assets/untitled5%20%2815%29.png)
+![](../.gitbook/assets/untitled5%20%2816%29.png)
 
 
 
 #### STEP 7: Click ‘Cross board Interlock Group’ on ‘Undefined’ link.
 
-![](../.gitbook/assets/untitled6%20%2820%29.png)
+![](../.gitbook/assets/untitled6%20%2821%29.png)
 
 
 
 #### STEP 8: Select the group that you would like to add the Control Panel into. Once the group is selected, click ‘Select’.
 
-![](../.gitbook/assets/untitled7%20%283%29.png)
+![](../.gitbook/assets/untitled7%20%284%29.png)
 
 
 
 #### STEP 9: Proceed to ‘Input Point Setting’.
 
-![](../.gitbook/assets/untitled8%20%285%29.png)
+![](../.gitbook/assets/untitled8%20%286%29.png)
 
 
 
@@ -70,7 +70,7 @@ description: >-
 
 #### STEP 11: Click on the chosen row and select option '8 - Inerlock'. The system will automatically allocate a name to this input point.
 
-![](../.gitbook/assets/untitled10%20%283%29.png)
+![](../.gitbook/assets/untitled10%20%285%29.png)
 
 
 

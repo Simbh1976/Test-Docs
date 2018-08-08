@@ -16,7 +16,7 @@ description: >-
 
 #### STEP 2: Right click on the transaction showing ‘Unknown Card Number \(Entry/Exit\)’.
 
-![](../.gitbook/assets/untitled2%20%2815%29.png)
+![](../.gitbook/assets/untitled2%20%2816%29.png)
 
 
 
@@ -30,19 +30,19 @@ description: >-
 
 {% page-ref page="how-to-set-up-staff.md" %}
 
-![](../.gitbook/assets/untitled4%20%2820%29.png)
+![](../.gitbook/assets/untitled4%20%2821%29.png)
 
 
 
 #### STEP 5: Select the Access Groups that had been created previously and click 'Add'. Once it is done, click 'Accept'.
 
-![](../.gitbook/assets/untitled8%20%288%29.png)
+![](../.gitbook/assets/untitled8%20%289%29.png)
 
 
 
 #### STEP 6: You will brought back to the add card screen. Proceed to untick ‘Antipassback’. Click ‘Ok’.
 
-![](../.gitbook/assets/untitled9%20%288%29.png)
+![](../.gitbook/assets/untitled9%20%289%29.png)
 
 
 
@@ -57,13 +57,13 @@ description: >-
 {% tab title="Create a New Staff" %}
 #### You will see the Staff Card and proceed to fill in the necessary details of the staff. Click ‘Ok’ when done.
 
-![](../.gitbook/assets/untitled7%20%287%29.png)
+![](../.gitbook/assets/untitled7%20%288%29.png)
 {% endtab %}
 
 {% tab title="Assign card to this staff" %}
 #### If this card is to be assigned an existing staff, click on the checkbox and proceed to choose the staff from the pulldown menu. Click ‘Ok’ when done.
 
-![](../.gitbook/assets/untitled10%20%286%29.png)
+![](../.gitbook/assets/untitled10%20%288%29.png)
 {% endtab %}
 {% endtabs %}
 

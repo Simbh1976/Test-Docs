@@ -20,7 +20,7 @@ description: This section will highlight the steps needed to configure Buddy Mod
 
 #### STEP 3: On the staff card, proceed to ‘Card Data’. On the list of allocated Access Card, double click on the card which you would like to enable the Buddy Mode.
 
-![](../.gitbook/assets/untitled3%20%2818%29.png)
+![](../.gitbook/assets/untitled3%20%2819%29.png)
 
 
 
@@ -34,25 +34,25 @@ _\*\*\*\*_
 
 #### STEP 6: Return to Control Panel and proceed to ‘System’. Click ‘Controller’.
 
-![](../.gitbook/assets/untitled5%20%2811%29.png)
+![](../.gitbook/assets/untitled5%20%2812%29.png)
 
 
 
 #### STEP 7: Select the Control Panel that you would like to enable the Buddy Mode. Click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled6%20%2818%29.png)
+![](../.gitbook/assets/untitled6%20%2819%29.png)
 
 
 
 #### STEP 8: Proceed to ‘Door Setting’ and scroll to ‘Buddy Mode Time Zone’. Choose the door that you would like to enable this Buddy Mode feature. Click on ‘0 – Not Active’ link.
 
-![](../.gitbook/assets/untitled7%20%284%29.png)
+![](../.gitbook/assets/untitled7%20%285%29.png)
 
 
 
 #### STEP 9: Proceed to choose a Time Zone for this feature and click ‘Select’.
 
-![](../.gitbook/assets/untitled8%20%284%29.png)
+![](../.gitbook/assets/untitled8%20%285%29.png)
 
 
 

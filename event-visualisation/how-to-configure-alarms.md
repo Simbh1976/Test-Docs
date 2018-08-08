@@ -8,7 +8,7 @@ description: This section will highlight the steps needed in configuring alarms
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click on ‘System’ Menu. Next, click ‘Instructions/Comment’.
 
-![](../.gitbook/assets/untitled1%20%2821%29.png)
+![](../.gitbook/assets/untitled1%20%2822%29.png)
 
 
 
@@ -40,7 +40,7 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 
 #### Depending on the priority setting for the alarm, when an event had been triggered, it will showcase itself in the 'Alarm List' according to it's level as shown below.
 
-![](../.gitbook/assets/untitled5%20%285%29.png)
+![](../.gitbook/assets/untitled5%20%286%29.png)
 {% endtab %}
 
 {% tab title="4. Instructions" %}
@@ -52,7 +52,7 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 {% tab title="5. Comments" %}
 #### Under Comments, you can prepare a set of ‘standard’ replies that can used by the security personnel to input replies in the event an alarm is triggered.
 
-![](../.gitbook/assets/untitled7%20%2812%29.png)
+![](../.gitbook/assets/untitled7%20%2813%29.png)
 {% endtab %}
 
 {% tab title="6. Sound" %}
@@ -82,7 +82,7 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 
 #### STEP V: To listen back to the recording, click the 'Play' button. 
 
-![](../.gitbook/assets/untitled12%20%282%29.png)
+![](../.gitbook/assets/untitled12%20%283%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -90,5 +90,5 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 
 #### STEP 4 & COMPLETE: When all is completed, click ‘Accept’ when done.
 
-![](../.gitbook/assets/untitled13%20%284%29.png)
+![](../.gitbook/assets/untitled13%20%285%29.png)
 
