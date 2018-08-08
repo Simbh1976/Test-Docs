@@ -50,7 +50,7 @@ description: >-
 
 ## Quick Note
 
-There is an additional column ‘Deduct \(mins\)’ where this feature will CONSISTENTLY deduct the total number of hours worked for this staff on whichever the day that this feature is enabled. 
+1. There is an additional column ‘Deduct \(mins\)’ where this feature will CONSISTENTLY deduct the total number of hours worked for this staff on whichever the day that this feature is enabled. 
 
 
 
