@@ -8,7 +8,7 @@ description: This section will highlight the steps needed in configuring alarms
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click on ‘System’ Menu. Next, click ‘Instructions/Comment’.
 
-![](../.gitbook/assets/untitled1%20%2819%29.png)
+![](../.gitbook/assets/untitled1%20%2820%29.png)
 
 
 
@@ -20,7 +20,7 @@ description: This section will highlight the steps needed in configuring alarms
 
 #### STEP 3: The 'Instructions/Comments - Edit' card will appear. Within this section, you can further customize the various instructions and comments contained within each alarm. Refer to the Tab below for further instructions.
 
-![](../.gitbook/assets/untitled3%20%289%29.png)
+![](../.gitbook/assets/untitled3%20%2810%29.png)
 
 {% tabs %}
 {% tab title="1. Name" %}

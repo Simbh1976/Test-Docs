@@ -8,13 +8,19 @@ description: >-
 
 ## List of Steps
 
-STEP 1: Proceed to Control Panel tab and click ‘Controller’.
+#### STEP 1: Proceed to 'Control Panel' tab and click ‘Controller’.
 
-STEP 2: Select the Control Panel that you would like to enable the door as a Time Attendance Reader.
+![](../.gitbook/assets/untitled1%20%284%29.png)
 
-STEP 3: Proceed to ‘Door Setting’.
 
-STEP 4: Scroll down to locate ‘Time Attendance Reader’ and click the checkbox.
 
-STEP 5 & COMPLETE: Click ‘Accept’ when done.
+#### STEP 2: Select the Control Panel that you would like to enable the door as a Time Attendance Reader.
+
+![](../.gitbook/assets/untitled2%20%2816%29.png)
+
+
+
+#### STEP 3 & COMPLETE: Proceed to ‘Door Setting’. Scroll down to locate ‘Time Attendance Reader’ and click the checkbox. Click ‘Accept’ when done.
+
+![](../.gitbook/assets/untitled3%20%284%29.png)
 

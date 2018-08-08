@@ -18,7 +18,7 @@ description: This section will highlight the necessary steps to export staff dat
 
 {% tabs %}
 {% tab title="Staff" %}
-![](../.gitbook/assets/untitled3%20%2814%29.png)
+![](../.gitbook/assets/untitled3%20%2815%29.png)
 
 This section will allow you to export data by either:
 

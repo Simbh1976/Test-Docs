@@ -20,7 +20,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 3: On the view map card, click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled3%20%2812%29.png)
+![](../.gitbook/assets/untitled3%20%2813%29.png)
 
 
 
@@ -107,7 +107,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 
 
-#### STEP 14: At this juncture, you'll be able to see the point updated on the map on the left top corner and freely move the icon to the desired location. Repeat Step 8 – Step 13 for all the required points.
+#### STEP 14: At this juncture, you'll be able to see the point updated on the left top corner of the map while you can freely move the icon to the desired location as well. Repeat Step 8 – Step 13 for all the required points.
 
 ![](../.gitbook/assets/untitled15%20%281%29.png)
 
