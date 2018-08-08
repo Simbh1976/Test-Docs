@@ -54,7 +54,9 @@ description: This section will show the necessary steps in configuring the Floor
 
 
 
-STEP 9: The 'Properties' card will appear and under the parameter 'Type', choose the type of point that you would like to designate this point to:
+#### STEP 9: The 'Properties' card will appear and under the parameter 'Type', choose the type of point that you would like to designate this point to. In this example, we shall use 'Door'. 
+
+![](../.gitbook/assets/untitled9%20%287%29.png)
 
 | Type of Points | Description |
 | :--- | :--- |
@@ -65,25 +67,63 @@ STEP 9: The 'Properties' card will appear and under the parameter 'Type', choose
 | AM Input | This choice is related to the product **'HIO'** only. All Input trigger points will be referenced to this choice. |
 | AM Output | This choice is related to the product **'HIO'** only. All Output trigger points will be referenced to this choice.  |
 | AM Zone | This choice is related to the product **'HIO'** only. All Zone trigger points will be referenced to this choice. |
-| Dynamic Triggering | All trigger points \(input and output based\) will be referenced to this choice.  |
+| Dynamic Triggering | This choice is related to the product **'HIO'** only. All Zone trigger points will be referenced to this choice. |
 
-STEP 10: Under the properties card, choose which type of point .
 
-STEP 11: Choose the ‘Control Panel’ for this point.
 
-STEP 12: Choose the door \(it can also be Alarm, Fire, General Purpose, etc. depending on the choice made in ‘Step 10’.
+#### STEP 10: Choose the ‘Control Panel’ for this point. In the example below, there is 'Controller 1' is the control panel that were detected by the system. 
 
-STEP 13: \(Option\) In the ‘Label’ parameter, you can choose to place the icon label according to the drop down list.
+![](../.gitbook/assets/untitled10%20%281%29.png)
 
-STEP 14: \(Option\) Pos X and Pos Y would be concerned with the placement of the icon according to the X \(horizontal\) & Y \(vertical\) axis. Another option would be to drag the icon to the required area within the map.
 
-STEP 15: Once all is complete, click ‘update’ and the name of the point will appear on the point. Repeat Step 9 – Step 14 for all the required points.
 
-STEP 16: Once complete, click ‘Exit Edit Mode’.
+#### STEP 11: Choose the door listed on this parameter \(refer to Quick Note 1\). 
 
-STEP 17 & COMPLETE: All points will be updated with relevant icons showing real time updates on all points within the map.
+![](../.gitbook/assets/untitled11%20%284%29.png)
+
+
+
+#### STEP 12 \(OPTIONAL\): Refer to tab below for more information on Label Position and Pos X & Pos Y. 
+
+{% tabs %}
+{% tab title="Label Position" %}
+#### In the ‘Label’ parameter, you can choose to place the 'icon label' according to the drop down list. 
+
+![](../.gitbook/assets/untitled12.png)
+{% endtab %}
+
+{% tab title="Pos X & Pos Y" %}
+#### Pos X and Pos Y would be concerned with the placement of the icon according to the X \(horizontal\) & Y \(vertical\) axis. Another option would be to drag the icon to the required area within the map.
+
+![](../.gitbook/assets/untitled13%20%281%29.png)
+{% endtab %}
+{% endtabs %}
+
+
+
+#### STEP 13: Once all is complete, click ‘Update’ and the name of the point will appear on the point. Next, click 'Hide'  and the properties card will be hidden back into the background. 
+
+![](../.gitbook/assets/untitled14%20%281%29.png)
+
+
+
+#### STEP 14: At this juncture, you'll be able to see the point updated on the map on the left top corner and freely move the icon to the desired location. Repeat Step 8 – Step 13 for all the required points.
+
+![](../.gitbook/assets/untitled15%20%281%29.png)
+
+
+
+#### STEP 15: Once all points had been completely assigned, click ‘Exit Edit Mode’.
+
+![](../.gitbook/assets/untitled16%20%281%29.png)
+
+
+
+#### STEP 16 & COMPLETE: All points will be updated with relevant icons showing real time updates on all points within the map. 
+
+![](../.gitbook/assets/untitled17%20%281%29.png)
 
 ## Quick Note
 
-It is important to note that in ‘Step 10’, depending on the ‘type’ of point is chosen \(door, alarm, fire and etc.\) the choices in ‘Step 12’ will change accordingly.
+1. It is important to note that in ‘Step 10’, depending on the ‘type’ of point is chosen \(door, alarm, fire and etc.\) the choices in ‘Step 12’ will change accordingly.
 

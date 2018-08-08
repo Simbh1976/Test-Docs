@@ -64,7 +64,7 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 
 #### STEP II: Provide a file name for the voice file and click ‘Save’ when done.
 
-![](../.gitbook/assets/untitled9%20%283%29.png)
+![](../.gitbook/assets/untitled9%20%284%29.png)
 
 
 
@@ -82,7 +82,7 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 
 #### STEP V: To listen back to the recording, click the 'Play' button. 
 
-![](../.gitbook/assets/untitled12%20%281%29.png)
+![](../.gitbook/assets/untitled12%20%282%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -90,5 +90,5 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 
 #### STEP 4 & COMPLETE: When all is completed, click ‘Accept’ when done.
 
-![](../.gitbook/assets/untitled13%20%281%29.png)
+![](../.gitbook/assets/untitled13%20%284%29.png)
 

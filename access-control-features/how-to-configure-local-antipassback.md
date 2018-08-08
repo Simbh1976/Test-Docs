@@ -60,13 +60,13 @@ description: >-
 
 #### STEP 9: Proceed to tick ‘Antipassback’ to Yes.
 
-![](../.gitbook/assets/untitled9%20%285%29.png)
+![](../.gitbook/assets/untitled9%20%286%29.png)
 
 
 
 #### STEP 10: Click ‘Accept’.
 
-![](../.gitbook/assets/untitled11%20%284%29.png)
+![](../.gitbook/assets/untitled11%20%285%29.png)
 
 #### STEP 11 & COMPLETE: Click ‘Accept’ and the Antipassback feature is now enabled for that staff.
 

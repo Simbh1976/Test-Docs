@@ -66,7 +66,7 @@ This section will allow you to export data by **working shifts** \(by untick 'Al
 
 #### 2: Locate OR create a folder that you would like to export the file into. By default, the file name will be ‘Export’ and you can rename the file if you wish to do so. Click 'Open'.
 
-![](../.gitbook/assets/untitled10%20%284%29.png)
+![](../.gitbook/assets/untitled10%20%285%29.png)
 
 
 
@@ -94,13 +94,13 @@ STEP III: \(Export by CSV File\): You can choose to have all the fields to be ex
 
 #### STEP 5: In the ‘Options – Others’ tab, you can set the format and also the separator for date appearing in the export data.
 
-![](../.gitbook/assets/untitled12.png)
+![](../.gitbook/assets/untitled12%20%281%29.png)
 
 
 
 #### STEP 6: Untick the checkbox ‘Include extension for export Photo File Name’ if you do not want to have the ‘FULL’ file extension name listed in the export data. This feature is enabled by default. 
 
-![](../.gitbook/assets/untitled13.png)
+![](../.gitbook/assets/untitled13%20%283%29.png)
 
 
 

@@ -70,13 +70,13 @@ description: >-
 
 #### STEP 11: Click on the chosen row and select option '8 - Inerlock'. The system will automatically allocate a name to this input point.
 
-![](../.gitbook/assets/untitled10%20%282%29.png)
+![](../.gitbook/assets/untitled10%20%283%29.png)
 
 
 
 #### STEP 13: Proceed to Output Relay Tab. On the row indicating ‘Interlock’, tick a checkbox that the checkbox on the relay column \(See Quick Note 2\). Click ‘Accept’ and the Control Panel will begin the configuration once the final interlock process is completed.
 
-![](../.gitbook/assets/untitled11%20%285%29.png)
+![](../.gitbook/assets/untitled11%20%286%29.png)
 
 ## Quick Note: 
 
