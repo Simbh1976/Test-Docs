@@ -24,13 +24,13 @@ description: >-
 
 #### STEP 3: Proceed to ‘Door Setting’ and scroll down to ‘Antipassback Time Zone’.
 
-![](../.gitbook/assets/untitled3%20%2813%29.png)
+![](../.gitbook/assets/untitled3%20%2814%29.png)
 
 
 
 #### STEP 4: Select the ‘Time Zone’ that you would like to have the Antipassback feature to be active. Click ‘Select’ when done.
 
-![](../.gitbook/assets/untitled4%20%2819%29.png)
+![](../.gitbook/assets/untitled4%20%2820%29.png)
 
 
 
@@ -48,13 +48,13 @@ description: >-
 
 #### STEP 7: List the name of the staff either through Filter View or Classic View. Once the list is listed out, select the staff that you would like to enable Antipassback feature.
 
-![](../.gitbook/assets/untitled7%20%2814%29.png)
+![](../.gitbook/assets/untitled7%20%2815%29.png)
 
 
 
 #### STEP 8: Proceed to ‘Card Data’ and double click on the listed card number that you have assigned to the staff.
 
-![](../.gitbook/assets/untitled8%20%2813%29.png)
+![](../.gitbook/assets/untitled8%20%2814%29.png)
 
 
 

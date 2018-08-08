@@ -6,29 +6,51 @@ description: This section will highlight the necessary steps to edit Staff Roste
 
 ## List of Steps
 
-STEP 1: Proceed to Control Panel Tab and click on ‘Company’ menu.
+#### STEP 1: Proceed to Control Panel Tab and click on ‘Company’ menu. Next, click ‘Staff’.
 
-STEP 2: Click ‘Staff’.
+![](../.gitbook/assets/untitled1%20%286%29.png)
 
-STEP 3: List and choose the staff that you would like to allocate the Normal Shift by using Filter View or Classic View.
 
-STEP 4: Click ‘Edit \(F4\)’.
 
-STEP 5: Under the ‘Shift’ option, navigate to the option icon and click.
+#### STEP 2: List and choose the staff that you would like to allocate the Normal Shift by using Filter View or Classic View. Next, click ‘Edit \(F4\)’.
 
-STEP 6: Click ‘Edit Staff Roster’.
+![](../.gitbook/assets/untitled2%20%2822%29.png)
 
-STEP 7: Highlight the dates in the relevant month that you would like to have the shift changed.
 
-STEP 8: Proceed to ‘Day Shift’ tab and click on the ‘Day Shift link’.
 
-STEP 9: Select the shift that you would like to change to. Once completed, click ‘Select’.
+#### STEP 3: Under the ‘Shift’ option, navigate to the option icon and click. Next, click ‘Edit Staff Roster’.
 
-STEP 10: Click ‘Set’.
+![](../.gitbook/assets/untitled3%20%281%29.png)
 
-STEP 11: Check the dates had been changed to your desired shifts. Click ‘Ok’ when done.
 
-STEP 12 & COMPLETE: Click ‘Accept’ and the change in shift will take effect.
+
+#### STEP 4: Highlight the dates in the relevant month that you would like to have the shift changed. Next, proceed to ‘Day Shift’ tab and click on the ‘Day Shift link’.
+
+![](../.gitbook/assets/untitled4%20%2814%29.png)
+
+
+
+#### STEP 5: Select the shift that you would like to change to. Once completed, click ‘Select’.
+
+![](../.gitbook/assets/untitled5%20%2817%29.png)
+
+
+
+#### STEP 6: Next, Click ‘Set’.
+
+![](../.gitbook/assets/untitled6%20%2821%29.png)
+
+
+
+#### STEP 7: Check the dates had been changed to your desired shifts. Click ‘Ok’ when done.
+
+![](../.gitbook/assets/untitled7%20%288%29.png)
+
+
+
+#### STEP 8 & COMPLETE: Click ‘Accept’ and the change in shift will take effect.
+
+![](../.gitbook/assets/untitled8%20%285%29.png)
 
 ## Quick Note
 

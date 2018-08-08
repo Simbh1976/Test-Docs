@@ -22,5 +22,5 @@ description: >-
 
 #### STEP 3 & COMPLETE: Proceed to ‘Door Setting’. Scroll down to locate ‘Time Attendance Reader’ and click the checkbox. Click ‘Accept’ when done.
 
-![](../.gitbook/assets/untitled3%20%285%29.png)
+![](../.gitbook/assets/untitled3%20%286%29.png)
 

@@ -16,7 +16,7 @@ description: >-
 
 #### STEP 2: Proceed to ‘Control Panel Tab’ and click on ‘System’ to continue. Next, click 'Interlock Group'.
 
-![](../.gitbook/assets/untitled1%20%2821%29.png)
+![](../.gitbook/assets/untitled1%20%2822%29.png)
 
 
 
@@ -28,7 +28,7 @@ description: >-
 
 #### STEP 4: Provide a Name and Description of the Interlock Group that is to be created. Press ‘Save and Close’ when complete.
 
-![](../.gitbook/assets/untitled3%20%281%29.png)
+![](../.gitbook/assets/untitled3%20%282%29.png)
 
 
 
@@ -46,7 +46,7 @@ description: >-
 
 #### STEP 7: Click ‘Cross board Interlock Group’ on ‘Undefined’ link.
 
-![](../.gitbook/assets/untitled6%20%2821%29.png)
+![](../.gitbook/assets/untitled6%20%2822%29.png)
 
 
 
@@ -58,7 +58,7 @@ description: >-
 
 #### STEP 9: Proceed to ‘Input Point Setting’.
 
-![](../.gitbook/assets/untitled8%20%286%29.png)
+![](../.gitbook/assets/untitled8%20%287%29.png)
 
 
 

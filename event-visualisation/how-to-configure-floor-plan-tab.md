@@ -20,7 +20,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 3: On the view map card, click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled3%20%2814%29.png)
+![](../.gitbook/assets/untitled3%20%2815%29.png)
 
 
 
@@ -32,7 +32,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 5: Locate the map file and select it. Click ‘Open’ when done. It is important to note that only three type of files will be accepted \(.bmp, .jpg and .gif\).
 
-![](../.gitbook/assets/untitled5%20%2818%29.png)
+![](../.gitbook/assets/untitled5%20%2819%29.png)
 
 
 
@@ -50,7 +50,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 8: The list of floor plans will show the map that you have uploaded as well as the the name of the map while the full size map is displayed next to it. Next, navigate to ‘Point’ icon and click.
 
-![](../.gitbook/assets/untitled8%20%288%29.png)
+![](../.gitbook/assets/untitled8%20%289%29.png)
 
 
 

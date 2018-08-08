@@ -8,7 +8,7 @@ description: This section will highlight the necessary steps to create User Defi
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click ‘System’. Next, click ‘Preferences’.
 
-![](../.gitbook/assets/untitled1%20%289%29.png)
+![](../.gitbook/assets/untitled1%20%2810%29.png)
 
 
 
@@ -20,7 +20,7 @@ description: This section will highlight the necessary steps to create User Defi
 
 #### STEP 3: Once complete, click 'Accept' and after that, click 'Close'. 
 
-![](../.gitbook/assets/untitled3%20%2823%29.png)
+![](../.gitbook/assets/untitled3%20%2824%29.png)
 
 
 

@@ -8,7 +8,7 @@ description: This section will highlight the necessary steps in creating a Roste
 
 #### STEP 1: Proceed to Control Panel tab and click ‘Time Attendance’. Next, click on ‘Day Shift’.
 
-![](../.gitbook/assets/untitled1%20%2815%29.png)
+![](../.gitbook/assets/untitled1%20%2816%29.png)
 
 
 
@@ -20,7 +20,7 @@ description: This section will highlight the necessary steps in creating a Roste
 
 #### STEP 3: Provide a name and description to the ‘Day Shift’ that you are going to add. You may provide a ‘colour’ to this Day Shift to provide easy visual identification.
 
-![](../.gitbook/assets/untitled3%20%2817%29.png)
+![](../.gitbook/assets/untitled3%20%2818%29.png)
 
 
 

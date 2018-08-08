@@ -18,7 +18,7 @@ description: This section will highlight the necessary steps to export staff dat
 
 {% tabs %}
 {% tab title="Staff" %}
-![](../.gitbook/assets/untitled3%20%2818%29.png)
+![](../.gitbook/assets/untitled3%20%2819%29.png)
 
 This section will allow you to export data by either:
 
@@ -28,7 +28,7 @@ This section will allow you to export data by either:
 {% endtab %}
 
 {% tab title="Department" %}
-![](../.gitbook/assets/untitled4%20%2814%29.png)
+![](../.gitbook/assets/untitled4%20%2815%29.png)
 
 This section will allow you to export data by **department** \(by untick 'All' checkbox\) within an organisation.
 {% endtab %}
@@ -50,13 +50,13 @@ This section will allow you to export data by **working shifts** \(by untick 'Al
 
 #### STEP 3: On ‘Fields Available’ section, click on the ‘Check’ mark if you would like to export all data fields OR tick on the individual check boxes if you would like to individual data to be exported.
 
-![](../.gitbook/assets/untitled7%20%2812%29.png)
+![](../.gitbook/assets/untitled7%20%2813%29.png)
 
 
 
 #### STEP 4: Under the ‘Options – Export Format’ section, you can choose either to export the data in Text, MS Excel or CSV format.
 
-![](../.gitbook/assets/untitled8%20%2812%29.png)
+![](../.gitbook/assets/untitled8%20%2813%29.png)
 
 {% tabs %}
 {% tab title="Export by Text File" %}
