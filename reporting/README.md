@@ -4,5 +4,5 @@ The following sections will highlight some of the reporting features that you ma
 
 #### In order to generate reports:
 
-1. Proceed to 'Control Panel' Tab
+1. Proceed to 'Control Panel' Tab and click on 'Utilities' menu. Next click 'Report'. 
 
