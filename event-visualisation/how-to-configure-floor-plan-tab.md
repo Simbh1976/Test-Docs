@@ -14,7 +14,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 2: Click on the ‘Map’ icon.
 
-![](../.gitbook/assets/untitled2%20%2817%29.png)
+![](../.gitbook/assets/untitled2%20%2818%29.png)
 
 
 
@@ -32,13 +32,13 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 5: Locate the map file and select it. Click ‘Open’ when done. It is important to note that only three type of files will be accepted \(.bmp, .jpg and .gif\).
 
-![](../.gitbook/assets/untitled5%20%2819%29.png)
+![](../.gitbook/assets/untitled5%20%2820%29.png)
 
 
 
 #### STEP 6: Click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled6%20%2817%29.png)
+![](../.gitbook/assets/untitled6%20%2818%29.png)
 
 
 

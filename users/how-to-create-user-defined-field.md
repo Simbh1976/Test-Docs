@@ -20,13 +20,13 @@ description: This section will highlight the necessary steps to create User Defi
 
 #### STEP 3: Once complete, click 'Accept' and after that, click 'Close'. 
 
-![](../.gitbook/assets/untitled3%20%2824%29.png)
+![](../.gitbook/assets/untitled3%20%2825%29.png)
 
 
 
 #### STEP 4: To view the additional information that had been created, return to Control Panel Tab and click 'Company Menu. Next, click 'Staff' icon. 
 
-![](../.gitbook/assets/untitled4%20%2813%29.png)
+![](../.gitbook/assets/untitled4%20%2814%29.png)
 
 
 
@@ -38,7 +38,7 @@ description: This section will highlight the necessary steps to create User Defi
 
 #### STEP 6: Proceed to 'User Defined Field' tab and you will see the additional information that you have created appearing in this section.
 
-![](../.gitbook/assets/untitled6%20%2812%29.png)
+![](../.gitbook/assets/untitled6%20%2813%29.png)
 
 
 

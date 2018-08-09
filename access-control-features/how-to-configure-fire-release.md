@@ -26,19 +26,19 @@ description: This section will highlight the steps needed to configure fire rele
 
 #### STEP 4: Choose the Fire Release Group that was created earlier. Click ‘Select’.
 
-![](../.gitbook/assets/untitled4%20%2821%29.png)
+![](../.gitbook/assets/untitled4%20%2822%29.png)
 
 
 
 #### STEP 5: Proceed to ‘Input Point Setting’. Choose the input that 'Fire Sensors' had been connected to the control panel and provide a name to it \(refer to Quick Note 1\). Navigate to the ‘Type’ column and choose ‘4 – Fire Input'. 
 
-![](../.gitbook/assets/untitled5%20%2810%29.png)
+![](../.gitbook/assets/untitled5%20%2811%29.png)
 
 
 
 #### STEP 6 & COMPLETE: Proceed to click ‘Accept’. The system will start configuring the Fire Release feature once all the process above is complete.
 
-![](../.gitbook/assets/untitled6%20%289%29.png)
+![](../.gitbook/assets/untitled6%20%2810%29.png)
 
 ## Quick Note
 

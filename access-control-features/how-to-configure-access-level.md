@@ -26,13 +26,13 @@ description: This section will highlight the steps in configuring Access Level
 
 #### STEP 4: Proceed to the ‘Door’ section and highlight the doors that you would like to add into the list. Click ‘Add’. Please note that a default Time Zone of 1 – 24 Hours Active.
 
-![](../.gitbook/assets/untitled4%20%2818%29.png)
+![](../.gitbook/assets/untitled4%20%2819%29.png)
 
 
 
 #### STEP 5: Click ‘Save and Close’. 
 
-![](../.gitbook/assets/untitled5%20%289%29.png)
+![](../.gitbook/assets/untitled5%20%2810%29.png)
 
 
 

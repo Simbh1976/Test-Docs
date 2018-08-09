@@ -38,7 +38,7 @@ description: This section will highlight the necessary steps in creating a Roste
 
 #### STEP 6: Click 'Close'
 
-![](../.gitbook/assets/untitled6%20%285%29.png)
+![](../.gitbook/assets/untitled6%20%286%29.png)
 
 
 

@@ -14,7 +14,7 @@ description: This section will highlight the necessary steps to export staff dat
 
 #### STEP 2: On the ‘Staff’ section under the ‘Staff’ Tab, you will be presented with options to export staff data. Below would be a brief explanation on the options available. 
 
-![](../.gitbook/assets/untitled2%20%2815%29.png)
+![](../.gitbook/assets/untitled2%20%2816%29.png)
 
 {% tabs %}
 {% tab title="Staff" %}
@@ -28,7 +28,7 @@ This section will allow you to export data by either:
 {% endtab %}
 
 {% tab title="Department" %}
-![](../.gitbook/assets/untitled4%20%2815%29.png)
+![](../.gitbook/assets/untitled4%20%2816%29.png)
 
 This section will allow you to export data by **department** \(by untick 'All' checkbox\) within an organisation.
 {% endtab %}
@@ -40,7 +40,7 @@ This section will allow you to export data by **job title** \(by untick 'All' ch
 {% endtab %}
 
 {% tab title="Shift" %}
-![](../.gitbook/assets/untitled6%20%2820%29.png)
+![](../.gitbook/assets/untitled6%20%2821%29.png)
 
 This section will allow you to export data by **working shifts** \(by untick 'All' checkbox\) within an organisation.
 {% endtab %}

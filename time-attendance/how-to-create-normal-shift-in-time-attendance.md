@@ -28,19 +28,19 @@ description: >-
 
 #### STEP 4: Key in the ‘Work Time’, ‘Break Time’ and ‘Minimum Work Hour’. If ‘Deduct Minutes’ is applicable, then key in the time period \(refer to Quick Note 1\). If there are overtime involved, tick the ‘OT Claims’ checkbox to yes. Once all is completed, click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled4%20%2816%29.png)
+![](../.gitbook/assets/untitled4%20%2817%29.png)
 
 
 
 #### STEP 5: Return to Control Panel and click ‘Company’ menu. Next, click ‘Staff’.
 
-![](../.gitbook/assets/untitled5%20%2823%29.png)
+![](../.gitbook/assets/untitled5%20%2825%29.png)
 
 
 
 #### STEP 6: List and choose the staff that you would like to allocate the Normal Shift by using Filter View or Classic View. Next, click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled6%20%2814%29.png)
+![](../.gitbook/assets/untitled6%20%2815%29.png)
 
 
 

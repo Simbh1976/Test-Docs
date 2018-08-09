@@ -16,7 +16,7 @@ description: >-
 
 #### STEP 2: Right click on the transaction showing ‘Unknown Card Number \(Entry/Exit\)’.
 
-![](../.gitbook/assets/untitled2%20%2816%29.png)
+![](../.gitbook/assets/untitled2%20%2817%29.png)
 
 
 
@@ -30,7 +30,7 @@ description: >-
 
 {% page-ref page="how-to-set-up-staff.md" %}
 
-![](../.gitbook/assets/untitled4%20%2822%29.png)
+![](../.gitbook/assets/untitled4%20%2823%29.png)
 
 
 
