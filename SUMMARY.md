@@ -44,4 +44,6 @@
   * [How to create Normal Shift in Time Attendance](time-attendance/how-to-create-normal-shift-in-time-attendance.md)
   * [How to create Roster Shift in Time Attendance](time-attendance/how-to-create-roster-shift-in-time-attendance.md)
   * [How to edit Staff Roster Shifts in Time Attendance](time-attendance/how-to-edit-staff-roster-shifts-in-time-attendance.md)
+* [Reporting](reporting/README.md)
+  * [Customising company name and logo](reporting/customising-company-name-and-logo.md)
 
