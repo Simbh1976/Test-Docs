@@ -8,7 +8,7 @@ description: This section will highlight the steps needed to configure fire rele
 
 #### STEP 1: Proceed to ‘Control Panel Tab’. Click on ‘Controller’.
 
-![](../.gitbook/assets/untitled1%20%2817%29.png)
+![](../.gitbook/assets/untitled1%20%2818%29.png)
 
 
 

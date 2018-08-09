@@ -46,4 +46,6 @@
   * [How to edit Staff Roster Shifts in Time Attendance](time-attendance/how-to-edit-staff-roster-shifts-in-time-attendance.md)
 * [Reporting](reporting/README.md)
   * [Customising company name and logo](reporting/customising-company-name-and-logo.md)
+  * [Platform1 Report Menu](reporting/platform1-report-menu/README.md)
+    * [System Report](reporting/platform1-report-menu/system-report.md)
 

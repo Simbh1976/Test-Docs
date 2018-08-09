@@ -10,7 +10,7 @@ description: >-
 
 #### STEP 1: Proceed to 'Control Panel' Tab and proceed to 'System' menu. Next, click 'Preferences'. 
 
-![](../.gitbook/assets/untitled1%20%2820%29.png)
+![](../.gitbook/assets/untitled1%20%2821%29.png)
 
 
 

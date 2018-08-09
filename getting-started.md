@@ -6,7 +6,9 @@ description: >-
 
 # Getting Started
 
-To start the session, please launch the Platform1 Server application. This document _is a continuation_ from **'QUICK START-UP GUIDE'** where topics on system installation process, basic set-up and user set-up had been covered previously. Within the topics highlighted on the table of contents, are various 'basic' settings that you can configure to further suit the demands of your organisation. Nevertheless, this guide only represents a small fraction of what Entrypass Platform1 Server is capable of. To fully utilise it's capability, it would be advisable to visit the 'Platform1 Server Help and Manual' to have a complete understanding on it's features.
+To start the session, please launch the Platform1 Server application. This document _is a continuation_ from **'QUICK START-UP GUIDE'** where topics on system installation process, basic set-up and user set-up had been covered previously. Within the topics highlighted on the table of contents, are various 'basic' settings that you can configure to further suit the demands of your organisation. 
+
+As this is a basic level guide, certain advanced features will be excluded from discussion while to fully utilise it's capability, it would be advisable to visit the 'Platform1 Server Help and Manual' to have a complete understanding on it's features.
 
 ### User
 
