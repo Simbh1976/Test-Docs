@@ -32,7 +32,7 @@ description: This section will highlight the necessary steps to create User Defi
 
 #### STEP 5: List the name of the staff either through Filter View or Classic View. Select the staff to view additional information.
 
-![](../.gitbook/assets/untitled5%20%282%29.png)
+![](../.gitbook/assets/untitled5%20%283%29.png)
 
 
 

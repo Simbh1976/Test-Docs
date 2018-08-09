@@ -44,7 +44,7 @@ description: This section will highlight the necessary steps in creating a Roste
 
 #### STEP 7: Return to Control Panel and proceed to click 'Time Attendance'. Next, click ‘Schedule’.
 
-![](../.gitbook/assets/untitled7%20%281%29.png)
+![](../.gitbook/assets/untitled7%20%282%29.png)
 
 
 

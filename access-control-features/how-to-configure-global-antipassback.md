@@ -32,7 +32,7 @@ description: This section will highlight the steps to configure Global Antipassb
 
 #### STEP 5: Choose the Control Panel that you would like to enable the Global Antipassback Feature.
 
-![](../.gitbook/assets/untitled5%20%289%29.png)
+![](../.gitbook/assets/untitled5%20%2810%29.png)
 
 
 
@@ -44,7 +44,7 @@ description: This section will highlight the steps to configure Global Antipassb
 
 #### STEP 7: Choose the group that you have created earlier. Click ‘Select’ and proceed to next step.
 
-![](../.gitbook/assets/untitled7%20%2811%29.png)
+![](../.gitbook/assets/untitled7%20%2812%29.png)
 
 
 

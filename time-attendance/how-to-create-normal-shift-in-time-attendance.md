@@ -34,7 +34,7 @@ description: >-
 
 #### STEP 5: Return to Control Panel and click ‘Company’ menu. Next, click ‘Staff’.
 
-![](../.gitbook/assets/untitled5%20%2825%29.png)
+![](../.gitbook/assets/untitled5%20%2827%29.png)
 
 
 
@@ -46,7 +46,7 @@ description: >-
 
 #### STEP 7 & COMPLETE: Under ‘Shift Type’, tick ‘Normal’. Next, click on the 'Shift' pull down menu and choose the shift that the staff belongs to. Once complete, click ‘Accept’. Time Attendance for the particular staff will be active.
 
-![](../.gitbook/assets/untitled7%20%2817%29.png)
+![](../.gitbook/assets/untitled7%20%2818%29.png)
 
 ## Quick Note
 

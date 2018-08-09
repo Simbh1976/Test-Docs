@@ -56,7 +56,7 @@ description: This section will highlight the important steps on how to back up s
 
 #### STEP 9: Proceed to Backup file and click on the icon ‘Open file location’.
 
-![](../.gitbook/assets/untitled7%20%2810%29.png)
+![](../.gitbook/assets/untitled7%20%2811%29.png)
 
 
 

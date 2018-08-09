@@ -32,7 +32,7 @@ description: This section will highlight the steps in configuring Access Level
 
 #### STEP 5: Click ‘Save and Close’. 
 
-![](../.gitbook/assets/untitled5%20%2810%29.png)
+![](../.gitbook/assets/untitled5%20%2812%29.png)
 
 
 

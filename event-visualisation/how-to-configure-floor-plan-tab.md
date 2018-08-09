@@ -32,7 +32,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 5: Locate the map file and select it. Click ‘Open’ when done. It is important to note that only three type of files will be accepted \(.bmp, .jpg and .gif\).
 
-![](../.gitbook/assets/untitled5%20%2820%29.png)
+![](../.gitbook/assets/untitled5%20%2822%29.png)
 
 
 
@@ -44,7 +44,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 7: The map that you have named and uploaded will appear on the list. Next, click ‘Close’.
 
-![](../.gitbook/assets/untitled7%20%287%29.png)
+![](../.gitbook/assets/untitled7%20%288%29.png)
 
 
 

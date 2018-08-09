@@ -32,7 +32,7 @@ description: This section will highlight the steps needed to configure fire rele
 
 #### STEP 5: Proceed to ‘Input Point Setting’. Choose the input that 'Fire Sensors' had been connected to the control panel and provide a name to it \(refer to Quick Note 1\). Navigate to the ‘Type’ column and choose ‘4 – Fire Input'. 
 
-![](../.gitbook/assets/untitled5%20%2811%29.png)
+![](../.gitbook/assets/untitled5%20%2813%29.png)
 
 
 

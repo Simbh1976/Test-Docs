@@ -39,7 +39,7 @@ If General option is chosen, once the Name and Description of the Fire Release G
 
 #### Tick the doors that you would like to automatically unlock in the event the Fire trigger is triggered. Press ‘Accept’.
 
-![](../.gitbook/assets/untitled5%20%281%29.png)
+![](../.gitbook/assets/untitled5%20%282%29.png)
 {% endtab %}
 {% endtabs %}
 

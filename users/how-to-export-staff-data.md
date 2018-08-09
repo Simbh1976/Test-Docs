@@ -34,13 +34,13 @@ This section will allow you to export data by **department** \(by untick 'All' c
 {% endtab %}
 
 {% tab title="Job" %}
-![](../.gitbook/assets/untitled5%20%284%29.png)
+![](../.gitbook/assets/untitled5%20%285%29.png)
 
 This section will allow you to export data by **job title** \(by untick 'All' checkbox\) within an organisation.
 {% endtab %}
 
 {% tab title="Shift" %}
-![](../.gitbook/assets/untitled6%20%2821%29.png)
+![](../.gitbook/assets/untitled6%20%2822%29.png)
 
 This section will allow you to export data by **working shifts** \(by untick 'All' checkbox\) within an organisation.
 {% endtab %}
@@ -50,7 +50,7 @@ This section will allow you to export data by **working shifts** \(by untick 'Al
 
 #### STEP 3: On ‘Fields Available’ section, click on the ‘Check’ mark if you would like to export all data fields OR tick on the individual check boxes if you would like to individual data to be exported.
 
-![](../.gitbook/assets/untitled7%20%2813%29.png)
+![](../.gitbook/assets/untitled7%20%2814%29.png)
 
 
 

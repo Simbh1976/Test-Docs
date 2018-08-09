@@ -16,7 +16,7 @@
 
 #### STEP 3: Once the 'Docked' icon is clicked, ‘numbers’ will appear on the monitor identifying the monitor numbers.
 
-![](../.gitbook/assets/untitled5%20%2815%29.png)
+![](../.gitbook/assets/untitled5%20%2817%29.png)
 
 
 

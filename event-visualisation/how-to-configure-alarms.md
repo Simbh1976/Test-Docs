@@ -40,7 +40,7 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 
 #### Depending on the priority setting for the alarm, when an event had been triggered, it will showcase itself in the 'Alarm List' according to it's level as shown below.
 
-![](../.gitbook/assets/untitled5%20%286%29.png)
+![](../.gitbook/assets/untitled5%20%287%29.png)
 {% endtab %}
 
 {% tab title="4. Instructions" %}
@@ -52,7 +52,7 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 {% tab title="5. Comments" %}
 #### Under Comments, you can prepare a set of ‘standard’ replies that can used by the security personnel to input replies in the event an alarm is triggered.
 
-![](../.gitbook/assets/untitled7%20%2814%29.png)
+![](../.gitbook/assets/untitled7%20%2815%29.png)
 {% endtab %}
 
 {% tab title="6. Sound" %}

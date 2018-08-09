@@ -34,7 +34,7 @@ description: >-
 
 #### STEP 5: Once the file name appears on the 'Logo' row, click 'Accept'. 
 
-![](../.gitbook/assets/untitled5%20%2822%29.png)
+![](../.gitbook/assets/untitled5%20%2824%29.png)
 
 
 

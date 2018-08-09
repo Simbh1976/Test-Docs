@@ -57,7 +57,7 @@ description: >-
 {% tab title="Create a New Staff" %}
 #### You will see the Staff Card and proceed to fill in the necessary details of the staff. Click ‘Ok’ when done.
 
-![](../.gitbook/assets/untitled7%20%289%29.png)
+![](../.gitbook/assets/untitled7%20%2810%29.png)
 {% endtab %}
 
 {% tab title="Assign card to this staff" %}
