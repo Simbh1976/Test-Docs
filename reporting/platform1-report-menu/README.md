@@ -38,7 +38,19 @@ This section will allow you to generate report on **'daily alarms' that were tri
 
 This section will allow you to generate report on any **System User's activity on Platform1 Server**. 
 
-8. Roll Call Report
+## 8. Roll Call Report
 
-This section will allow you to generate report 
+This section will allow you to generate report for **Roll Call based upon transactions that happen throughout certain period OR on Real Time basis \(the latest status\)**. You will be able to see the latest status of a staffs' position or throughout a period of time within an organisation. 
+
+## 9. Load Saved Report
+
+This section will allow you to load a previously saved report in the form of a .QRP file \(Quickreport\). This file is created when you decide to save a generated report instead of exporting it as a PDF. Do note that, when a QRP file is generated, you can load, view and print on 'Load Saved Report' feature however, you cannot this report as a PDF file. To generate a PDF file, you would be required to generate the report again and export as a PDF. 
+
+## 10. Debug Report
+
+You can view debug reports in this section however, only PELCO Video Matrix Integration debugging report is available to be viewed.
+
+## 11. CCTV Report
+
+This section will allow you to generate reports on various details of DVR and CCTV which is connected to the Platform1 Server. However, the report can only generate information when there is CCTV / DVR hardware connected to the Platform1 Server. At the current moment, only Entrypass Platform1 Server Professional Edition support CCTV / DVR integration. 
 
