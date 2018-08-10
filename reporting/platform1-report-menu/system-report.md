@@ -186,5 +186,53 @@ Reports generated will show all input points listed within the Control Panel con
 
 ## 9. IO Board
 
+## 10. Alarm Zone
+
+## 11. Access Level
+
+Reports generated will show all Access Level listed within the system.
+
+#### To generate the report:
+
+{% tabs %}
+{% tab title="STEP 1" %}
+#### Click 'Access Level'
+
+![](../../.gitbook/assets/untitled20.png)
+{% endtab %}
+
+{% tab title="STEP 2" %}
+#### You can choose all OR individual Access Levels listed within the list box. Next, click 'Generate'. 
+
+![](../../.gitbook/assets/untitled21.png)
+{% endtab %}
+{% endtabs %}
+
+{% file src="../../.gitbook/assets/9access-level.pdf" caption="Access Level Sample Report" %}
+
+## 12. Staff Accessibility
+
+Reports generated will show all staff's accessibility in the premises. This report will highlight details on the doors, lifts and car park accessibility as well as the Time Zone governing these access points. 
+
+#### To generate the report:
+
+{% tabs %}
+{% tab title="STEP 1" %}
+#### Click 'Staff Accessibility'
+
+![](../../.gitbook/assets/untitled22.png)
+{% endtab %}
+
+{% tab title="STEP 2" %}
+#### You can choose all OR individual staffs listed within the list box. Also, you can choose all doors OR individual doors listed within the list box. Next, click 'Generate'. 
+
+_Note: You can sort the report either by Staff No, Staff Name, Department or Job._
+
+![](../../.gitbook/assets/untitled23.png)
+{% endtab %}
+{% endtabs %}
+
+{% file src="../../.gitbook/assets/10staff-accessibility.pdf" caption="Staff Accessibility Sample Report" %}
+
 
 
