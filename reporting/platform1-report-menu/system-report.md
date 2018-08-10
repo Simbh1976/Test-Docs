@@ -14,7 +14,7 @@ description: >-
 
 ## 1. Preferences
 
-This report will generate the latest 'Preferences' setting which is applied to the system. The contents generated within this report is linked to 'Preferences' in 'Control Panel Tab'. 
+This generated report will highlight the latest 'Preferences' setting which is being applied to the system. 
 
 #### To generate the report:
 
@@ -30,7 +30,7 @@ This report will generate the latest 'Preferences' setting which is applied to t
 
 ## 2. Connection
 
-Reports generated will show communication methods from Server to Control Panels which is set in the system. The contents generated within this report are linked to 'Connection' in 'Control Panel Tab'.
+This generated report will show communication methods from Server to Control Panels which is set in the system. 
 
 #### To generate the report: 
 
@@ -52,7 +52,7 @@ Reports generated will show communication methods from Server to Control Panels 
 
 ## 3. Router
 
-Reports generated will show the IP Address and the details of the connected remote devices where these listed devices are located away from the location of the server and had to be connected remotely. The contents generated within this report is linked to 'Remote Router' in 'Control Panel Tab'.
+This generated report will show the IP Address and details of connected remote devices located away from the server.
 
 #### To generate the report:
 
@@ -74,7 +74,7 @@ Reports generated will show the IP Address and the details of the connected remo
 
 ## 4. Time Set
 
-Reports generated will show all Time Sets which had been created.
+This generated report will show all Time Sets in the system.
 
 #### To generate the report:
 
@@ -96,7 +96,7 @@ Reports generated will show all Time Sets which had been created.
 
 ## 5. Time Zone
 
-Reports generated will show all Time Sets which had been created.
+This generated report will show all Time Zones in the system.
 
 #### To generate the report:
 
@@ -118,7 +118,7 @@ Reports generated will show all Time Sets which had been created.
 
 ## 6. Controller
 
-Reports generated will show all Control Panels connected to the Platform1 Server.
+This generated report will show all Control Panels connected to the Platform1 Server.
 
 #### To generate the report:
 
@@ -142,7 +142,7 @@ _NOTE: To display report details on 'Doors' and 'Alarms' connected to the Contro
 
 ## 7. Door
 
-Reports generated will show all doors listed within the Control Panel connected to the Platform1 Server.
+This generated report will show all doors in the system.
 
 #### To generate the report:
 
@@ -164,7 +164,7 @@ Reports generated will show all doors listed within the Control Panel connected 
 
 ## 8. Input Point
 
-Reports generated will show all input points listed within the Control Panel connected to the Platform1 Server.
+This generated report will show all input points in the system.
 
 #### To generate the report:
 
@@ -190,7 +190,7 @@ Reports generated will show all input points listed within the Control Panel con
 
 ## 11. Access Level
 
-Reports generated will show all Access Level listed within the system.
+This generated report will show all Access Level in the system.
 
 #### To generate the report:
 
@@ -212,7 +212,7 @@ Reports generated will show all Access Level listed within the system.
 
 ## 12. Staff Accessibility
 
-Reports generated will show all staff's accessibility in the premises. This report will highlight details on the doors, lifts and car park accessibility as well as the Time Zone governing these access points. 
+This generated report will show all staff's accessibility in the premises. This report will highlight details on the doors, lifts and car park accessibility to all staffs as well as the Time Zone governing these access points. 
 
 #### To generate the report:
 
@@ -233,6 +233,31 @@ _Note: You can sort the report either by Staff No, Staff Name, Department or Job
 {% endtabs %}
 
 {% file src="../../.gitbook/assets/10staff-accessibility.pdf" caption="Staff Accessibility Sample Report" %}
+
+## 13. Door Accessibility
+
+This generated report will show the accessibility of all doors in the premises to staffs. The report will be grouped by doors while each door will contain the list of staffs that possess the necessary credentials to pass through it.
+
+#### To generate the report:
+
+{% tabs %}
+{% tab title="STEP 1" %}
+#### Click 'Door Accessibility' 
+
+![](../../.gitbook/assets/untitled24.png)
+{% endtab %}
+
+{% tab title="STEP 2" %}
+1. **You can choose all OR individual doors listed within the list box.** 
+2. **You can choose all staffs OR individual staffs listed within the list box.** 
+3. _**\(Option\)You can sort the report either by Staff No, Staff Name, Department or Job within each door.**_ 
+4. **Next, click 'Generate'.** 
+
+![](../../.gitbook/assets/untitled25.png)
+{% endtab %}
+{% endtabs %}
+
+{% file src="../../.gitbook/assets/11door-accessibility.pdf" caption="Door Accessibility Sample Report" %}
 
 
 
