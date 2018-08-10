@@ -259,5 +259,51 @@ This generated report will show the accessibility of all doors in the premises t
 
 {% file src="../../.gitbook/assets/11door-accessibility.pdf" caption="Door Accessibility Sample Report" %}
 
+## 14. Instruction/Comment
+
+This generated report will show the full list of alarm codes and its description together with specific Instructions/Comments that you have typed into its field as well as sound files that you have recorded. 
+
+To generate the report:
+
+{% tabs %}
+{% tab title="STEP 1" %}
+#### Click 'Instruction/Comment'. 
+
+![](../../.gitbook/assets/untitled26.png)
+{% endtab %}
+
+{% tab title="STEP 2" %}
+1. **You can choose all OR individual doors listed within the list box.** 
+2. **Next, click 'Generate'.** 
+
+![](../../.gitbook/assets/untitled27.png)
+{% endtab %}
+{% endtabs %}
+
+{% file src="../../.gitbook/assets/12instruction-and-comments.pdf" caption="Instructions and Comments Sample Report" %}
+
+## 15. Map
+
+This generated report will list all maps \(image file\) within the 'Floor Plan' Tab. 
+
+#### To generate the report:
+
+{% tabs %}
+{% tab title="STEP 1" %}
+#### Click 'Map'
+
+![](../../.gitbook/assets/untitled28.png)
+{% endtab %}
+
+{% tab title="STEP 2" %}
+1. **You can choose all OR individual maps listed within the list box.** 
+2. **Next, click 'Generate'.** 
+
+![](../../.gitbook/assets/untitled29.png)
+{% endtab %}
+{% endtabs %}
+
+{% file src="../../.gitbook/assets/12map.pdf" caption="Map Sample Report" %}
+
 
 
