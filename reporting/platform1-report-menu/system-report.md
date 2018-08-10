@@ -305,5 +305,97 @@ This generated report will list all maps \(image file\) within the 'Floor Plan' 
 
 {% file src="../../.gitbook/assets/12map.pdf" caption="Map Sample Report" %}
 
+## 16. Roll Call Group
+
+This generated report will list all Roll Call groups created in the system.
+
+#### To generate the report:
+
+{% tabs %}
+{% tab title="STEP 1" %}
+#### Click' Roll Call Group' 
+
+![](../../.gitbook/assets/untitled30.png)
+{% endtab %}
+
+{% tab title="STEP 2" %}
+1. **You can choose all OR individual Roll Call groups listed within the list box.** 
+2. **Next, click 'Generate'.**
+
+![](../../.gitbook/assets/untitled31.png)
+{% endtab %}
+{% endtabs %}
+
+{% file src="../../.gitbook/assets/14roll-call-groups.pdf" caption="Roll Call Group Sample Report" %}
+
+## 17. Fire Release Group
+
+This report will list all Fire Release groups created in the system, together with all doors listed under it. 
+
+#### To generate the report:
+
+{% tabs %}
+{% tab title="STEP 1" %}
+#### Click 'Fire Release Group'
+
+![](../../.gitbook/assets/untitled32.png)
+{% endtab %}
+
+{% tab title="STEP 2" %}
+1. **You can choose all OR individual Fire Release groups listed within the list box.** 
+2. **Next, click 'Generate'.**
+
+![](../../.gitbook/assets/untitled33.png)
+{% endtab %}
+{% endtabs %}
+
+{% file src="../../.gitbook/assets/15fire-release-group.pdf" caption="Fire Release Group Sample Report" %}
+
+## 18. Access Group
+
+This report will list all Access Groups created in the system and the doors grouped under each Access Group.
+
+#### To generate the report:
+
+{% tabs %}
+{% tab title="STEP 1" %}
+#### Click 'Access Group'.
+
+![](../../.gitbook/assets/untitled34.png)
+{% endtab %}
+
+{% tab title="STEP 2" %}
+1. **You can choose all OR individual Access Groups listed within the list box.** 
+2. **Next, click 'Generate'.**
+
+![](../../.gitbook/assets/untitled35.png)
+{% endtab %}
+{% endtabs %}
+
+{% file src="../../.gitbook/assets/16access-groups.pdf" caption="Access Group Sample Report" %}
+
+## 19. Interlocking Group
+
+This report will list Interlocking Groups in the system with the Control Panels assigned to it.
+
+To generate the report:
+
+{% tabs %}
+{% tab title="STEP 1" %}
+#### Click 'Interlocking Group'
+
+![](../../.gitbook/assets/untitled36.png)
+{% endtab %}
+
+{% tab title="STEP 2" %}
+1. **You can choose all OR individual Interlocking Group listed within the list box.** 
+2. **Next, click 'Generate'.**
+
+![](../../.gitbook/assets/untitled37.png)
+{% endtab %}
+{% endtabs %}
+
+{% file src="../../.gitbook/assets/17interlocking-group.pdf" caption="Interlocking Group Sample Report" %}
+
 
 
