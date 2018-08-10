@@ -38,7 +38,7 @@ description: This section will highlight the necessary steps to create User Defi
 
 #### STEP 6: Proceed to 'User Defined Field' tab and you will see the additional information that you have created appearing in this section.
 
-![](../.gitbook/assets/untitled6%20%2813%29.png)
+![](../.gitbook/assets/untitled6%20%2814%29.png)
 
 
 

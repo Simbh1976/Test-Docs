@@ -56,7 +56,7 @@ description: This section will highlight the necessary steps to set up staff
 
 #### STEP 9 & COMPLETE: Access card details will appear on the list of card numbers. Click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled7%20%2819%29.png)
+![](../.gitbook/assets/untitled7%20%2820%29.png)
 
 ## Quick note
 

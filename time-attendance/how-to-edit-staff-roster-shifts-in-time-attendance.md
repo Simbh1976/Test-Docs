@@ -38,13 +38,13 @@ description: This section will highlight the necessary steps to edit Staff Roste
 
 #### STEP 6: Next, Click ‘Set’.
 
-![](../.gitbook/assets/untitled6%20%2823%29.png)
+![](../.gitbook/assets/untitled6%20%2826%29.png)
 
 
 
 #### STEP 7: Check the dates had been changed to your desired shifts. Click ‘Ok’ when done.
 
-![](../.gitbook/assets/untitled7%20%289%29.png)
+![](../.gitbook/assets/untitled7%20%2810%29.png)
 
 
 

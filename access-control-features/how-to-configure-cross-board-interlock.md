@@ -46,13 +46,13 @@ description: >-
 
 #### STEP 7: Click ‘Cross board Interlock Group’ on ‘Undefined’ link.
 
-![](../.gitbook/assets/untitled6%20%2824%29.png)
+![](../.gitbook/assets/untitled6%20%2827%29.png)
 
 
 
 #### STEP 8: Select the group that you would like to add the Control Panel into. Once the group is selected, click ‘Select’.
 
-![](../.gitbook/assets/untitled7%20%285%29.png)
+![](../.gitbook/assets/untitled7%20%286%29.png)
 
 
 
@@ -70,7 +70,7 @@ description: >-
 
 #### STEP 11: Click on the chosen row and select option '8 - Inerlock'. The system will automatically allocate a name to this input point.
 
-![](../.gitbook/assets/untitled10%20%285%29.png)
+![](../.gitbook/assets/untitled10%20%286%29.png)
 
 
 

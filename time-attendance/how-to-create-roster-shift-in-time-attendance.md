@@ -62,19 +62,19 @@ description: This section will highlight the necessary steps in creating a Roste
 
 #### STEP 10: Choose to the month and date\(s\) that you would like to create the roster by either clicking on each of the date OR you can hold the left mouse button down and drag across multiple dates. Once the dates had been highlighted, proceed to ‘Day Shift’ tab and click on the ‘Day Shift’ link.
 
-![](../.gitbook/assets/untitled10%20%284%29.png)
+![](../.gitbook/assets/untitled10%20%285%29.png)
 
 
 
 #### STEP 11: Select the ‘Day Shift’ that you have created. Click ‘Select’ when done. You can clear the selection either by highlighting the dates and press 'Clear Selection' OR you can clear the whole calendar by clicking 'Clear All'. 
 
-![](../.gitbook/assets/untitled11%20%289%29.png)
+![](../.gitbook/assets/untitled11%20%2810%29.png)
 
 
 
 #### STEP 12: Click 'Set'. Repeat Step 10 - Step 11 with other dates as required.
 
-![](../.gitbook/assets/untitled12%20%284%29.png)
+![](../.gitbook/assets/untitled12%20%285%29.png)
 
 
 
@@ -98,13 +98,13 @@ description: This section will highlight the necessary steps in creating a Roste
 
 #### STEP 16: List and choose the staff that you would like to allocate the Normal Shift by using Filter View or Classic View. Next click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled16%20%282%29.png)
+![](../.gitbook/assets/untitled16%20%283%29.png)
 
 
 
 #### STEP 17 & COMPLETE: Under ‘Shift Type’, tick ‘Roster’. Next, click on the pull down menu and choose the Day Shift that the staff belongs to. Once complete, click ‘Accept’. Time Attendance for the particular staff will be active.
 
-![](../.gitbook/assets/untitled17%20%281%29.png)
+![](../.gitbook/assets/untitled17%20%282%29.png)
 
 ## Quick Note
 

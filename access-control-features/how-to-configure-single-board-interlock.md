@@ -32,7 +32,7 @@ description: This page will highlight the necessary steps to configure Interlock
 
 #### STEP 5 & COMPLETE: Click ‘Accept’. The interlock function will be enabled for the doors that had been marked for interlocking purpose.
 
-![](../.gitbook/assets/untitled5%20%2823%29.png)
+![](../.gitbook/assets/untitled5%20%2824%29.png)
 
 
 

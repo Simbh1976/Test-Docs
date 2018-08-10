@@ -34,19 +34,19 @@ description: >-
 
 #### STEP 5: Return to Control Panel and click ‘Company’ menu. Next, click ‘Staff’.
 
-![](../.gitbook/assets/untitled5%20%2827%29.png)
+![](../.gitbook/assets/untitled5%20%2828%29.png)
 
 
 
 #### STEP 6: List and choose the staff that you would like to allocate the Normal Shift by using Filter View or Classic View. Next, click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled6%20%2815%29.png)
+![](../.gitbook/assets/untitled6%20%2816%29.png)
 
 
 
 #### STEP 7 & COMPLETE: Under ‘Shift Type’, tick ‘Normal’. Next, click on the 'Shift' pull down menu and choose the shift that the staff belongs to. Once complete, click ‘Accept’. Time Attendance for the particular staff will be active.
 
-![](../.gitbook/assets/untitled7%20%2818%29.png)
+![](../.gitbook/assets/untitled7%20%2819%29.png)
 
 ## Quick Note
 
