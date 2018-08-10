@@ -259,7 +259,30 @@ This generated report will show the accessibility of all doors in the premises t
 
 {% file src="../../.gitbook/assets/11door-accessibility.pdf" caption="Door Accessibility Sample Report" %}
 
-## 14. Instruction/Comment
+## 14. Global Antipassback Group
+
+This report will list all Global Antipassback Group together with its Time Zone in the system. 
+
+#### To generate the report:
+
+{% tabs %}
+{% tab title="STEP 1" %}
+#### Click 'Global Antipassback Group'
+
+![](../../.gitbook/assets/untitled38.png)
+{% endtab %}
+
+{% tab title="STEP 2" %}
+1. **You can choose all OR individual Global Antipassback groups listed within the list box.** 
+2. **Next, click 'Generate'.** 
+
+![](../../.gitbook/assets/untitled39.png)
+{% endtab %}
+{% endtabs %}
+
+{% file src="../../.gitbook/assets/18global-antipassback.pdf" caption="Global Antipassback Group Sample Report" %}
+
+## 15. Instruction/Comment
 
 This generated report will show the full list of alarm codes and its description together with specific Instructions/Comments that you have typed into its field as well as sound files that you have recorded. 
 
@@ -282,7 +305,7 @@ To generate the report:
 
 {% file src="../../.gitbook/assets/12instruction-and-comments.pdf" caption="Instructions and Comments Sample Report" %}
 
-## 15. Map
+## 16. Map
 
 This generated report will list all maps \(image file\) within the 'Floor Plan' Tab. 
 
@@ -305,7 +328,7 @@ This generated report will list all maps \(image file\) within the 'Floor Plan' 
 
 {% file src="../../.gitbook/assets/12map.pdf" caption="Map Sample Report" %}
 
-## 16. Roll Call Group
+## 17. Roll Call Group
 
 This generated report will list all Roll Call groups created in the system.
 
@@ -328,7 +351,7 @@ This generated report will list all Roll Call groups created in the system.
 
 {% file src="../../.gitbook/assets/14roll-call-groups.pdf" caption="Roll Call Group Sample Report" %}
 
-## 17. Fire Release Group
+## 18. Fire Release Group
 
 This report will list all Fire Release groups created in the system, together with all doors listed under it. 
 
@@ -351,7 +374,7 @@ This report will list all Fire Release groups created in the system, together wi
 
 {% file src="../../.gitbook/assets/15fire-release-group.pdf" caption="Fire Release Group Sample Report" %}
 
-## 18. Access Group
+## 19. Access Group
 
 This report will list all Access Groups created in the system and the doors grouped under each Access Group.
 
@@ -374,7 +397,7 @@ This report will list all Access Groups created in the system and the doors grou
 
 {% file src="../../.gitbook/assets/16access-groups.pdf" caption="Access Group Sample Report" %}
 
-## 19. Interlocking Group
+## 20. Interlocking Group
 
 This report will list Interlocking Groups in the system with the Control Panels assigned to it.
 
@@ -396,6 +419,49 @@ To generate the report:
 {% endtabs %}
 
 {% file src="../../.gitbook/assets/17interlocking-group.pdf" caption="Interlocking Group Sample Report" %}
+
+## 21. Wiegand Group
+
+## 22. Logo Group
+
+This report will list out all Logo images stored within the system as well as the pixel \(dimension\) of the files.
+
+To generate the report:
+
+{% tabs %}
+{% tab title="STEP 1" %}
+#### Click 'Logo Group'
+
+![](../../.gitbook/assets/untitled40.png)
+{% endtab %}
+
+{% tab title="STEP 2" %}
+1. **You can choose all OR individual Logo Group listed within the list box.** 
+2. **Next, click 'Generate'.**
+
+![](../../.gitbook/assets/untitled41.png)
+{% endtab %}
+{% endtabs %}
+
+{% file src="../../.gitbook/assets/19logo-group.pdf" caption="Logo Group Sample Report" %}
+
+## 23. PA Messaging
+
+This report will list out all Public Announcements \(PA\) created in the system, and its lifespan in date and time. 
+
+To generate the report:
+
+{% tabs %}
+{% tab title="STEP 1" %}
+#### Click 'PA Messaging' and the report will be generated.
+
+![](../../.gitbook/assets/untitled42.png)
+{% endtab %}
+{% endtabs %}
+
+{% file src="../../.gitbook/assets/20pa-messaging.pdf" caption="PA Messaging Sample Report" %}
+
+## 24. Dynamic Triggering
 
 
 
