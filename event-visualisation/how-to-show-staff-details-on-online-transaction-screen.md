@@ -10,7 +10,7 @@ description: >-
 
 #### STEP 1: Proceed to ‘Online Transaction Tab’.
 
-![](../.gitbook/assets/untitled2%20%286%29.png)
+![](../.gitbook/assets/untitled2%20%287%29.png)
 
 
 

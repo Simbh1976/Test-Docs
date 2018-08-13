@@ -16,13 +16,13 @@ description: >-
 
 #### STEP 2: Click ‘Add’
 
-![](../.gitbook/assets/untitled2%20%288%29.png)
+![](../.gitbook/assets/untitled2%20%289%29.png)
 
 
 
 #### STEP 3: Provide a name and description to the normal shift that you are going to add. You may assign a ‘colour’ to this Day Shift to provide easy visual identification.
 
-![](../.gitbook/assets/untitled3%20%2817%29.png)
+![](../.gitbook/assets/untitled3%20%2820%29.png)
 
 
 
@@ -34,19 +34,19 @@ description: >-
 
 #### STEP 5: Return to Control Panel and click ‘Company’ menu. Next, click ‘Staff’.
 
-![](../.gitbook/assets/untitled5%20%2828%29.png)
+![](../.gitbook/assets/untitled5%20%2830%29.png)
 
 
 
 #### STEP 6: List and choose the staff that you would like to allocate the Normal Shift by using Filter View or Classic View. Next, click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled6%20%2816%29.png)
+![](../.gitbook/assets/untitled6%20%2817%29.png)
 
 
 
 #### STEP 7 & COMPLETE: Under ‘Shift Type’, tick ‘Normal’. Next, click on the 'Shift' pull down menu and choose the shift that the staff belongs to. Once complete, click ‘Accept’. Time Attendance for the particular staff will be active.
 
-![](../.gitbook/assets/untitled7%20%2819%29.png)
+![](../.gitbook/assets/untitled7%20%2822%29.png)
 
 ## Quick Note
 

@@ -14,13 +14,13 @@ description: This section will highlight the necessary steps to configure Roll C
 
 #### STEP 2: Click ‘Add \(F2\)’ to create a group.
 
-![](../.gitbook/assets/untitled2%20%285%29.png)
+![](../.gitbook/assets/untitled2%20%286%29.png)
 
 
 
 #### STEP 3: Provide a Name and Description to this group. Click ‘Save and Close’ once completed.
 
-![](../.gitbook/assets/untitled3%20%288%29.png)
+![](../.gitbook/assets/untitled3%20%2810%29.png)
 
 
 
@@ -38,7 +38,7 @@ description: This section will highlight the necessary steps to configure Roll C
 
 #### STEP 6: Proceed to ‘Door Setting’ tab. Scroll to locate Roll Call Reader and click on the door that you would like to enable Roll Call feature. Next, proceed to ‘Roll Call Group’ and click on ‘Undefined’.
 
-![](../.gitbook/assets/untitled6%20%288%29.png)
+![](../.gitbook/assets/untitled6%20%289%29.png)
 
 
 

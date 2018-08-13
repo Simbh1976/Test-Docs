@@ -14,13 +14,13 @@ description: This section will highlight the necessary steps in creating a Roste
 
 #### STEP 2: Click ‘Add’
 
-![](../.gitbook/assets/untitled2%20%2811%29.png)
+![](../.gitbook/assets/untitled2%20%2814%29.png)
 
 
 
 #### STEP 3: Provide a name and description to the ‘Day Shift’ that you are going to add. You may provide a ‘colour’ to this Day Shift to provide easy visual identification.
 
-![](../.gitbook/assets/untitled3%20%2818%29.png)
+![](../.gitbook/assets/untitled3%20%2821%29.png)
 
 
 

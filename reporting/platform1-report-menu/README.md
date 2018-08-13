@@ -8,7 +8,7 @@ description: >-
 
 ## Report Menu \(Image\)
 
-![](../../.gitbook/assets/untitled2%20%2825%29.png)
+![](../../.gitbook/assets/untitled2%20%2828%29.png)
 
 ## 1. System Report
 

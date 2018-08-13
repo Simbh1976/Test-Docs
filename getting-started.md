@@ -25,10 +25,10 @@ They can only view Time Attendance Records
 {% endhint %}
 
 {% hint style="warning" %}
-All authorized users must have a unique and confidential login name and password that should be assigned by the system administrator. It is very important to restrict access to the ENTRYPASS remote client application to authorized personnel only. The default username and password is "EntryPass". \(Username and password are case sensitive\)
+All authorized users must have a unique and confidential login name and password that should be assigned by the system administrator. The default username and password is "EntryPass". \(Username and password are case sensitive\)
 {% endhint %}
 
 ### Infographic Illustration
 
-We have included infographic illustration to further aid understanding on concepts within Platform1 Server. 
+We have included infographic illustration within the topics to further aid understanding on concepts within Platform1 Server. 
 

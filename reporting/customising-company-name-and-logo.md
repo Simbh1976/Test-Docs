@@ -16,13 +16,13 @@ description: >-
 
 #### STEP 2: Proceed to 'Report' tab and click 'Edit'. 
 
-![](../.gitbook/assets/untitled2%20%2815%29.png)
+![](../.gitbook/assets/untitled2%20%2818%29.png)
 
 
 
 #### STEP 3: Fill up the 'Name' row with company name and click on 'Open Folder' icon to locate the company logo image \(refer to Quick Note 1\).
 
-![](../.gitbook/assets/untitled3%20%2822%29.png)
+![](../.gitbook/assets/untitled3%20%2825%29.png)
 
 
 
@@ -34,7 +34,7 @@ description: >-
 
 #### STEP 5: Once the file name appears on the 'Logo' row, click 'Accept'. 
 
-![](../.gitbook/assets/untitled5%20%2825%29.png)
+![](../.gitbook/assets/untitled5%20%2827%29.png)
 
 
 
