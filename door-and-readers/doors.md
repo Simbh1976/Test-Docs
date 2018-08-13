@@ -150,7 +150,7 @@ This parameter will enable you to toggle the security mode in either ‘Low’ o
 
 | Feature | Low Security Mode | High Security Mode |
 | :--- | :--- | :--- |
-| Antipassback | Not enforced on exit doors | Enforced on exit doors |
+| Antipassback | Not enforced on exit readers | Enforced on exit readers |
 |  |  |  |
 
 ### 
@@ -173,8 +173,8 @@ This parameter will enable the Interlock feature. To further understand the ‘I
 
 This parameter will allow you to choose to de-energize \(Unlock\) the Electromagnetic Lock \(EM Lock\) by: 
 
-* **Release Time:** The EM Lock is unlocked and the time period of unlock is **calculated from THE TIME EM LOCK IS DE-ENERGIZED \(UNLOCKED\).** 
-* **Open Time:** The EM Lock is unlocked and the time period of unlock is **calculated when THE DOOR IS OPENED \(UNLOCKED\).**
+* **Release Time:** Time period of unlock **starts from THE TIME EM LOCK IS DE-ENERGIZED \(UNLOCKED\).** 
+* **Open Time:** Time period of unlock **starts when THE DOOR IS OPENED \(UNLOCKED\).**
 
 To further illustrate between the differences in both modes, refer to the below where both options is set with different time period: 
 
