@@ -72,7 +72,7 @@ description: This section will highlight the important steps on how to back up s
 
 ## Quick Note
 
-1. **Web Plus:** This is a special feature and is to be ignored.
+1. **Web Plus:** This customised feature and is to be ignored by users.
 2. **Transaction:** This would include all transaction messages that occurred during the period chosen.
 3. **Audit:** This would include all audit trail information occurred during the period chosen.
 4. **Miscellaneous:** This would include Photo Files related to staff, Maps files related to Floor Plan and also Wave files related to Instructions and Comments.
