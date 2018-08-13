@@ -80,104 +80,138 @@ This parameter will dictate the time period in which Antipassback \(please refer
 
 ### 11. Antipassback Lockout 
 
-This parameter will dictate the time period in which the Antipassback
+This parameter will enable a 'Lockout' in the event that the Antipassback feature is triggered. The access card that the staff is holding will no longer be allowed to enter the door until the lockout is reversed by the System Administrator. If the card continue to be flashed while it is still under Antipassback lockout, it will result in a 'Card Lockout' in which, the card no longer can be used on **ANY** doors until the lockout is reversed. To clear the lockout, please visit the section 'Send / Retrieve' \(Specific\) in Platform1 Help File. 
+
+
 
 ### 12. Buddy Mode Time Zone 
 
 This parameter will dictate the time period in which the Buddy Mode will be active. For more information on Buddy Mode feature please refer to ‘5.8 How to Configure Buddy Mode’. By default, this feature is inactive and when a Time Zone is assigned to this feature, Buddy Mode feature will stay active throughout the time period.
 
+
+
 ### 13. Pin 1 to Pin 3 
 
 This is where you will be able to set the Pin Number for local doors. By setting a Pin Number for the Doors, the User would have to key in this Pin Number \(up to three different pins\) whenever they flash their access control cards to the reader. This feature is a universal feature where all users will be required to key in the pin, irrespective of whether ‘Pin + Card’ feature is enabled or not.
+
+
 
 ### 14. Pin 1 to Pin 3 Time Zone 
 
 This parameter is where you can set the time period in which the Pin numbers will be active. By default, this feature is inactive and when a Time Zone is assigned to this feature, Pin 1 to Pin 3 feature will stay active throughout the time period.
 
+
+
 ### 15. Pin Lock Out Count 
 
 This parameter will dictate the number of times a user will be allowed to enter ‘wrong’ Pin Numbers. Once a user incorrectly entered wrong pin number exceeding the allowable count specified within this parameter, a lockout will occur.
+
+
 
 ### 16. Time Attendance reader 
 
 This parameter will enable the feature for Time Attendance. By enabling this feature, the door will record data required for Time Attendance Reporting. By default, this feature is inactive and by ticking the checkbox, this will activate the feature and will be active at all times.
 
+
+
 ### 17. Roll Call Reader 
 
 This parameter will enable the Roll Call feature. For more information on Roll Call feature please refer to ‘5.9 How to Configure Roll Call Group’. By default, this feature is inactive and by ticking the checkbox, this will activate the feature and will be active at all times.
+
+
 
 ### 18. Roll Call Group 
 
 This parameter will enable you to set the Roll Call Group that had been created within the Roll Call Group List. To choose the group, click the ‘undefined’ \(this is the default setting\) and choose the group from the available list. If there are no groups available, you can create the group by pressing the button ‘Add \(F2\)’.
 
+
+
 ### 19. Check Card Expiry Date 
 
 This parameter will enable you to check each users’ card expiry date. Card Expiry settings can be found in ‘Staff’ settings, ‘6.1 How to enrol Users’. When the card is expired, a user will not be allowed to enter the designated door either a new card had been issued to the user OR the expiry date of the card is extended.
 
+
+
 ### 20. Software Fire Release 
 
-This parameter will enable the integration of Fire Release feature where once this feature is enabled, it will work in conjunction with fire sensors to turn off the security of the doors when fire sensors were triggered \(refer to ‘How to Configure Fire Release’.\)
+This parameter will enable the integration of Fire Release feature where once this feature is enabled, it will work in conjunction with fire sensors to turn off the security of the doors when fire sensors were triggered \(refer to ‘How to Configure Fire Release’\).
+
+
 
 ### 21. Fire Release Group 
 
 This parameter will enable you to choose the group of doors to be released \(security turned off\) in the event that fire alarms were triggered. To create Fire Release Group, refer to the section ‘5.6.1 How to configure Fire Release Group’.
 
+
+
 ### 22. Security Mode 
 
 This parameter will enable you to toggle the security mode in either ‘Low’ or ‘High’ settings. This toggle will affect the ‘EXIT Reader’ only and below would be a list of functions that will be affected by this setting:
 
-| Low Security Mode | High Security Mode |
-| :--- | :--- |
-|  |  |
+| Feature | Low Security Mode | High Security Mode |
+| :--- | :--- | :--- |
+| Antipassback | Not enforced on exit doors | Enforced on exit doors |
+|  |  |  |
+
+### 
 
 ### 23. Keyed Card + Pin Time Zone 
 
 This parameter will enable the feature Keyed Card + Pin Time Zone. By default this feature will be inactive and when a Time Zone had been assigned to this feature, Keyed Card + Pin Time Zone feature will stay active throughout the time period. Keyed Card is a feature where users do not possess the ‘physical card’ however, they have the ‘Card Number’ that is allocated to them. When using a terminal, instead of flashing the physical access card, users would have to key in the ‘card number’ in conjunction with the ‘pin number’ of the terminal.
 
+### 
+
 ### 24. Enable Interlock 
 
-This parameter will enable the Interlock feature. To further understand the ‘Interlock Feature’ refer to ‘5.5 How to configure ‘Interlock Feature’.
+This parameter will enable the Interlock feature. To further understand the ‘Interlock Feature’ refer to articles below on how to configure ‘Interlock Feature’.
+
+{% page-ref page="../access-control-features/how-to-configure-single-board-interlock.md" %}
+
+### 
 
 ### 25. Lock Energize Option 
 
 This parameter will allow you to choose to de-energize \(Unlock\) the Electromagnetic Lock \(EM Lock\) by: 
 
-* **Release Time:** The EM Lock is unlocked and the time period of unlock is calculated from THE TIME EM LOCK IS DE-ENERGIZED \(UNLOCKED\). 
-* **Open Time:** The EM Lock is unlocked and the time period of unlock is calculated when THE DOOR IS OPENED \(UNLOCKED\).
+* **Release Time:** The EM Lock is unlocked and the time period of unlock is **calculated from THE TIME EM LOCK IS DE-ENERGIZED \(UNLOCKED\).** 
+* **Open Time:** The EM Lock is unlocked and the time period of unlock is **calculated when THE DOOR IS OPENED \(UNLOCKED\).**
 
 To further illustrate between the differences in both modes, refer to the below where both options is set with different time period: 
 
 * Release Time Setting: 15 Seconds 
 * Open Time Setting: 30 Seconds 
 
-#### **Infographic Illustration**
+#### \*\*\*\*
 
-_Lock Energize option = Open Time_
+#### **Infographic Illustration \(Release Time\)**
 
-![](../.gitbook/assets/concept1.png)
+![](../.gitbook/assets/untitled2%20%2819%29.png)
 
-_Scenario 1_
+1. A Staff flashes his access card at the reader, the EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW\) and door can be opened.
+2. However, the Staff did not pass through the door and is left UNOPENED.
+3. EM Lock is re-energised \(Re-locked\) when door is left unopened after the release duration of 15 sec is over. 
 
-1. When a user flashes his access card at the reader
-2. The EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW\)
-3. Door is left UNOPENED
-4. EM Lock re-energize \(lock\) when door is left unopened. 
+\_\_
 
-_Scenario 2_
+![](../.gitbook/assets/untitled3%20%2820%29.png)
 
-1. When a user flashes his access card at the reader
-2. The EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW\)
-3. The door is OPENED 15 seconds later. 
-4. EM Lock time will follow 'Open Time' \(30 Seconds\). The status of EM Lock at this time is still UNLOCKED.
-5. Door close 30 seconds after it was opened. EM Lock will re-energize. No alarm will be triggered.
+1. A Staff user flashes his access card at the reader, the EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW\) and the door can be opened.
+2. The Staff passes through the door and close the door behind. 
+3. EM Lock re-energize \(Re-lock\) even though there is a balance of 13 secs on the clock. 
 
-Scenario 3
 
-1. When a user flashes his access card at the reader
-2. The EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW\)
-3. The door is OPENED 15 seconds later. 
-4. EM Lock time will follow 'Open Time' \(30 Seconds\). The status of EM Lock at this time is still UNLOCKED.
-5. Door STAYED OPEN after 30 seconds. EM Lock will re-energize. Alarm will be triggered with the message 'Door is left open'. 
+
+![](../.gitbook/assets/untitled4%20%2816%29.png)
+
+1. A Staff user flashes his access card at the reader, the EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW\) and the door can be OPENED. 
+2. The Staff passes through the door and **LEFT THE DOOR OPEN** behind. EM Lock is still unlocked.
+3. EM Lock re-energize \(Re-lock\) after 15 seconds while the **DOOR IS LEFT OPENED**. **Alarm will be triggered with the message 'Door is left open'.** 
+
+\*\*\*\*
+
+**Infographic Illustration \(Open Time\)**
+
+\*\*\*\*
 
 ### 26. Door Sensor Delay 
 

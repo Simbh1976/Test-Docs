@@ -14,7 +14,7 @@ description: This section will highlight the necessary steps to edit Staff Roste
 
 #### STEP 2: List and choose the staff that you would like to allocate the Normal Shift by using Filter View or Classic View. Next, click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled2%20%2826%29.png)
+![](../.gitbook/assets/untitled2%20%2827%29.png)
 
 
 

@@ -22,7 +22,7 @@ description: >-
 
 #### STEP 3: Fill up the 'Name' row with company name and click on 'Open Folder' icon to locate the company logo image \(refer to Quick Note 1\).
 
-![](../.gitbook/assets/untitled3%20%2825%29.png)
+![](../.gitbook/assets/untitled3%20%2826%29.png)
 
 
 

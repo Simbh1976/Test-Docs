@@ -20,7 +20,7 @@ description: This section will highlight the necessary steps to create User Defi
 
 #### STEP 3: Once complete, click 'Accept' and after that, click 'Close'. 
 
-![](../.gitbook/assets/untitled3%20%2831%29.png)
+![](../.gitbook/assets/untitled3%20%2832%29.png)
 
 
 

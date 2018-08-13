@@ -20,7 +20,7 @@ description: This section will highlight the necessary steps to set up staff
 
 #### STEP 3: Fill up the necessary details to create staff information. 
 
-![](../.gitbook/assets/untitled2%20%2825%29.png)
+![](../.gitbook/assets/untitled2%20%2826%29.png)
 
 
 

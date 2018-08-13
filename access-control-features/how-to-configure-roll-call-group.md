@@ -26,7 +26,7 @@ description: This section will highlight the necessary steps to configure Roll C
 
 #### STEP 4: Return to Control Panel Tab and proceed to ‘Controller’.
 
-![](../.gitbook/assets/untitled4%20%2818%29.png)
+![](../.gitbook/assets/untitled4%20%2819%29.png)
 
 
 

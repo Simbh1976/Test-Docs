@@ -18,7 +18,7 @@ description: >-
 
 #### STEP 2: Select on the Control Panel that you would like to enable the feature. Click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled2%20%2823%29.png)
+![](../.gitbook/assets/untitled2%20%2824%29.png)
 
 
 
@@ -30,7 +30,7 @@ description: >-
 
 #### STEP 4: Select the ‘Time Zone’ that you would like to have the Antipassback feature to be active. Click ‘Select’ when done.
 
-![](../.gitbook/assets/untitled4%20%2821%29.png)
+![](../.gitbook/assets/untitled4%20%2822%29.png)
 
 
 
