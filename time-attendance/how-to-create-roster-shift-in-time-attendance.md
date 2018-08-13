@@ -66,13 +66,13 @@ description: This section will highlight the necessary steps in creating a Roste
 
 
 
-#### STEP 11: Select the ‘Day Shift’ that you have created. Click ‘Select’ when done. You can clear the selection either by highlighting the dates and press 'Clear Selection' OR you can clear the whole calendar by clicking 'Clear All'. 
+#### STEP 11: Select the ‘Day Shift’ that you have created. Click ‘Select’ when done. 
 
 ![](../.gitbook/assets/untitled11%20%2810%29.png)
 
 
 
-#### STEP 12: Click 'Set'. Repeat Step 10 - Step 11 with other dates as required.
+#### STEP 12: Click 'Set'. Repeat Step 10 - Step 11 with other dates as required. You can clear the selection either by highlighting the dates and press 'Clear Selection' OR you can clear the whole calendar by clicking 'Clear All'. 
 
 ![](../.gitbook/assets/untitled12%20%285%29.png)
 
@@ -102,11 +102,11 @@ description: This section will highlight the necessary steps in creating a Roste
 
 
 
-#### STEP 17 & COMPLETE: Under ‘Shift Type’, tick ‘Roster’. Next, click on the pull down menu and choose the Day Shift that the staff belongs to. Once complete, click ‘Accept’. Time Attendance for the particular staff will be active.
+#### STEP 17 & COMPLETE: Under ‘Shift Type’, tick ‘Roster’. Next, click on the pull down menu and choose the Roster Shift that the staff belongs to. Once complete, click ‘Accept’. Time Attendance for the particular staff will be active.
 
 ![](../.gitbook/assets/untitled17%20%282%29.png)
 
 ## Quick Note
 
-1. There is an additional column ‘Deduct \(mins\)’ where this feature will CONSISTENTLY deduct the total number of hours worked for this staff on whichever the day that this feature is enabled.
+1. There is an additional column ‘Deduct \(mins\)’ where this feature will **CONSISTENTLY** deduct the total number of hours worked for this staff on whichever the day that this feature is enabled.
 
