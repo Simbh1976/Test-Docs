@@ -13,9 +13,9 @@ This section will cover the aspects of setting up Time Set and Time Zone. System
 Time Set defines a **'Time Interval'** **\(Operational Hours\)** for the system expressed in **‘Hours’ and ‘Minutes’**. To further incorporate flexibility requirements on operational hours for Hardware and Features, there are 3 time ‘Intervals’ available for setting purposes. Time Set comes with two default settings:
 
 {% hint style="info" %}
-* Time Set 0 = Not Active \(default and non editable within the system\)
-* Time Set 1 = 24 Hours Active \(default and non editable within the system\)
-* Time Set 2 and above = System User configurable
+* Time Set 0 = Not Active \(default and non-editable within the system\)
+* Time Set 1 = 24 Hours Active \(default and non-editable within the system\)
+* Time Set 2 and above = User configurable
 {% endhint %}
 
 ## Time Zone
@@ -23,9 +23,9 @@ Time Set defines a **'Time Interval'** **\(Operational Hours\)** for the system 
 Time Zone defines a **'Time Interval'** **\(‘Operational Hours’\)** for the system, **grouped together** on a **‘Weekly’** basis. To put this into a simpler perspective, Time Zone defines **'Day + Time Interval' \(Operational Day + Operational Hours\)** for the system. EntryPass Platform1 Server comes with two default Time Zone settings and System User configurable Time Zone settings:
 
 {% hint style="info" %}
-* Time Zone 0 = Not Active \(non editable within the system\)
-* Time Zone 1 = 24 Hours Active \(non editable within the system\)
-* Time Zone 2 & above = System User configurable
+* Time Zone 0 = Not Active \(default and non-editable within the system\)
+* Time Zone 1 = 24 Hours Active \(default and non-editable within the system\)
+* Time Zone 2 & above = User configurable
 {% endhint %}
 
 ## Infographic Illustration
@@ -69,10 +69,24 @@ Consider the Time Set \(TS\) & Time Zone \(TZ\) settings below:
 #### When the above setting is applied to a hardware \(eg. a reader\), any staff using assigned access card would experience the following:
 
 {% hint style="info" %}
-1. Between 9.00am to 5.00pm \(Mon to Fri\), all staff would have full access through the door \(reader ACTIVE\).
-2. Anytime beyond 5.00pm to 8.59am next day \(Mon to Fri\), all staff do not have access through the door \(reader INACTIVE\).
-3. All staff do not have access through the door on Saturday and Sundays \(reader INACTIVE\).
-4. **Conclusion: Staff's will not have any access to doors when the reader \(hardware\) is INACTIVE.**
+**Between 9.00am - 5.00pm:** 
+
+* **Reader: Active**
+* Result: all staff **can** pass through the door.
+
+#### Between 5.01pm - 8.59am next day:
+
+* Reader: **Inactive**
+* Result: all staff **cannot** pass through the door.
+
+#### Saturdays, Sundays and Holidays
+
+* Reader: **Inactive**
+* Result: all staff **cannot** pass through the door.
+{% endhint %}
+
+{% hint style="info" %}
+**Conclusion: Staff's will not have any access to doors when the reader \(hardware\) is INACTIVE.**
 {% endhint %}
 
 
@@ -108,7 +122,7 @@ Consider the Time Set & Time Zone settings below:
 #### When the above setting is applied to a hardware \(eg. a reader\) and feature \(Antipassback\), any staff using the access card would experience the following:
 
 {% hint style="info" %}
-**Between 8.00am - 3.00pm**:
+**Between 9.00am - 3.00pm**:
 
 * **Reader: Active**
 * **Feature \(Antipassback\): Active**
@@ -122,9 +136,17 @@ Consider the Time Set & Time Zone settings below:
 * **Feature \(Antipassback\): Inactive**
 * Result: 
   * door is active and staff can pass through.
-  * staffs _**can**_ pass through \(enter\) the same door without performing 'flashing' out first \(Antipassback feature\). 
+  * staffs _**can**_ pass through \(enter\) the same door without performing 'flashing' out first \(Antipassback feature turned off\). 
 
 **Between 5.01pm - 8:59am \(Next Day\):**
+
+* **Reader: Inactive**
+* **Feature \(Antipassback\): Inactive**
+* Result: 
+  * reader is inactive.
+  * staffs **cannot pass through the door.**
+
+**Saturdays, Sundays and Holidays:**
 
 * **Reader: Inactive**
 * **Feature \(Antipassback\): Inactive**
