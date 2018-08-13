@@ -1,12 +1,11 @@
 ---
 description: >-
   This chapter will cover aspects of managing Control Panels for Entrypass
-  Platform1 Server
+  Platform1 Server and will highlight some of the basic settings that you may
+  find useful to an organisations' security protocols
 ---
 
 # Control Panel
-
-This section will highlight some of the basic settings that you may find useful to an organisations' security protocols. 
 
 ## Add New Control Panel
 
