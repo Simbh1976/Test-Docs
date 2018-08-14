@@ -22,19 +22,19 @@ description: >-
 
 #### STEP 3: Fill up the 'Name' row with company name and click on 'Open Folder' icon to locate the company logo image \(refer to Quick Note 1\).
 
-![](../.gitbook/assets/untitled3%20%2826%29.png)
+![](../.gitbook/assets/untitled3%20%2829%29.png)
 
 
 
 #### STEP 4: Select the image file and click 'Open'. 
 
-![](../.gitbook/assets/untitled4%20%2810%29.png)
+![](../.gitbook/assets/untitled4%20%2811%29.png)
 
 
 
 #### STEP 5: Once the file name appears on the 'Logo' row, click 'Accept'. 
 
-![](../.gitbook/assets/untitled5%20%2827%29.png)
+![](../.gitbook/assets/untitled5%20%2829%29.png)
 
 
 

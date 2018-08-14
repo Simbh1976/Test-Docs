@@ -150,8 +150,8 @@ This parameter will enable you to toggle the security mode in either ‘Low’ o
 
 | Feature | Low Security Mode | High Security Mode |
 | :--- | :--- | :--- |
-| Antipassback | Not enforced on exit readers | Enforced on exit readers |
-|  |  |  |
+| Antipassback | Users **will be allowed** to pass through the door even when there is a violation of Antipassback feature. | Users **will not be allowed** to pass through the door when there is a violation of Antipass back feature. |
+| Nested Car Park | Users **will be allowed** to exit the car park lot even when there is a violation of exiting procedure. | Users **will not be allowed** to exit the car park lot when there is a violation of exiting procedure. |
 
 ### 
 
@@ -183,35 +183,58 @@ To further illustrate between the differences in both modes, refer to the below 
 
 #### \*\*\*\*
 
-#### **Infographic Illustration \(Release Time\)**
+#### _**Infographic Illustration \(Lock Energize Option = Release Time\)**_
 
-![](../.gitbook/assets/untitled2%20%2819%29.png)
+{% tabs %}
+{% tab title="Scenario 1 \(Door Unopened\)" %}
+![](../.gitbook/assets/untitled2%20%2821%29.png)
 
-1. A Staff flashes his access card at the reader, the EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW\) and door can be opened.
+1. A Staff flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\).
 2. However, the Staff did not pass through the door and is left UNOPENED.
 3. EM Lock is re-energised \(Re-locked\) when door is left unopened after the release duration of 15 sec is over. 
+{% endtab %}
+
+{% tab title="Scenario 2 \(Typical Usage Scenario\)" %}
+![](../.gitbook/assets/untitled3%20%2811%29.png)
+
+1. A Staff user flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\).
+2. The Staff proceed to open the door and passes through it.  
+3. The staff closes the door behind and the EM Lock is re-energised \(Re-lock\). 
+{% endtab %}
+
+{% tab title="Scenario 3 \(Door Left Open\)" %}
+![](../.gitbook/assets/untitled4.png)
+
+1. A Staff user flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\). 
+2. The Staff passes through the door and **LEFT THE DOOR OPEN** behind leaving the EM Lock unlocked.
+3. When the door is left open and the EM Lock automatically re-energises \(Re-lock\) after 15 seconds, an **alarm will be triggered with the message 'Door is left open'.** 
+{% endtab %}
+{% endtabs %}
 
 \_\_
 
-![](../.gitbook/assets/untitled3%20%2820%29.png)
+_**Infographic Illustration \(Lock Energise Option = Open Time\)**_
 
-1. A Staff user flashes his access card at the reader, the EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW\) and the door can be opened.
-2. The Staff passes through the door and close the door behind. 
-3. EM Lock re-energize \(Re-lock\) even though there is a balance of 13 secs on the clock. 
+{% tabs %}
+{% tab title="Scenario 1 \(Door Unopened\)" %}
+![](../.gitbook/assets/untitled5%20%2814%29.png)
+
+1. A Staff flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\).
+2. However, the Staff did not pass through the door and is left UNOPENED.
+3. EM Lock is re-energised \(Re-locked\) when door is left unopened after the release duration of 15 sec is over. 
+4. **NOTE: When the door is unopened, the Lock Re-energise countdown period follows 'Release Time'.**
+{% endtab %}
+
+{% tab title="Scenario 2 \(Typical Usage Scenario\)" %}
+![](../.gitbook/assets/untitled6%20%2812%29.png)
+
+1. A Staff user flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\).
+2. The Staff proceed to open the door and passes through it. **At this point, 'Release Time' countdown will stop AND 'Open Time' countdown will START.**
+3. The staff closes the door behind and the EM Lock is re-energised \(Re-lock\). **At this point, 'Open Time' countdown STOPS.**
+{% endtab %}
+{% endtabs %}
 
 
-
-![](../.gitbook/assets/untitled4%20%2816%29.png)
-
-1. A Staff user flashes his access card at the reader, the EM Lock unlocks \(unlock period of 15 seconds IS CALCULATED FROM NOW\) and the door can be OPENED. 
-2. The Staff passes through the door and **LEFT THE DOOR OPEN** behind. EM Lock is still unlocked.
-3. EM Lock re-energize \(Re-lock\) after 15 seconds while the **DOOR IS LEFT OPENED**. **Alarm will be triggered with the message 'Door is left open'.** 
-
-\*\*\*\*
-
-**Infographic Illustration \(Open Time\)**
-
-\*\*\*\*
 
 ### 26. Door Sensor Delay 
 

@@ -14,7 +14,7 @@ description: This section will highlight the necessary steps to edit Staff Roste
 
 #### STEP 2: List and choose the staff that you would like to allocate the Normal Shift by using Filter View or Classic View. Next, click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled2%20%2827%29.png)
+![](../.gitbook/assets/untitled2%20%2829%29.png)
 
 
 
@@ -26,19 +26,19 @@ description: This section will highlight the necessary steps to edit Staff Roste
 
 #### STEP 4: Highlight the dates in the relevant month that you would like to have the shift changed. Next, proceed to ‘Day Shift’ tab and click on the ‘Day Shift link’.
 
-![](../.gitbook/assets/untitled4%20%2815%29.png)
+![](../.gitbook/assets/untitled4%20%2816%29.png)
 
 
 
 #### STEP 5: Select the shift that you would like to change to. Once completed, click ‘Select’.
 
-![](../.gitbook/assets/untitled5%20%2821%29.png)
+![](../.gitbook/assets/untitled5%20%2823%29.png)
 
 
 
 #### STEP 6: Next, Click ‘Set’.
 
-![](../.gitbook/assets/untitled6%20%2828%29.png)
+![](../.gitbook/assets/untitled6%20%2830%29.png)
 
 
 

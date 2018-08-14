@@ -34,19 +34,19 @@ description: >-
 
 #### STEP 5: Return to ‘Control Panel’ Tab. Click ‘Controller’.
 
-![](../.gitbook/assets/untitled4%20%288%29.png)
+![](../.gitbook/assets/untitled4%20%289%29.png)
 
 
 
 #### STEP 6: Choose the Control Panel that you would like to add into the Interlock Group \(refer to Quick Note 1\).
 
-![](../.gitbook/assets/untitled5%20%2820%29.png)
+![](../.gitbook/assets/untitled5%20%2822%29.png)
 
 
 
 #### STEP 7: Click ‘Cross board Interlock Group’ on ‘Undefined’ link.
 
-![](../.gitbook/assets/untitled6%20%2829%29.png)
+![](../.gitbook/assets/untitled6%20%2831%29.png)
 
 
 

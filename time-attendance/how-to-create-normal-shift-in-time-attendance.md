@@ -22,25 +22,25 @@ description: >-
 
 #### STEP 3: Provide a name and description to the normal shift that you are going to add. You may assign a ‘colour’ to this Day Shift to provide easy visual identification.
 
-![](../.gitbook/assets/untitled3%20%2821%29.png)
+![](../.gitbook/assets/untitled3%20%2824%29.png)
 
 
 
 #### STEP 4: Key in the ‘Work Time’, ‘Break Time’ and ‘Minimum Work Hour’. If ‘Deduct Minutes’ is applicable, then key in the time period \(refer to Quick Note 1\). If there are overtime involved, tick the ‘OT Claims’ checkbox to yes. Once all is completed, click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled4%20%2818%29.png)
+![](../.gitbook/assets/untitled4%20%2820%29.png)
 
 
 
 #### STEP 5: Return to Control Panel and click ‘Company’ menu. Next, click ‘Staff’.
 
-![](../.gitbook/assets/untitled5%20%2830%29.png)
+![](../.gitbook/assets/untitled5%20%2832%29.png)
 
 
 
 #### STEP 6: List and choose the staff that you would like to allocate the Normal Shift by using Filter View or Classic View. Next, click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled6%20%2817%29.png)
+![](../.gitbook/assets/untitled6%20%2818%29.png)
 
 
 

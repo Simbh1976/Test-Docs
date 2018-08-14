@@ -20,13 +20,13 @@ description: This section will highlight the necessary steps in creating a Roste
 
 #### STEP 3: Provide a name and description to the ‘Day Shift’ that you are going to add. You may provide a ‘colour’ to this Day Shift to provide easy visual identification.
 
-![](../.gitbook/assets/untitled3%20%2822%29.png)
+![](../.gitbook/assets/untitled3%20%2825%29.png)
 
 
 
 #### STEP 4: Key in the ‘Work Time’, ‘Break Time’ and ‘Minimum Work Hour’. If ‘Deduct Minutes’ is applicable, then key in the time period. If there are overtime involved, tick the ‘OT Claims’ checkbox to yes \(refer to Quick Note 1\). 
 
-![](../.gitbook/assets/untitled4%20%289%29.png)
+![](../.gitbook/assets/untitled4%20%2810%29.png)
 
 
 

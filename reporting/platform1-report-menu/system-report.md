@@ -8,7 +8,7 @@ description: >-
 
 ## System Report \(Image\)
 
-![](../../.gitbook/assets/untitled3%20%2829%29.png)
+![](../../.gitbook/assets/untitled3%20%2832%29.png)
 
 
 
@@ -22,7 +22,7 @@ This generated report will highlight the latest 'Preferences' setting which is b
 {% tab title="STEP 1" %}
 #### Click on the icon 'Preferences' and it will automatically generate the report. 
 
-![](../../.gitbook/assets/untitled5%20%2823%29.png)
+![](../../.gitbook/assets/untitled5%20%2825%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -38,7 +38,7 @@ This generated report will show communication methods from Server to Control Pan
 {% tab title="STEP 1" %}
 #### Click 'Connection'.  
 
-![](../../.gitbook/assets/untitled6%20%2820%29.png)
+![](../../.gitbook/assets/untitled6%20%2822%29.png)
 {% endtab %}
 
 {% tab title="STEP 2" %}

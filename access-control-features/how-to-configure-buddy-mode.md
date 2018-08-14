@@ -20,13 +20,13 @@ description: This section will highlight the steps needed to configure Buddy Mod
 
 #### STEP 3: On the staff card, proceed to ‘Card Data’. On the list of allocated Access Card, double click on the card which you would like to enable the Buddy Mode.
 
-![](../.gitbook/assets/untitled3%20%2824%29.png)
+![](../.gitbook/assets/untitled3%20%2827%29.png)
 
 
 
 #### STEP 4: On the Buddy Mode checkbox, tick Yes. Proceed to allocate a 'Buddy No.' for the staff. Click ‘Accept’.
 
-![](../.gitbook/assets/untitled4.png)
+![](../.gitbook/assets/untitled4%20%281%29.png)
 
 #### STEP 5: For the 2nd and subsequent that is to be paired to the 1st staff, repeat STEP 2 to STEP 5. Please note that to staffs that is required to be within the same buddy group, _**they must have the same 'buddy no'.**_
 
@@ -34,13 +34,13 @@ _\*\*\*\*_
 
 #### STEP 6: Return to Control Panel and proceed to ‘System’. Click ‘Controller’.
 
-![](../.gitbook/assets/untitled5%20%2815%29.png)
+![](../.gitbook/assets/untitled5%20%2817%29.png)
 
 
 
 #### STEP 7: Select the Control Panel that you would like to enable the Buddy Mode. Click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled6%20%2826%29.png)
+![](../.gitbook/assets/untitled6%20%2828%29.png)
 
 
 

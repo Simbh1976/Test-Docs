@@ -26,13 +26,13 @@ description: This section will highlight the steps needed to configure Access Li
 
 #### STEP 4: Proceed to ‘Bind to Zone’ and select the zone that you would like to have the reader to be bound to. Please note that both Entry and Exit readers should be bound to the same zone.
 
-![](../.gitbook/assets/untitled4%20%2812%29.png)
+![](../.gitbook/assets/untitled4%20%2813%29.png)
 
 
 
 #### STEP 5 & COMPLETE: Proceed to ‘Zone Setting’ Tab’ and set the ‘Maximum In-Count’ \(the maximum number of users within the selected zone\) number to your required value. By default, the system will set a maximum in count of 30,000 \(refer to Quick Note 2\). Click ‘Accept’ when done and the selected readers will be configured with Access Limit Feature. Once all steps have been completed, the system will begin to keep track the number of staffs within a 'zone'.
 
-![](../.gitbook/assets/untitled5%20%2829%29.png)
+![](../.gitbook/assets/untitled5%20%2831%29.png)
 
 
 

@@ -20,7 +20,7 @@ description: This section will highlight the steps needed in configuring alarms
 
 #### STEP 3: The 'Instructions/Comments - Edit' card will appear. Within this section, you can further customize the various instructions and comments contained within each alarm. Refer to the Tab below for further instructions.
 
-![](../.gitbook/assets/untitled3%20%2814%29.png)
+![](../.gitbook/assets/untitled3%20%2815%29.png)
 
 {% tabs %}
 {% tab title="1. Name" %}
@@ -34,13 +34,13 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 {% tab title="3. Priority" %}
 #### Here, you can set the alarm according to your required priority from 'Lowest' to 'Highest'. By default, all settings are at 'Normal'. 
 
-![](../.gitbook/assets/untitled4%20%287%29.png)
+![](../.gitbook/assets/untitled4%20%288%29.png)
 
 
 
 #### Depending on the priority setting for the alarm, when an event had been triggered, it will showcase itself in the 'Alarm List' according to it's level as shown below.
 
-![](../.gitbook/assets/untitled5%20%287%29.png)
+![](../.gitbook/assets/untitled5%20%288%29.png)
 {% endtab %}
 
 {% tab title="4. Instructions" %}

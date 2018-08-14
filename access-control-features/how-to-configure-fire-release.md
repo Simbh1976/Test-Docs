@@ -20,19 +20,19 @@ description: This section will highlight the steps needed to configure fire rele
 
 #### STEP 3: Click ‘Door Setting’ Tab. Scroll down to ‘Software Fire Release’ row. Tick on the checkbox. Proceed to ‘Fire Release Group’ and click on ‘undefined’.
 
-![](../.gitbook/assets/untitled3%20%2825%29.png)
+![](../.gitbook/assets/untitled3%20%2828%29.png)
 
 
 
 #### STEP 4: Choose the Fire Release Group that was created earlier. Click ‘Select’.
 
-![](../.gitbook/assets/untitled4%20%2824%29.png)
+![](../.gitbook/assets/untitled4%20%2826%29.png)
 
 
 
 #### STEP 5: Proceed to ‘Input Point Setting’. Choose the input that 'Fire Sensors' had been connected to the control panel and provide a name to it \(refer to Quick Note 1\). Navigate to the ‘Type’ column and choose ‘4 – Fire Input'. 
 
-![](../.gitbook/assets/untitled5%20%2813%29.png)
+![](../.gitbook/assets/untitled5%20%2815%29.png)
 
 
 
