@@ -10,29 +10,15 @@ description: >-
 
 Access level can be defined as the 'right to access', of a staff member through a barrier \(Barrier can be defined as a gate, turnstile, doors, lifts\) and there is a maximum limit of 255 'levels' that can be created within the system. A single 'Level' can be defined as a single 'configuration' pattern where different types and location of the barriers can be assigned into the 'level' \(configuration\) creating a unique group of barriers that can only be accessed by those whom were assigned with these rights. For example:
 
-_Access Level 1_
-
-1. Ground Floor Entry
-2. Office Door \(level 5\)
-3. Lift \(No.3\)
-4. Pantry Door \(level 5\)
-
-_Access Level 2_
-
-1. Ground Floor Entry
-2. Office Door \(level 10\)
-3. Lift \(No. 2\)
-4. Pantry Door \(level 10\)
+| Access Level 1 | Access Level 2 |
+| :--- | :--- |
+| Ground Floor Entry, Office Door \(level 5\), Lift \(No.3\), Pantry Door \(level 5\) | Ground Floor Entry, Office Door \(level 10\), Lift \(No. 2\), Pantry Door \(level 10\) |
 
 In the above example, if a staff is allocated with Access Level 1, then he will have the 'rights' to access doors listed within Access Level 1 while, he will not be able to access any doors listed under Access Level 2. The only similarity in this case would be the Ground Floor Entry, which is available to both Access Levels.
-
-
 
 ## Access Group
 
 Access Group will be the same as Access Level with the exception that, it has **'Unlimited Access Levels'** i.e., it does not limit itself to 255 levels \(configuration\) only. This feature is supported on the latest group of products.
-
-
 
 ## Antipassback
 
@@ -84,8 +70,6 @@ There are two modes available for Interlock:
 * Single Board Interlock: This would tie doors that is listed within a single control panel only.
 * Cross Board Interlock: This would tie doors that is listed on other control panels as well.
 
-
-
 ## Fire Release Group
 
 Fire Release Group is a feature where:
@@ -93,8 +77,6 @@ Fire Release Group is a feature where:
 {% hint style="info" %}
 All doors listed within a group will be 'released' \(UNLOCKED\) when fire sensors are being triggered. 
 {% endhint %}
-
-
 
 ## Access Limit
 
@@ -106,13 +88,9 @@ The system monitors the number of individuals permitted to remain within a zone 
 
 The feature above relies on Entry and Exit readers where it registers the number of staffs entering and exiting a zone / area. If for example, a room is only permitted to have 5 staffs within it, the entry reader will permit up to 5 staffs entering that zone / area while rejecting the 6th staff. If 1 staff exit the zone / area, then the system will permit up to 1 staff to enter that place.
 
-
-
 ## Buddy Mode
 
 Buddy mode is where a staff is paired with another staff to enter OR exit a door. The process would involve  both flashing their cards at the entry or exit readers to access an area. Without their respective buddies, they would not be able to enter doors in which the buddy mode is active. This feature would allow a staff to be paired with more than 1 buddies.
-
-
 
 ## Roll Call
 

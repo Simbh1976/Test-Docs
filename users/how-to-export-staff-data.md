@@ -68,8 +68,6 @@ This section will allow you to export data by **working shifts** \(by untick 'Al
 
 ![](../.gitbook/assets/untitled10%20%289%29.png)
 
-
-
 #### 3. By default, _Single Line output format_ \(data written in horizontal format\) will be the default choice. Untick this checkbox if you would like the data to be written in vertical format. The _fixed field length_ is to specify the data within the file to be in a fixed position. Tick the checkbox if there is such requirement. 
 
 #### 4. At this juncture, if there are no further requirements to further change parameters, click 'Export'. If further changes are necessary, proceed to STEP 5.

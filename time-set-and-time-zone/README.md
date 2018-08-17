@@ -22,9 +22,11 @@ Time Set defines a **'Time Interval'** **\(Operational Hours\)** for the system 
 
 Time Zone defines a **'Time Interval'** **\(‘Operational Hours’\)** for the system, **grouped together** on a **‘Weekly’** basis. To put this into a simpler perspective, Time Zone defines **'Day + Time Interval' \(Operational Day + Operational Hours\)** for the system. EntryPass Platform1 Server comes with two default Time Zone settings and System User configurable Time Zone settings:
 
+{% hint style="info" %}
 * Time Zone 0 = Not Active \(default and non-editable within the system\)
 * Time Zone 1 = 24 Hours Active \(default and non-editable within the system\)
 * Time Zone 2 & above = User configurable
+{% endhint %}
 
 ## Infographic Illustration
 

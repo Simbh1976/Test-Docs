@@ -10,8 +10,6 @@ description: >-
 
 ![](../../.gitbook/assets/untitled3%20%2832%29.png)
 
-
-
 ## 1. Preferences
 
 This report will highlight the latest 'Preferences' setting which is being applied to the system. 
