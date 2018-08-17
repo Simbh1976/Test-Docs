@@ -46,13 +46,13 @@ description: >-
 
 #### STEP 7: Click ‘Cross board Interlock Group’ on ‘Undefined’ link.
 
-![](../.gitbook/assets/untitled6%20%2831%29.png)
+![](../.gitbook/assets/untitled6%20%2832%29.png)
 
 
 
 #### STEP 8: Select the group that you would like to add the Control Panel into. Once the group is selected, click ‘Select’.
 
-![](../.gitbook/assets/untitled7%20%287%29.png)
+![](../.gitbook/assets/untitled7%20%288%29.png)
 
 
 
@@ -64,19 +64,19 @@ description: >-
 
 #### STEP 10: Select an input \(those which had not been occupied\) and proceed to ‘Type’ column.
 
-![](../.gitbook/assets/untitled9%20%281%29.png)
+![](../.gitbook/assets/untitled9%20%282%29.png)
 
 
 
 #### STEP 11: Click on the chosen row and select option '8 - Inerlock'. The system will automatically allocate a name to this input point.
 
-![](../.gitbook/assets/untitled10%20%286%29.png)
+![](../.gitbook/assets/untitled10%20%287%29.png)
 
 
 
 #### STEP 13: Proceed to Output Relay Tab. On the row indicating ‘Interlock’, tick a checkbox that the checkbox on the relay column \(See Quick Note 2\). Click ‘Accept’ and the Control Panel will begin the configuration once the final interlock process is completed.
 
-![](../.gitbook/assets/untitled11%20%286%29.png)
+![](../.gitbook/assets/untitled11%20%287%29.png)
 
 ## Quick Note: 
 

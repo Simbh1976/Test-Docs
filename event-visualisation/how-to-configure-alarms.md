@@ -52,7 +52,7 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 {% tab title="5. Comments" %}
 #### Under Comments, you can prepare a set of ‘standard’ replies that can used by the security personnel to input replies in the event an alarm is triggered.
 
-![](../.gitbook/assets/untitled7%20%2818%29.png)
+![](../.gitbook/assets/untitled7%20%2821%29.png)
 {% endtab %}
 
 {% tab title="6. Sound" %}
@@ -64,7 +64,7 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 
 #### STEP II: Provide a file name for the voice file and click ‘Save’ when done.
 
-![](../.gitbook/assets/untitled9%20%284%29.png)
+![](../.gitbook/assets/untitled9%20%285%29.png)
 
 
 
@@ -90,5 +90,5 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 
 #### STEP 4 & COMPLETE: When all is completed, click ‘Accept’ when done.
 
-![](../.gitbook/assets/untitled13%20%285%29.png)
+![](../.gitbook/assets/untitled13%20%286%29.png)
 

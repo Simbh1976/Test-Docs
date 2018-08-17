@@ -48,5 +48,6 @@
   * [Customising company name and logo](reporting/customising-company-name-and-logo.md)
   * [Platform1 Report Menu](reporting/platform1-report-menu/README.md)
     * [System Report](reporting/platform1-report-menu/system-report.md)
+    * [Company Report](reporting/platform1-report-menu/company-report.md)
 * [Other Information](other-information.md)
 

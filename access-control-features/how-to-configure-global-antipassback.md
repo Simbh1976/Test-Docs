@@ -44,13 +44,13 @@ description: This section will highlight the steps to configure Global Antipassb
 
 #### STEP 7: Choose the group that you have created earlier. Click ‘Select’ and proceed to next step.
 
-![](../.gitbook/assets/untitled7%20%2815%29.png)
+![](../.gitbook/assets/untitled7%20%2817%29.png)
 
 
 
 #### STEP 8 & COMPLETE: Click 'Accept'. Once this process is completed, the Control Panel will now be part of Global Antipassback group.
 
-![](../.gitbook/assets/untitled8%20%2812%29.png)
+![](../.gitbook/assets/untitled8%20%2813%29.png)
 
 
 

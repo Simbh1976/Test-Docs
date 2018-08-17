@@ -40,7 +40,7 @@ This section will allow you to export data by **job title** \(by untick 'All' ch
 {% endtab %}
 
 {% tab title="Shift" %}
-![](../.gitbook/assets/untitled6%20%2829%29.png)
+![](../.gitbook/assets/untitled6%20%2830%29.png)
 
 This section will allow you to export data by **working shifts** \(by untick 'All' checkbox\) within an organisation.
 {% endtab %}
@@ -50,23 +50,23 @@ This section will allow you to export data by **working shifts** \(by untick 'Al
 
 #### STEP 3: On ‘Fields Available’ section, click on the ‘Check’ mark if you would like to export all data fields OR tick on the individual check boxes if you would like to individual data to be exported.
 
-![](../.gitbook/assets/untitled7%20%2817%29.png)
+![](../.gitbook/assets/untitled7%20%2820%29.png)
 
 
 
 #### STEP 4: Under the ‘Options – Export Format’ section, you can choose either to export the data in Text, MS Excel or CSV format.
 
-![](../.gitbook/assets/untitled8%20%2815%29.png)
+![](../.gitbook/assets/untitled8%20%2817%29.png)
 
 {% tabs %}
 {% tab title="Export by Text File" %}
-![](../.gitbook/assets/untitled11%20%283%29.png)
+![](../.gitbook/assets/untitled11%20%284%29.png)
 
 #### 1: If there is no requirement to change the Delimiter, leave this section as it is. Proceed to assign an export path by clicking on the ‘Open Folder’ icon.
 
 #### 2: Locate OR create a folder that you would like to export the file into. By default, the file name will be ‘Export’ and you can rename the file if you wish to do so. Click 'Open'.
 
-![](../.gitbook/assets/untitled10%20%288%29.png)
+![](../.gitbook/assets/untitled10%20%289%29.png)
 
 
 
@@ -100,7 +100,7 @@ STEP III: \(Export by CSV File\): You can choose to have all the fields to be ex
 
 #### STEP 6: Untick the checkbox ‘Include extension for export Photo File Name’ if you do not want to have the ‘FULL’ file extension name listed in the export data. This feature is enabled by default. 
 
-![](../.gitbook/assets/untitled13%20%284%29.png)
+![](../.gitbook/assets/untitled13%20%285%29.png)
 
 
 

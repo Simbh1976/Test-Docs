@@ -56,7 +56,7 @@ description: This section will highlight the necessary steps in creating a Roste
 
 #### STEP 9: Provide a 'Name' and 'Description' for the ‘Shift Roster’ that is to be created.
 
-![](../.gitbook/assets/untitled9%20%285%29.png)
+![](../.gitbook/assets/untitled9%20%286%29.png)
 
 
 
@@ -68,7 +68,7 @@ description: This section will highlight the necessary steps in creating a Roste
 
 #### STEP 11: Select the ‘Day Shift’ that you have created. Click ‘Select’ when done. 
 
-![](../.gitbook/assets/untitled11%20%2810%29.png)
+![](../.gitbook/assets/untitled11%20%2811%29.png)
 
 
 
@@ -80,7 +80,7 @@ description: This section will highlight the necessary steps in creating a Roste
 
 #### STEP 13: When all dates had been set, click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled13%20%283%29.png)
+![](../.gitbook/assets/untitled13%20%284%29.png)
 
 
 
@@ -104,7 +104,7 @@ description: This section will highlight the necessary steps in creating a Roste
 
 #### STEP 17 & COMPLETE: Under ‘Shift Type’, tick ‘Roster’. Next, click on the pull down menu and choose the Roster Shift that the staff belongs to. Once complete, click ‘Accept’. Time Attendance for the particular staff will be active.
 
-![](../.gitbook/assets/untitled17%20%282%29.png)
+![](../.gitbook/assets/untitled17%20%283%29.png)
 
 ## Quick Note
 

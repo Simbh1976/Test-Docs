@@ -26,12 +26,10 @@ description: This section will highlight the required steps to Enable AES Encryp
 
 During setting up of Control Panel using **‘Add New Controller Wizard’**, AES encryption can be enabled during this phase. Please refer to manual: 
 
-{% hint style="info" %}
 * Quick Set Up Guide \(Ver 1.0\)
 * Section: 1.4 \(Step 4\) 
-* Proceed to **‘Advanced Setting’**. 
-* Tick **‘Use AES Encryption’** and click **‘Next’** to continue the set-up.
-{% endhint %}
+* Proceed to ‘Advanced Setting’. 
+* Tick ‘Use AES Encryption’ and click ‘Next’ to continue the set-up.
 
 
 

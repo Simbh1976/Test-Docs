@@ -38,25 +38,25 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 6: Click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled6%20%2825%29.png)
+![](../.gitbook/assets/untitled6%20%2826%29.png)
 
 
 
 #### STEP 7: The map that you have named and uploaded will appear on the list. Next, click ‘Close’.
 
-![](../.gitbook/assets/untitled7%20%2810%29.png)
+![](../.gitbook/assets/untitled7%20%2811%29.png)
 
 
 
 #### STEP 8: The list of floor plans will show the map that you have uploaded as well as the the name of the map while the full size map is displayed next to it. Next, navigate to ‘Point’ icon and click.
 
-![](../.gitbook/assets/untitled8%20%2810%29.png)
+![](../.gitbook/assets/untitled8%20%2811%29.png)
 
 
 
 #### STEP 9: The 'Properties' card will appear and under the parameter 'Type', choose the type of point that you would like to designate this point to. In this example, we shall use 'Door'. 
 
-![](../.gitbook/assets/untitled9%20%2810%29.png)
+![](../.gitbook/assets/untitled9%20%2811%29.png)
 
 | Type of Points | Description |
 | :--- | :--- |
@@ -79,7 +79,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 11: Choose the door listed on this parameter \(refer to Quick Note 1\). 
 
-![](../.gitbook/assets/untitled11%20%284%29.png)
+![](../.gitbook/assets/untitled11%20%285%29.png)
 
 
 
@@ -95,7 +95,7 @@ description: This section will show the necessary steps in configuring the Floor
 {% tab title="Pos X & Pos Y" %}
 #### Pos X and Pos Y would be concerned with the placement of the icon according to the X \(horizontal\) & Y \(vertical\) axis. Another option would be to drag the icon to the required area within the map.
 
-![](../.gitbook/assets/untitled13%20%281%29.png)
+![](../.gitbook/assets/untitled13%20%282%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -109,7 +109,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 14: At this juncture, you'll be able to see the point updated on the left top corner of the map while you can freely move the icon to the desired location as well. Repeat Step 8 – Step 13 for all the required points.
 
-![](../.gitbook/assets/untitled15%20%285%29.png)
+![](../.gitbook/assets/untitled15%20%286%29.png)
 
 
 
@@ -121,7 +121,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 16 & COMPLETE: All points will be updated with relevant icons showing real time updates on all points within the map. 
 
-![](../.gitbook/assets/untitled17%20%283%29.png)
+![](../.gitbook/assets/untitled17%20%284%29.png)
 
 ## Quick Note
 

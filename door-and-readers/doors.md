@@ -62,7 +62,7 @@ This parameter will dictate the number of times a user will be allowed to incorr
 
 ### 8. Lock Release Time Zone 
 
-This parameter will dictate the time period an electromagnetic lock will stay ‘unlocked’. By default, this feature is inactive however if a Time Zone is being assigned to this feature e.g. Monday to Sunday at 18:00PM – 20:00PM, then the electromagnetic lock will stay ‘UNLOCKED’ throughout 18:00PM – 20:00PM and the door can be freely opened and closed without the need to flash access cards. After 20:00, the electromagnetic lock will resume back to its original state of locking the door.
+This parameter will dictate the time period an electromagnetic lock will stay ‘unlocked’ \(security turned off\). By default, this feature is inactive however if a Time Zone is being assigned to this feature e.g. Monday to Sunday at 18:00PM – 20:00PM, then the electromagnetic lock will stay ‘UNLOCKED’ throughout 18:00PM – 20:00PM and **the door can be freely opened and closed without the need to flash access cards**. After 20:00, the electromagnetic lock will resume to its original state of locking the door and staffs would need to flash their access cards to open the door.
 
 
 
@@ -183,56 +183,61 @@ To further illustrate between the differences in both modes, refer to the below 
 
 #### \*\*\*\*
 
-#### _**Infographic Illustration \(Lock Energize Option = Release Time\)**_
+#### **Infographic Illustration \(Lock Energize Option = Release Time\)**
 
-{% tabs %}
-{% tab title="Scenario 1 \(Door Unopened\)" %}
-![](../.gitbook/assets/untitled2%20%2821%29.png)
+_Scenario 1 \(Typical Usage Scenario\)_
 
-1. A Staff flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\).
-2. However, the Staff did not pass through the door and is left UNOPENED.
-3. EM Lock is re-energised \(Re-locked\) when door is left unopened after the release duration of 15 sec is over. 
-{% endtab %}
-
-{% tab title="Scenario 2 \(Typical Usage Scenario\)" %}
-![](../.gitbook/assets/untitled3%20%2811%29.png)
+![](../.gitbook/assets/untitled5%20%2830%29.png)
 
 1. A Staff user flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\).
-2. The Staff proceed to open the door and passes through it.  
-3. The staff closes the door behind and the EM Lock is re-energised \(Re-lock\). 
-{% endtab %}
+2. The Staff proceed to open the door and passes through it. 
+3. The staff closes the door behind and the EM Lock is re-energised \(Re-lock\).
 
-{% tab title="Scenario 3 \(Door Left Open\)" %}
-![](../.gitbook/assets/untitled4.png)
+_Scenario 2 \(Door Unopened\)_
+
+![](../.gitbook/assets/untitled6%20%2818%29.png)
+
+1. A Staff flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\). 
+2. However, the Staff did not pass through the door and is left UNOPENED.
+3. EM Lock is re-energised \(Re-locked\) when door is left unopened after the release duration of 15 sec is over.
+
+_Scenario 3 \(Door Left Open\)_
+
+![](../.gitbook/assets/untitled7%20%2815%29.png)
 
 1. A Staff user flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\). 
-2. The Staff passes through the door and **LEFT THE DOOR OPEN** behind leaving the EM Lock unlocked.
-3. When the door is left open and the EM Lock automatically re-energises \(Re-lock\) after 15 seconds, an **alarm will be triggered with the message 'Door is left open'.** 
-{% endtab %}
-{% endtabs %}
+2. The Staff passes through the door and LEFT THE DOOR OPEN behind leaving the EM Lock unlocked.
+3. The EM Lock automatically re-energises \(Re-lock\) after 15 seconds when 'Release Time' countdown ends, an alarm will be triggered with the message 'Door is left open'.
 
 \_\_
 
-_**Infographic Illustration \(Lock Energise Option = Open Time\)**_
+**Infographic Illustration \(Lock Energise Option = Open Time\)**
 
-{% tabs %}
-{% tab title="Scenario 1 \(Door Unopened\)" %}
-![](../.gitbook/assets/untitled5%20%2814%29.png)
+_Scenario 1 \(Typical Usage Scenario\)_
+
+![](../.gitbook/assets/untitled8%20%2814%29.png)
+
+1. A Staff user flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\).
+2. The Staff proceed to open the door and passes through it. At this point, 'Release Time' countdown will stop AND 'Open Time' countdown will START.
+3. The staff closes the door behind and the EM Lock is re-energised \(Re-lock\). At this point, 'Open Time' countdown STOPS.
+
+_Scenario 2 \(Door Unopened\)_
+
+![](../.gitbook/assets/untitled9.png)
 
 1. A Staff flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\).
 2. However, the Staff did not pass through the door and is left UNOPENED.
 3. EM Lock is re-energised \(Re-locked\) when door is left unopened after the release duration of 15 sec is over. 
-4. **NOTE: When the door is unopened, the Lock Re-energise countdown period follows 'Release Time'.**
-{% endtab %}
 
-{% tab title="Scenario 2 \(Typical Usage Scenario\)" %}
-![](../.gitbook/assets/untitled6%20%2812%29.png)
+NOTE: When the door is unopened, the Lock Re-energise countdown period follows 'Release Time'.
 
-1. A Staff user flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\).
-2. The Staff proceed to open the door and passes through it. **At this point, 'Release Time' countdown will stop AND 'Open Time' countdown will START.**
-3. The staff closes the door behind and the EM Lock is re-energised \(Re-lock\). **At this point, 'Open Time' countdown STOPS.**
-{% endtab %}
-{% endtabs %}
+_Scenario 3 \(Door Left Open\)_
+
+![](../.gitbook/assets/untitled10%20%286%29.png)
+
+1. A Staff user flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\). 
+2. The Staff passes through the door and LEFT THE DOOR OPEN behind leaving the EM Lock unlocked. At this point, 'Release Time' countdown STOPS and 'Open Time' countdown STARTS.
+3. EM Lock automatically re-energises \(Re-lock\) after 15 seconds when 'Open Time' countdown ends, an alarm will be triggered with the message 'Door is left open'.
 
 
 
@@ -240,5 +245,23 @@ _**Infographic Illustration \(Lock Energise Option = Open Time\)**_
 
 This parameter will enable you to set a ‘delay’ in registering of doors’ open/close status within EntryPass Platform1 Server Standard Edition. The time period is measured in ‘units’ i.e. 1 unit \(0.1 Seconds\) while maximum units is at 255 \(approx.. 14 seconds\). When an event happen e.g. a door being forced open, that event reporting will be delayed hence, the triggering of alarm will also be delayed by the number of units that had been set.
 
+
+
 ### 27. Authorisation Lock Release
+
+Authorisation Lock Release is a feature related to **8. Lock Release Time Zone.** 
+
+When this feature is DISABLED, the door will automatically stay unlocked when 'Lock Release Time Zone' is active.
+
+When this feature is ENABLED, the door will only STAY UNLOCK when a first valid card flash, Local Pin or Keyed Card + Pin takes place during the active time zone. Therefore authorisation lock release will not unlock/release the door even when Lock Release Time Zone is active.
+
+#### Consider the following scenario below:
+
+{% hint style="info" %}
+Lock Release Time Zone: Mon - Fri \(6pm - 8pm\)
+
+When Authorisation Lock Release is disabled: The **door will automatically** unlock itself at 6pm and will continue to stay unlocked until 8pm. Thereafter, the door will be locked again.
+
+When Authorisation Lock Release is enabled: The **door will not automatically** unlock at 6pm. **The door will stay locked until a valid card flash, Local Pin or Keyed Card + Pin had been performed at the terminal.** When one of the conditions had been performed at the terminal, only then the door will unlock and stay unlocked onwards until 8pm. Thereafter. the door will be locked again.
+{% endhint %}
 
