@@ -8,7 +8,7 @@ description: This section will highlight the steps needed to configure Access Gr
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click ‘Access Group’.
 
-![](../.gitbook/assets/untitled1%20%2822%29.png)
+![](../.gitbook/assets/untitled1%20%2823%29.png)
 
 
 

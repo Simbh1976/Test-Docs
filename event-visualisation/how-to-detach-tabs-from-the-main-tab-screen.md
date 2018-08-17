@@ -4,7 +4,7 @@
 
 #### STEP 1: Proceed to any of the tabs listed and click on that tab.
 
-![](../.gitbook/assets/untitled1%20%2816%29.png)
+![](../.gitbook/assets/untitled1%20%2817%29.png)
 
 
 

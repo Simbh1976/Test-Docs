@@ -49,5 +49,6 @@
   * [Platform1 Report Menu](reporting/platform1-report-menu/README.md)
     * [System Report](reporting/platform1-report-menu/system-report.md)
     * [Company Report](reporting/platform1-report-menu/company-report.md)
+  * [Daily Event Report](reporting/daily-event-report.md)
 * [Other Information](other-information.md)
 

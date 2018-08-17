@@ -8,7 +8,7 @@ description: This section will highlight the steps needed in configuring alarms
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click on ‘System’ Menu. Next, click ‘Instructions/Comment’.
 
-![](../.gitbook/assets/untitled1%20%2825%29.png)
+![](../.gitbook/assets/untitled1%20%2826%29.png)
 
 
 

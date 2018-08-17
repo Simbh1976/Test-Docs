@@ -10,7 +10,7 @@ description: >-
 
 #### STEP 1: Proceed to Control Panel tab and click ‘Time Attendance’ menu. Next, click on ‘Normal Shift’.
 
-![](../.gitbook/assets/untitled1%20%2819%29.png)
+![](../.gitbook/assets/untitled1%20%2820%29.png)
 
 
 
