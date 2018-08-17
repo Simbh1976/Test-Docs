@@ -12,9 +12,11 @@ This section will cover the aspects of setting up Time Set and Time Zone. System
 
 Time Set defines a **'Time Interval'** **\(Operational Hours\)** for the system expressed in **‘Hours’ and ‘Minutes’**. To further incorporate flexibility requirements on operational hours for Hardware and Features, there are 3 time ‘Intervals’ available for setting purposes. Time Set comes with two default settings:
 
+{% hint style="info" %}
 * Time Set 0 = Not Active \(default and non-editable within the system\)
 * Time Set 1 = 24 Hours Active \(default and non-editable within the system\)
 * Time Set 2 and above = User configurable
+{% endhint %}
 
 ## Time Zone
 
@@ -114,37 +116,39 @@ Consider the Time Set & Time Zone settings below:
 
 #### When the above setting is applied to a hardware \(eg. a reader\) and feature \(Antipassback\), any staff using the access card would experience the following:
 
-* Between 9.00am - 3.00pm:
+* **Between 9.00am - 3.00pm:**
 
   * Reader: Active
   * Feature \(Antipassback\): Active
   * Result: door is active and staff can pass through.
   * Staffs cannot pass through \(enter\) the same door without performing 'flashing' out first \(Antipassback feature\). 
 
-* Between 3.01pm - 5.00pm: 
+* **Between 3.01pm - 5.00pm:** 
 
   * Reader: Active
   * Feature \(Antipassback\): Inactive
   * Result: door is active and staff can pass through.
   * Staffs can pass through \(enter\) the same door without performing 'flashing' out first \(Antipassback feature turned off\). 
 
-* Between 5.01pm - 8:59am \(Next Day\):
+* **Between 5.01pm - 8:59am \(Next Day\):**
 
   * Reader: Inactive
   * Feature \(Antipassback\): Inactive
   * Result: reader is inactive.
   * Staffs cannot pass through the door.
 
-* Saturdays, Sundays and Holidays:
+* **Saturdays, Sundays and Holidays:**
   * Reader: Inactive
   * Feature \(Antipassback\): Inactive
   * Result: reader is inactive.staffs cannot pass through the door.
 
+{% hint style="info" %}
 **Conclusion:** 
 
 1. As long as the hardware \(e.g. reader\) stays ACTIVE, any features will be active as long as its Time Zone setting is similar to hardware \(e.g. reader\). 
 2. If the feature Time Zone is 'shorter' \(shorter operating hours\) compared to hardware, the feature will be INACTIVE \(turned off\) like Scenario 2. 
 3. If the feature Time Zone setting is 'longer' compared to the hardware \(e.g. reader\), the feature will not work beyond the hardware's Time Zone because the hardware is in INACTIVE state like Scenario 2.
+{% endhint %}
 
 ## Quick Notes
 
