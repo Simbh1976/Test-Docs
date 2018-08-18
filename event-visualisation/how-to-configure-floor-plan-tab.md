@@ -14,13 +14,13 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 2: Click on the ‘Map’ icon.
 
-![](../.gitbook/assets/untitled2%20%2824%29.png)
+![](../.gitbook/assets/untitled2%20%2825%29.png)
 
 
 
 #### STEP 3: On the view map card, click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled3%20%2821%29.png)
+![](../.gitbook/assets/untitled3%20%2822%29.png)
 
 
 

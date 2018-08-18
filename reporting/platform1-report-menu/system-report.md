@@ -8,7 +8,7 @@ description: >-
 
 ## System Report \(Image\)
 
-![](../../.gitbook/assets/untitled3%20%2832%29.png)
+![](../../.gitbook/assets/untitled3%20%2833%29.png)
 
 ## 1. Preferences
 

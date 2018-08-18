@@ -34,7 +34,7 @@ description: >-
 
 #### STEP 5: Return to ‘Control Panel’ Tab. Click ‘Controller’.
 
-![](../.gitbook/assets/untitled4%20%289%29.png)
+![](../.gitbook/assets/untitled4%20%2810%29.png)
 
 
 

@@ -10,7 +10,7 @@
 
 #### STEP 2: Click the icon ‘Docked’.
 
-![](../.gitbook/assets/untitled4%20%2812%29.png)
+![](../.gitbook/assets/untitled4%20%2813%29.png)
 
 
 

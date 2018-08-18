@@ -50,11 +50,11 @@ Consider the Time Set \(TS\) & Time Zone \(TZ\) settings below:
 
 {% tabs %}
 {% tab title="Time Set" %}
-![](../.gitbook/assets/untitled3%20%2831%29.png)
+![](../.gitbook/assets/untitled3%20%2832%29.png)
 {% endtab %}
 
 {% tab title="Time Zone" %}
-![](../.gitbook/assets/untitled4%20%2825%29.png)
+![](../.gitbook/assets/untitled4%20%2826%29.png)
 {% endtab %}
 
 {% tab title="Reader \(Time Zone 2\)" %}
@@ -114,7 +114,7 @@ Consider the Time Set & Time Zone settings below:
 
 ![Time Zone applied to Reader \(hardware\)](../.gitbook/assets/untitled2%20%283%29.png)
 
-![Time Zone applied to Antipassback \(Feature\)](../.gitbook/assets/untitled3%20%2833%29.png)
+![Time Zone applied to Antipassback \(Feature\)](../.gitbook/assets/untitled3%20%2834%29.png)
 
 #### When the above setting is applied to a hardware \(eg. a reader\) and feature \(Antipassback\), any staff using the access card would experience the following:
 

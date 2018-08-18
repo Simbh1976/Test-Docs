@@ -14,19 +14,19 @@ description: This section will highlight the steps needed to configure fire rele
 
 #### STEP 2: Choose the Control Panel that you would like to enable the Fire Release Feature.
 
-![](../.gitbook/assets/untitled2%20%2817%29.png)
+![](../.gitbook/assets/untitled2%20%2818%29.png)
 
 
 
 #### STEP 3: Click ‘Door Setting’ Tab. Scroll down to ‘Software Fire Release’ row. Tick on the checkbox. Proceed to ‘Fire Release Group’ and click on ‘undefined’.
 
-![](../.gitbook/assets/untitled3%20%2828%29.png)
+![](../.gitbook/assets/untitled3%20%2829%29.png)
 
 
 
 #### STEP 4: Choose the Fire Release Group that was created earlier. Click ‘Select’.
 
-![](../.gitbook/assets/untitled4%20%2826%29.png)
+![](../.gitbook/assets/untitled4%20%2827%29.png)
 
 
 

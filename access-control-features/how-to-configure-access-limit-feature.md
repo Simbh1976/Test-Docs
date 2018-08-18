@@ -26,7 +26,7 @@ description: This section will highlight the steps needed to configure Access Li
 
 #### STEP 4: Proceed to ‘Bind to Zone’ and select the zone that you would like to have the reader to be bound to. Please note that both Entry and Exit readers should be bound to the same zone.
 
-![](../.gitbook/assets/untitled4%20%2813%29.png)
+![](../.gitbook/assets/untitled4%20%2814%29.png)
 
 
 
