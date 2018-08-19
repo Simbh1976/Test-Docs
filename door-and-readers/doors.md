@@ -137,7 +137,7 @@ To further illustrate between the differences in both modes, refer to the below 
 
 _Scenario 1 \(Typical Usage Scenario\)_
 
-![](../.gitbook/assets/untitled5%20%2830%29.png)
+![](../.gitbook/assets/untitled5%20%2831%29.png)
 
 1. A Staff user flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\).
 2. The Staff proceed to open the door and passes through it. 
@@ -145,7 +145,7 @@ _Scenario 1 \(Typical Usage Scenario\)_
 
 _Scenario 2 \(Door Unopened\)_
 
-![](../.gitbook/assets/untitled6%20%2818%29.png)
+![](../.gitbook/assets/untitled6%20%2819%29.png)
 
 1. A Staff flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\). 
 2. However, the Staff did not pass through the door and is left UNOPENED.
@@ -153,7 +153,7 @@ _Scenario 2 \(Door Unopened\)_
 
 _Scenario 3 \(Door Left Open\)_
 
-![](../.gitbook/assets/untitled7%20%2815%29.png)
+![](../.gitbook/assets/untitled7%20%2816%29.png)
 
 1. A Staff user flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\). 
 2. The Staff passes through the door and LEFT THE DOOR OPEN behind leaving the EM Lock unlocked.

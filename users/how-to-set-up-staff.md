@@ -38,7 +38,7 @@ description: This section will highlight the necessary steps to set up staff
 
 #### STEP 6: Choose the type of card for the staff \(refer to Quick Note 1\). Click the ‘Icon' \(beside ‘Accessibility’\) to add ‘Access Groups’ manually. 
 
-![](../.gitbook/assets/untitled5%20%2824%29.png)
+![](../.gitbook/assets/untitled5%20%2825%29.png)
 
 
 
@@ -56,7 +56,7 @@ description: This section will highlight the necessary steps to set up staff
 
 #### STEP 9 & COMPLETE: Access card details will appear on the list of card numbers. Click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled7%20%2826%29.png)
+![](../.gitbook/assets/untitled7%20%2827%29.png)
 
 ## Quick note
 

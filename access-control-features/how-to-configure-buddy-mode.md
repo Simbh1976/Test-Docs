@@ -40,7 +40,7 @@ _\*\*\*\*_
 
 #### STEP 7: Select the Control Panel that you would like to enable the Buddy Mode. Click ‘Edit \(F4\)’.
 
-![](../.gitbook/assets/untitled6%20%2829%29.png)
+![](../.gitbook/assets/untitled6%20%2830%29.png)
 
 
 

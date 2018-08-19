@@ -32,13 +32,13 @@ description: This section will highlight the necessary steps to edit Staff Roste
 
 #### STEP 5: Select the shift that you would like to change to. Once completed, click ‘Select’.
 
-![](../.gitbook/assets/untitled5%20%2823%29.png)
+![](../.gitbook/assets/untitled5%20%2824%29.png)
 
 
 
 #### STEP 6: Next, Click ‘Set’.
 
-![](../.gitbook/assets/untitled6%20%2831%29.png)
+![](../.gitbook/assets/untitled6%20%2832%29.png)
 
 
 

@@ -32,13 +32,13 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 5: Locate the map file and select it. Click ‘Open’ when done. It is important to note that only three type of files will be accepted \(.bmp, .jpg and .gif\).
 
-![](../.gitbook/assets/untitled5%20%2827%29.png)
+![](../.gitbook/assets/untitled5%20%2828%29.png)
 
 
 
 #### STEP 6: Click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled6%20%2826%29.png)
+![](../.gitbook/assets/untitled6%20%2827%29.png)
 
 
 
@@ -56,7 +56,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 9: The 'Properties' card will appear and under the parameter 'Type', choose the type of point that you would like to designate this point to. In this example, we shall use 'Door'. 
 
-![](../.gitbook/assets/untitled9%20%2811%29.png)
+![](../.gitbook/assets/untitled9%20%2812%29.png)
 
 | Type of Points | Description |
 | :--- | :--- |
@@ -79,7 +79,7 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 11: Choose the door listed on this parameter \(refer to Quick Note 1\). 
 
-![](../.gitbook/assets/untitled11%20%285%29.png)
+![](../.gitbook/assets/untitled11%20%286%29.png)
 
 
 

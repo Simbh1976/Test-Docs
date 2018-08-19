@@ -52,7 +52,7 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 {% tab title="5. Comments" %}
 #### Under Comments, you can prepare a set of ‘standard’ replies that can used by the security personnel to input replies in the event an alarm is triggered.
 
-![](../.gitbook/assets/untitled7%20%2821%29.png)
+![](../.gitbook/assets/untitled7%20%2822%29.png)
 {% endtab %}
 
 {% tab title="6. Sound" %}
@@ -82,7 +82,7 @@ This is the description of the alarm and the description is **NOT EDITABLE**.
 
 #### STEP V: To listen back to the recording, click the 'Play' button. 
 
-![](../.gitbook/assets/untitled12%20%284%29.png)
+![](../.gitbook/assets/untitled12%20%285%29.png)
 {% endtab %}
 {% endtabs %}
 

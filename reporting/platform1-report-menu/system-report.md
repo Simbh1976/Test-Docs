@@ -18,7 +18,7 @@ This report will highlight the latest 'Preferences' setting which is being appli
 
 Click on the icon 'Preferences' and it will automatically generate the report.
 
-![](../../.gitbook/assets/untitled5%20%2825%29.png)
+![](../../.gitbook/assets/untitled5%20%2826%29.png)
 
 {% file src="../../.gitbook/assets/1preferences.pdf" caption="Preferences Sample Report" %}
 
@@ -44,7 +44,7 @@ This generated report will show the IP Address and details of connected remote d
 1. You can choose all OR individual routers listed within the list box. 
 2. Next, click 'Generate'. 
 
-![](../../.gitbook/assets/untitled9%20%2812%29.png)
+![](../../.gitbook/assets/untitled9%20%2813%29.png)
 
 {% file src="../../.gitbook/assets/3router.pdf" caption="Router Sample Report" %}
 
@@ -57,7 +57,7 @@ This generated report will show all Time Sets in the system.
 1. You can choose all OR individual Time Sets listed within the list box. 
 2. Next, click 'Generate'. 
 
-![](../../.gitbook/assets/untitled11%20%283%29.png)
+![](../../.gitbook/assets/untitled11%20%284%29.png)
 
 {% file src="../../.gitbook/assets/4time-set.pdf" caption="Time Set Sample Report" %}
 

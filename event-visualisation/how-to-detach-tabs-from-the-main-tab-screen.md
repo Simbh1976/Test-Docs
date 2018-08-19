@@ -16,13 +16,13 @@
 
 #### STEP 3: Once the 'Docked' icon is clicked, ‘numbers’ will appear on the monitor identifying the monitor numbers.
 
-![](../.gitbook/assets/untitled5%20%2820%29.png)
+![](../.gitbook/assets/untitled5%20%2821%29.png)
 
 
 
 #### STEP 4: Scroll down to the desired monitor number and click on it.
 
-![](../.gitbook/assets/untitled6%20%2824%29.png)
+![](../.gitbook/assets/untitled6%20%2825%29.png)
 
 
 

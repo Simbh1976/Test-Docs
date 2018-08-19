@@ -36,19 +36,19 @@ description: >-
 
 #### STEP 5: Click ‘Accept’.
 
-![](../.gitbook/assets/untitled5%20%2821%29.png)
+![](../.gitbook/assets/untitled5%20%2822%29.png)
 
 ### Staff Setting
 
 #### STEP 6: Return to ‘Control Panel’ and click ‘Company’. Proceed to ‘Staff’.
 
-![](../.gitbook/assets/untitled6%20%2828%29.png)
+![](../.gitbook/assets/untitled6%20%2829%29.png)
 
 
 
 #### STEP 7: List the name of the staff either through Filter View or Classic View. Once the list is listed out, select the staff that you would like to enable Antipassback feature.
 
-![](../.gitbook/assets/untitled7%20%2823%29.png)
+![](../.gitbook/assets/untitled7%20%2824%29.png)
 
 
 
@@ -60,13 +60,13 @@ description: >-
 
 #### STEP 9: Proceed to tick ‘Antipassback’ to Yes.
 
-![](../.gitbook/assets/untitled9%20%2810%29.png)
+![](../.gitbook/assets/untitled9%20%2811%29.png)
 
 
 
 #### STEP 10: Click ‘Accept’.
 
-![](../.gitbook/assets/untitled11%20%286%29.png)
+![](../.gitbook/assets/untitled11%20%287%29.png)
 
 #### STEP 11 & COMPLETE: Click ‘Accept’ and the Antipassback feature is now enabled for that staff.
 

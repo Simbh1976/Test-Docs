@@ -40,7 +40,7 @@ This section will allow you to export data by **job title** \(by untick 'All' ch
 {% endtab %}
 
 {% tab title="Shift" %}
-![](../.gitbook/assets/untitled6%20%2830%29.png)
+![](../.gitbook/assets/untitled6%20%2831%29.png)
 
 This section will allow you to export data by **working shifts** \(by untick 'All' checkbox\) within an organisation.
 {% endtab %}
@@ -50,7 +50,7 @@ This section will allow you to export data by **working shifts** \(by untick 'Al
 
 #### STEP 3: On ‘Fields Available’ section, click on the ‘Check’ mark if you would like to export all data fields OR tick on the individual check boxes if you would like to individual data to be exported.
 
-![](../.gitbook/assets/untitled7%20%2820%29.png)
+![](../.gitbook/assets/untitled7%20%2821%29.png)
 
 
 
@@ -60,13 +60,13 @@ This section will allow you to export data by **working shifts** \(by untick 'Al
 
 {% tabs %}
 {% tab title="Export by Text File" %}
-![](../.gitbook/assets/untitled11%20%284%29.png)
+![](../.gitbook/assets/untitled11%20%285%29.png)
 
 #### 1: If there is no requirement to change the Delimiter, leave this section as it is. Proceed to assign an export path by clicking on the ‘Open Folder’ icon.
 
 #### 2: Locate OR create a folder that you would like to export the file into. By default, the file name will be ‘Export’ and you can rename the file if you wish to do so. Click 'Open'.
 
-![](../.gitbook/assets/untitled10%20%289%29.png)
+![](../.gitbook/assets/untitled10%20%2810%29.png)
 
 #### 3. By default, _Single Line output format_ \(data written in horizontal format\) will be the default choice. Untick this checkbox if you would like the data to be written in vertical format. The _fixed field length_ is to specify the data within the file to be in a fixed position. Tick the checkbox if there is such requirement. 
 

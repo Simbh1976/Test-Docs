@@ -58,7 +58,7 @@ Consider the Time Set \(TS\) & Time Zone \(TZ\) settings below:
 {% endtab %}
 
 {% tab title="Reader \(Time Zone 2\)" %}
-![](../.gitbook/assets/untitled5%20%2819%29.png)
+![](../.gitbook/assets/untitled5%20%2820%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -98,11 +98,11 @@ Consider the Time Set & Time Zone settings below:
 {% endtab %}
 
 {% tab title="Time Zone" %}
-![](../.gitbook/assets/untitled7%20%2822%29.png)
+![](../.gitbook/assets/untitled7%20%2823%29.png)
 {% endtab %}
 
 {% tab title="Reader \(Time Zone 2\)" %}
-![](../.gitbook/assets/untitled5%20%2826%29.png)
+![](../.gitbook/assets/untitled5%20%2827%29.png)
 {% endtab %}
 
 {% tab title="Feature \(Antipassback\) \(Time Zone 3\)" %}

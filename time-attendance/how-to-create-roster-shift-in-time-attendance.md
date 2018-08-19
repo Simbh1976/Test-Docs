@@ -68,13 +68,13 @@ description: This section will highlight the necessary steps in creating a Roste
 
 #### STEP 11: Select the ‘Day Shift’ that you have created. Click ‘Select’ when done. 
 
-![](../.gitbook/assets/untitled11%20%2811%29.png)
+![](../.gitbook/assets/untitled11%20%2812%29.png)
 
 
 
 #### STEP 12: Click 'Set'. Repeat Step 10 - Step 11 with other dates as required. You can clear the selection either by highlighting the dates and press 'Clear Selection' OR you can clear the whole calendar by clicking 'Clear All'. 
 
-![](../.gitbook/assets/untitled12%20%285%29.png)
+![](../.gitbook/assets/untitled12%20%286%29.png)
 
 
 
