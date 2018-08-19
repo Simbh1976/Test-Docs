@@ -8,7 +8,7 @@ description: This section will highlight the steps to configure Time Zone featur
 
 #### STEP 1: Proceed to **‘Control Panel Tab’** and click on the icon **‘Time Zone’** to continue.
 
-![](../.gitbook/assets/untitled1%20%2815%29.png)
+![](../.gitbook/assets/untitled1%20%2817%29.png)
 
 
 

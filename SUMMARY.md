@@ -49,6 +49,8 @@
   * [Platform1 Report Menu](reporting/platform1-report-menu/README.md)
     * [System Report](reporting/platform1-report-menu/system-report.md)
     * [Company Report](reporting/platform1-report-menu/company-report.md)
-  * [Daily Event Report](reporting/daily-event-report.md)
+    * [Daily Event Report](reporting/platform1-report-menu/daily-event-report.md)
+    * [Daily Alarm Report](reporting/platform1-report-menu/daily-alarm-report.md)
+    * [User Audit Trail](reporting/platform1-report-menu/user-audit-trail.md)
 * [Other Information](other-information.md)
 

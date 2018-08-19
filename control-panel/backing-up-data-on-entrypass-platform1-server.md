@@ -50,7 +50,7 @@ description: This section will highlight the important steps on how to back up s
 
 #### STEP 8: Proceed to Backup location and choose the medium for backup. If CDRW method is chosen, key in a name in the ‘CD Name’ row.
 
-![](../.gitbook/assets/untitled6%20%2813%29.png)
+![](../.gitbook/assets/untitled6%20%2815%29.png)
 
 
 

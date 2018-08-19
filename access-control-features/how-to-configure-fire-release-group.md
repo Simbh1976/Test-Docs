@@ -8,7 +8,7 @@ description: This section will highlight the steps needed to configure fire rele
 
 #### STEP 1: Proceed to ‘Control Panel Tab’. Click on ‘Fire Release Group’.
 
-![](../.gitbook/assets/untitled1%20%2824%29.png)
+![](../.gitbook/assets/untitled1%20%2826%29.png)
 
 
 
@@ -25,7 +25,7 @@ description: This section will highlight the steps needed to configure fire rele
 
 {% tabs %}
 {% tab title="General" %}
-![](../.gitbook/assets/untitled3%20%289%29.png)
+![](../.gitbook/assets/untitled3%20%2810%29.png)
 
 If General option is chosen, once the Name and Description of the Fire Release Group had been filled up, proceed to STEP 4 & COMPLETE.
 {% endtab %}
@@ -33,17 +33,17 @@ If General option is chosen, once the Name and Description of the Fire Release G
 {% tab title="Specific" %}
 #### Click the green ‘+’ button and a choice of doors will be presented.
 
-![](../.gitbook/assets/untitled4%20%284%29.png)
+![](../.gitbook/assets/untitled4%20%286%29.png)
 
 #### 
 
 #### Tick the doors that you would like to automatically unlock in the event the Fire trigger is triggered. Press ‘Accept’.
 
-![](../.gitbook/assets/untitled5%20%283%29.png)
+![](../.gitbook/assets/untitled5%20%284%29.png)
 {% endtab %}
 {% endtabs %}
 
 #### STEP 4 & COMPLETE: Click ‘Save and Close’. A Fire Release group will be created in this list. This group is required for the following section in configuring Fire Release Feature.
 
-![](../.gitbook/assets/untitled6%20%288%29.png)
+![](../.gitbook/assets/untitled6%20%289%29.png)
 

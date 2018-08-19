@@ -10,7 +10,7 @@ description: >-
 
 #### STEP 1: Proceed to 'Control Panel' Tab and proceed to 'System' menu. Next, click 'Preferences'. 
 
-![](../.gitbook/assets/untitled1%20%2822%29.png)
+![](../.gitbook/assets/untitled1%20%2824%29.png)
 
 
 
@@ -22,25 +22,25 @@ description: >-
 
 #### STEP 3: Fill up the 'Name' row with company name and click on 'Open Folder' icon to locate the company logo image \(refer to Quick Note 1\).
 
-![](../.gitbook/assets/untitled3%20%2830%29.png)
+![](../.gitbook/assets/untitled3%20%2832%29.png)
 
 
 
 #### STEP 4: Select the image file and click 'Open'. 
 
-![](../.gitbook/assets/untitled4%20%2812%29.png)
+![](../.gitbook/assets/untitled4%20%2814%29.png)
 
 
 
 #### STEP 5: Once the file name appears on the 'Logo' row, click 'Accept'. 
 
-![](../.gitbook/assets/untitled5%20%2830%29.png)
+![](../.gitbook/assets/untitled5%20%2833%29.png)
 
 
 
 #### STEP 6 & COMPLETE: Next, click 'Close' and the reports will be customised with your company name and logo.
 
-![](../.gitbook/assets/untitled6%20%282%29.png)
+![](../.gitbook/assets/untitled6%20%283%29.png)
 
 ## Quick Note:
 

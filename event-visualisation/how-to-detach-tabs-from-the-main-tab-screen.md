@@ -4,25 +4,25 @@
 
 #### STEP 1: Proceed to any of the tabs listed and click on that tab.
 
-![](../.gitbook/assets/untitled1%20%2817%29.png)
+![](../.gitbook/assets/untitled1%20%2819%29.png)
 
 
 
 #### STEP 2: Click the icon ‘Docked’.
 
-![](../.gitbook/assets/untitled4%20%2813%29.png)
+![](../.gitbook/assets/untitled4%20%2815%29.png)
 
 
 
 #### STEP 3: Once the 'Docked' icon is clicked, ‘numbers’ will appear on the monitor identifying the monitor numbers.
 
-![](../.gitbook/assets/untitled5%20%2821%29.png)
+![](../.gitbook/assets/untitled5%20%2822%29.png)
 
 
 
 #### STEP 4: Scroll down to the desired monitor number and click on it.
 
-![](../.gitbook/assets/untitled6%20%2825%29.png)
+![](../.gitbook/assets/untitled6%20%2828%29.png)
 
 
 

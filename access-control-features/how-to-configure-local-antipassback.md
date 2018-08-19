@@ -24,25 +24,25 @@ description: >-
 
 #### STEP 3: Proceed to ‘Door Setting’ and scroll down to ‘Antipassback Time Zone’.
 
-![](../.gitbook/assets/untitled3%20%2819%29.png)
+![](../.gitbook/assets/untitled3%20%2820%29.png)
 
 
 
 #### STEP 4: Select the ‘Time Zone’ that you would like to have the Antipassback feature to be active. Click ‘Select’ when done.
 
-![](../.gitbook/assets/untitled4%20%2825%29.png)
+![](../.gitbook/assets/untitled4%20%2827%29.png)
 
 
 
 #### STEP 5: Click ‘Accept’.
 
-![](../.gitbook/assets/untitled5%20%2822%29.png)
+![](../.gitbook/assets/untitled5%20%2823%29.png)
 
 ### Staff Setting
 
 #### STEP 6: Return to ‘Control Panel’ and click ‘Company’. Proceed to ‘Staff’.
 
-![](../.gitbook/assets/untitled6%20%2829%29.png)
+![](../.gitbook/assets/untitled6%20%2832%29.png)
 
 
 

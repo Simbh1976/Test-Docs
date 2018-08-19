@@ -8,7 +8,7 @@ description: This section will highlight the steps needed to configure Access Gr
 
 #### STEP 1: Proceed to ‘Control Panel Tab’ and click ‘Access Group’.
 
-![](../.gitbook/assets/untitled1%20%2823%29.png)
+![](../.gitbook/assets/untitled1%20%2825%29.png)
 
 
 
@@ -32,13 +32,13 @@ description: This section will highlight the steps needed to configure Access Gr
 
 #### STEP 5: Click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled5%20%2818%29.png)
+![](../.gitbook/assets/untitled5%20%2819%29.png)
 
 
 
 STEP 6: A warning prompt will appear highlight whether to Assign this Access Group to all cards. 
 
-![](../.gitbook/assets/untitled6%20%281%29.png)
+![](../.gitbook/assets/untitled6%20%282%29.png)
 
 * If Yes: The newly created Access Group will be automatically be assigned to all card holders \(staff\).
 * If No: The newly created Access Group would have to be manually allocated to the relevant card holder \(staff\). 

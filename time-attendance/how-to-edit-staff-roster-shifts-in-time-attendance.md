@@ -26,19 +26,19 @@ description: This section will highlight the necessary steps to edit Staff Roste
 
 #### STEP 4: Highlight the dates in the relevant month that you would like to have the shift changed. Next, proceed to ‘Day Shift’ tab and click on the ‘Day Shift link’.
 
-![](../.gitbook/assets/untitled4%20%2817%29.png)
+![](../.gitbook/assets/untitled4%20%2819%29.png)
 
 
 
 #### STEP 5: Select the shift that you would like to change to. Once completed, click ‘Select’.
 
-![](../.gitbook/assets/untitled5%20%2824%29.png)
+![](../.gitbook/assets/untitled5%20%2825%29.png)
 
 
 
 #### STEP 6: Next, Click ‘Set’.
 
-![](../.gitbook/assets/untitled6%20%2832%29.png)
+![](../.gitbook/assets/untitled6%20%2835%29.png)
 
 
 

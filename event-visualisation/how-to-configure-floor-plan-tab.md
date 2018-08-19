@@ -20,25 +20,25 @@ description: This section will show the necessary steps in configuring the Floor
 
 #### STEP 3: On the view map card, click ‘Add \(F2\)’.
 
-![](../.gitbook/assets/untitled3%20%2822%29.png)
+![](../.gitbook/assets/untitled3%20%2823%29.png)
 
 
 
 #### STEP 4: On the ‘Map -Add’ card, provide a name to the map and also upload the file into the system by clicking open folder icon in ‘File Location’.
 
-![](../.gitbook/assets/untitled4%20%282%29.png)
+![](../.gitbook/assets/untitled4%20%283%29.png)
 
 
 
 #### STEP 5: Locate the map file and select it. Click ‘Open’ when done. It is important to note that only three type of files will be accepted \(.bmp, .jpg and .gif\).
 
-![](../.gitbook/assets/untitled5%20%2828%29.png)
+![](../.gitbook/assets/untitled5%20%2830%29.png)
 
 
 
 #### STEP 6: Click ‘Save and Close’.
 
-![](../.gitbook/assets/untitled6%20%2827%29.png)
+![](../.gitbook/assets/untitled6%20%2830%29.png)
 
 
 

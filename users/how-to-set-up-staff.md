@@ -26,19 +26,19 @@ description: This section will highlight the necessary steps to set up staff
 
 #### STEP 4: On the tab column, click ‘Card Data’. Click ‘Add’ to create a new card to be allocated to the User.
 
-![](../.gitbook/assets/untitled3%20%287%29.png)
+![](../.gitbook/assets/untitled3%20%288%29.png)
 
 
 
 #### STEP 5: Input the card number provided by the vendor. Alternatively, click ‘Scan from Reader’. Proceed to a nearest access card reader and scan on the card reader to obtain the card number.
 
-![](../.gitbook/assets/untitled4%20%2815%29.png)
+![](../.gitbook/assets/untitled4%20%2817%29.png)
 
 
 
 #### STEP 6: Choose the type of card for the staff \(refer to Quick Note 1\). Click the ‘Icon' \(beside ‘Accessibility’\) to add ‘Access Groups’ manually. 
 
-![](../.gitbook/assets/untitled5%20%2825%29.png)
+![](../.gitbook/assets/untitled5%20%2826%29.png)
 
 
 
@@ -50,7 +50,7 @@ description: This section will highlight the necessary steps to set up staff
 
 #### STEP 8: You will brought back to the add card screen. Proceed to untick ‘Antipassback’. Click ‘Add and Close’.
 
-![](../.gitbook/assets/untitled6%20%284%29.png)
+![](../.gitbook/assets/untitled6%20%285%29.png)
 
 
 

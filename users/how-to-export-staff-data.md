@@ -18,7 +18,7 @@ description: This section will highlight the necessary steps to export staff dat
 
 {% tabs %}
 {% tab title="Staff" %}
-![](../.gitbook/assets/untitled3%20%2827%29.png)
+![](../.gitbook/assets/untitled3%20%2829%29.png)
 
 This section will allow you to export data by either:
 
@@ -28,19 +28,19 @@ This section will allow you to export data by either:
 {% endtab %}
 
 {% tab title="Department" %}
-![](../.gitbook/assets/untitled4%20%2820%29.png)
+![](../.gitbook/assets/untitled4%20%2822%29.png)
 
 This section will allow you to export data by **department** \(by untick 'All' checkbox\) within an organisation.
 {% endtab %}
 
 {% tab title="Job" %}
-![](../.gitbook/assets/untitled5%20%286%29.png)
+![](../.gitbook/assets/untitled5%20%287%29.png)
 
 This section will allow you to export data by **job title** \(by untick 'All' checkbox\) within an organisation.
 {% endtab %}
 
 {% tab title="Shift" %}
-![](../.gitbook/assets/untitled6%20%2831%29.png)
+![](../.gitbook/assets/untitled6%20%2834%29.png)
 
 This section will allow you to export data by **working shifts** \(by untick 'All' checkbox\) within an organisation.
 {% endtab %}

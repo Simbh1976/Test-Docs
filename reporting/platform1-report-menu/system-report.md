@@ -8,7 +8,7 @@ description: >-
 
 ## System Report \(Image\)
 
-![](../../.gitbook/assets/untitled3%20%2833%29.png)
+![](../../.gitbook/assets/untitled3%20%2835%29.png)
 
 ## 1. Preferences
 
@@ -18,7 +18,7 @@ This report will highlight the latest 'Preferences' setting which is being appli
 
 Click on the icon 'Preferences' and it will automatically generate the report.
 
-![](../../.gitbook/assets/untitled5%20%2826%29.png)
+![](../../.gitbook/assets/untitled5%20%2827%29.png)
 
 {% file src="../../.gitbook/assets/1preferences.pdf" caption="Preferences Sample Report" %}
 

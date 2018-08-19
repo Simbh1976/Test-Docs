@@ -10,7 +10,7 @@ description: >-
 
 #### STEP 1: Locate the transactions that display 'Unknown Card Number \(Entry/Exit\)'.
 
-![](../.gitbook/assets/untitled1%20%2814%29.png)
+![](../.gitbook/assets/untitled1%20%2816%29.png)
 
 
 
@@ -22,7 +22,7 @@ description: >-
 
 #### STEP 3: Move cursor to ‘Add Card’ and choose ‘Normal card OR Guard Tour card’ \(refer to Quick Note 1\).
 
-![](../.gitbook/assets/untitled3%20%2823%29.png)
+![](../.gitbook/assets/untitled3%20%2825%29.png)
 
 
 
@@ -30,7 +30,7 @@ description: >-
 
 {% page-ref page="how-to-set-up-staff.md" %}
 
-![](../.gitbook/assets/untitled4%20%2828%29.png)
+![](../.gitbook/assets/untitled4%20%2830%29.png)
 
 
 

@@ -4,7 +4,7 @@ The following sections will highlight some of the reporting features that you ma
 
 #### In order to generate reports, proceed to 'Control Panel' Tab and click on 'Utilities' menu. Next click 'Report' and you will be presented with the Platform1 Reporting Menu.
 
-![](../.gitbook/assets/untitled1%20%288%29.png)
+![](../.gitbook/assets/untitled1%20%289%29.png)
 
 In this section, we will concentrating on a few basic important reports for general usage. To generate a much in depth report for other usage, please refer to Platform1 Server Help File \(F1\).
 
