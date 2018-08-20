@@ -114,9 +114,13 @@ This generated report will show all input points in the system.
 
 {% file src="../../.gitbook/assets/8input-point.pdf" caption="Input Point Sample Report" %}
 
-## 9. IO Board
+## 9. IO Board\*
 
-## 10. Alarm Zone
+This generated report will show all IO Boards \(HIO Model\) connected to the Platform1 Server. For detail information and sample report, refer to Platform1 Server Manual.
+
+## 10. Alarm Zone\*
+
+This generated report will show all Alarm Zones created within IO Boards \(HIO Model\) connected to the Platform1 Server. For detail information and sample report, refer to Platform1 Server Manual.
 
 ## 11. Access Level
 

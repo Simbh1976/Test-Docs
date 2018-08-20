@@ -43,7 +43,7 @@ description: >-
 
 ## Quick Note
 
-1. This guide will use N5400 Network Control Panel as an illustration. For a more detailed list of Control Panel settings, please refer to P1 Server Help File System. 
+1. This guide will use N5400 Network Control Panel as an illustration. For a more detailed list of Control Panel settings, please refer to Platform1 Server Manual by pressing \(F1\) on your keyboard. 
 2. To get the Network address and Port No, you can obtain it from:
    * your System Installer \(SI\)
    * The manual Entrypass Platform1 Server 'Quick Start-Up Guide' if the Control Panel is set up under default settings.

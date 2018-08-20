@@ -73,5 +73,5 @@ description: >-
 
 ## Quick Note
 
-1. For Guard Tour card, please refer to Help and Manual \(F1\) within the Platform1 Server System.
+1. For Guard Tour card, please refer to Platform1 Server Manual within the Platform1 Server System by pressing \(F1\) on the keyboard.
 
