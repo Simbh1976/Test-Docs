@@ -34,7 +34,9 @@ This parameter will dictate the time that Electromagnetic locks \(EM Lock\) will
 
 ## 5. Entry and Exit Zone ID 
 
-This parameter will dictate the entry and exit zone for readers. Entry zones can bear any number however it is very important to know that both entry and exit zones should not have similar ID’s \(Platform1 Server does not strictly prohibit similar ID values for entry and exit zones\) as doing so, will render the system unable to track entry and exit of individuals for **Roll Call and Antipassback Functions**.
+This parameter will dictate the entry and exit zone for readers. Entry zones can bear any number however it is very important to know that both entry and exit zones should not have similar ID’s \(Platform1 Server does not strictly prohibit similar ID values for entry and exit zones\) as doing so, will render the system unable to track entry and exit of individuals for **Roll Call and Antipassback Functions** \(refer to Roll Call and Antipassback feature below\).
+
+{% page-ref page="../access-control-features/" %}
 
 ## 6. Card + Pin Time Zone 
 
@@ -54,15 +56,19 @@ This parameter will dictate the time period in which the exit button feature wil
 
 ## 10. Antipassback Time Zone 
 
-This parameter will dictate the time period in which Antipassback \(please refer to the feature Antipassback\) will be active. By default this feature will be inactive and when a Time Zone had been assigned to this feature, Antipassback feature will stay active throughout the time period.
+This parameter will dictate the time period in which Antipassback \(please refer to the feature Antipassback under Access Control Features\) will be active. By default this feature will be inactive and when a Time Zone had been assigned to this feature, Antipassback feature will stay active throughout the time period.
+
+{% page-ref page="../access-control-features/" %}
 
 ## 11. Antipassback Lockout 
 
-This parameter will enable a 'Lockout' in the event that the Antipassback feature is triggered. The access card that the staff is holding will no longer be allowed to enter the door until the lockout is reversed by the System Administrator. If the card continue to be flashed while it is still under Antipassback lockout, it will result in a 'Card Lockout' in which, the card no longer can be used on **ANY** doors until the lockout is reversed. To clear the lockout, please visit the section 'Send / Retrieve' \(Specific\) in Platform1 Help File. 
+This parameter will enable a 'Lockout' in the event that the Antipassback feature is triggered. The access card that the staff is holding will no longer be allowed to enter the door until the lockout is reversed by the System Administrator. If the card continue to be flashed while it is still under Antipassback lockout, it will result in a 'Card Lockout' in which, the card no longer can be used on **ANY** doors until the lockout is reversed. To clear the lockout, please visit the section 'Send / Retrieve' \(Specific\) in Platform1 Server manual. 
 
 ## 12. Buddy Mode Time Zone 
 
-This parameter will dictate the time period in which the Buddy Mode will be active. For more information on Buddy Mode feature please refer to ‘5.8 How to Configure Buddy Mode’. By default, this feature is inactive and when a Time Zone is assigned to this feature, Buddy Mode feature will stay active throughout the time period.
+This parameter will dictate the time period in which the Buddy Mode will be active. For more information on Buddy Mode feature please refer to 'Buddy Mode' under Access Control Feature page below. By default, this feature is inactive and when a Time Zone is assigned to this feature, Buddy Mode feature will stay active throughout the time period.
+
+{% page-ref page="../access-control-features/" %}
 
 ## 13. Pin 1 to Pin 3 
 
@@ -82,7 +88,9 @@ This parameter will enable the feature for Time Attendance. By enabling this fea
 
 ## 17. Roll Call Reader 
 
-This parameter will enable the Roll Call feature. For more information on Roll Call feature please refer to ‘5.9 How to Configure Roll Call Group’. By default, this feature is inactive and by ticking the checkbox, this will activate the feature and will be active at all times.
+This parameter will enable the Roll Call feature. For more information on Roll Call feature please refer to Roll Call under Access Control Feature page below. By default, this feature is inactive and by ticking the checkbox, this will activate the feature and will be active at all times.
+
+{% page-ref page="../access-control-features/" %}
 
 ## 18. Roll Call Group 
 
@@ -90,15 +98,21 @@ This parameter will enable you to set the Roll Call Group that had been created 
 
 ## 19. Check Card Expiry Date 
 
-This parameter will enable you to check each users’ card expiry date. Card Expiry settings can be found in ‘Staff’ settings, ‘6.1 How to enrol Users’. When the card is expired, a user will not be allowed to enter the designated door either a new card had been issued to the user OR the expiry date of the card is extended.
+This parameter will enable you to check each users’ card expiry date. Card Expiry settings can be found in ‘Card Data’ tab **\(STEP 5: under item labelled as 'End Date'\)** in 'How to Set Up Staff' page below. When the card is expired, a user will not be allowed to enter the designated door either a new card had been issued to the user OR the expiry date of the card is extended.
+
+{% page-ref page="../users/how-to-set-up-staff.md" %}
 
 ## 20. Software Fire Release 
 
-This parameter will enable the integration of Fire Release feature where once this feature is enabled, it will work in conjunction with fire sensors to turn off the security of the doors when fire sensors were triggered \(refer to ‘How to Configure Fire Release’\).
+This parameter will enable the integration of Fire Release feature where once this feature is enabled, it will work in conjunction with fire sensors to turn off the security of the doors when fire sensors were triggered \(refer to ‘Fire Release’ under Access Control features page below\).
+
+{% page-ref page="../access-control-features/" %}
 
 ## 21. Fire Release Group 
 
-This parameter will enable you to choose the group of doors to be released \(security turned off\) in the event that fire alarms were triggered. To create Fire Release Group, refer to the section ‘5.6.1 How to configure Fire Release Group’.
+This parameter will enable you to choose the group of doors to be released \(security turned off\) in the event that fire alarms were triggered. To create Fire Release Group, refer to the page ‘How to configure Fire Release Group’ below.
+
+{% page-ref page="../access-control-features/how-to-configure-fire-release-group.md" %}
 
 ## 22. Security Mode 
 
@@ -115,9 +129,9 @@ This parameter will enable the feature Keyed Card + Pin Time Zone. By default th
 
 ## 24. Enable Interlock 
 
-This parameter will enable the Interlock feature. To further understand the ‘Interlock Feature’ refer to articles below on how to configure ‘Interlock Feature’.
+This parameter will enable the Interlock feature. To further understand the ‘Interlock' feature refer to page Access Control Features below.
 
-{% page-ref page="../access-control-features/how-to-configure-single-board-interlock.md" %}
+{% page-ref page="../access-control-features/" %}
 
 ## 25. Lock Energize Option 
 
@@ -191,7 +205,7 @@ _Scenario 3 \(Door Left Open\)_
 
 ## 26. Door Sensor Delay 
 
-This parameter will enable you to set a ‘delay’ in registering of doors’ open/close status within EntryPass Platform1 Server Standard Edition. The time period is measured in ‘units’ i.e. 1 unit \(0.1 Seconds\) while maximum units is at 255 \(approx.. 14 seconds\). When an event happen e.g. a door being forced open, that event reporting will be delayed hence, the triggering of alarm will also be delayed by the number of units that had been set.
+This parameter will enable you to set a ‘delay’ in registering of doors’ open/close status within EntryPass Platform1 Server Standard Edition. The time period is measured in ‘units’ i.e. 1 unit \(0.1 Seconds\) while maximum units is at 255 \(approx.. 14 seconds\). When an event happen e.g. a door being forced open, that event reporting will be delayed hence, the triggering of alarm will also be delayed by the number of units \(time\) that had been set.
 
 ## 27. Authorisation Lock Release
 

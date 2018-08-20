@@ -31,7 +31,7 @@ This parameter will allow you to set to bind a door to a particular reader. By d
 This parameter will allow you to set the AGK format for ‘HID Integrated Keypad’ readers. This setting is required in order to allow proper communication between the Control Panel and HID readers.
 
 {% hint style="info" %}
-Note: Refer to HID website for more information and search for 'Proximity Pro' models.
+Note: Refer to HID website for more information and search for 'Keypad' models.
 
 [https://www.hidglobal.com/](https://www.hidglobal.com/)
 {% endhint %}
@@ -69,7 +69,9 @@ This parameter will allow you to set the operation time of the reader. By defaul
 
 ## 12. Enable Access Limit
 
-This parameter will enable you to set Access Limit \(counter\) to the reader. To further understand on what Access Limit is, please refer to 5.7 How to Configure Access Limit Feature.
+This parameter will enable you to set Access Limit \(counter\) to the reader. To further understand on what Access Limit is, please refer to 'Access Limit' under Access Control Features page.
+
+{% page-ref page="../access-control-features/" %}
 
 ## 13. Bind To Zone 
 

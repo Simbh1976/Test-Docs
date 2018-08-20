@@ -11,7 +11,7 @@ Daily Alarm Report is a report where it lists all 'Alarms' triggered that took p
 1. **Quick Date Selection:** These 'buttons' will allow you to quickly select and generate reports based upon preset dates. You have a choice of either quickly generate reports based on today, yesterday, this week or last week. 
 2. **Manual Date Selection:** If you would like to choose dates other than the preset, you can click on the links and manually select the dates and time. 
 
-![](../../.gitbook/assets/untitled2%20%2834%29.png)
+![](../../.gitbook/assets/untitled2%20%2835%29.png)
 {% endtab %}
 
 {% tab title="2. Event Filter" %}

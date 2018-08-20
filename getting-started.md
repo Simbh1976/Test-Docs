@@ -8,7 +8,7 @@ description: >-
 
 To start the session, please launch the Platform1 Server application. This document _is a continuation_ from **'QUICK START-UP GUIDE'** where topics on system installation process, basic set-up and user set-up had been covered previously. Within the topics highlighted on the table of contents, are various 'basic' settings that you can configure to further suit the demands of your organisation. 
 
-As this is a basic level guide, certain advanced features will be excluded from discussion while to fully utilise it's capability, it would be advisable to visit the 'Platform1 Server Manual' to have a complete understanding on it's features.
+As this is a basic level guide, certain advanced features will be excluded from discussion while to fully utilise it's capability, it would be advisable to visit the 'Platform1 Server Manual' \(refer to quick note 1\) to have a complete understanding on it's features.
 
 ### User
 
@@ -31,4 +31,10 @@ All authorized users must have a unique and confidential login name and password
 ### Infographic Illustration
 
 We have included infographic illustration within the topics to further aid understanding on concepts within Platform1 Server. 
+
+## Quick Note
+
+1. To access the manual, press \(F1\) on the keyboard when your on Platform1 Server program. Alternatively you can **click on the drop down menu beside the shut down button and click 'Help'**. 
+
+![](.gitbook/assets/untitled2%20%2834%29.png)
 

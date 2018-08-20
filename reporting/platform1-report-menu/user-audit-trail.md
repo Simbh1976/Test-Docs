@@ -24,9 +24,9 @@ This report will allow you to view all 'System Users' activities like setting ad
 {% tab title="3. Filter" %}
 You can further filter your reports under the following criterias:
 
-#### Login: This is where you can filter by 'System Users'.
+**Login: This is where you can filter by 'System Users'.**
 
-#### Action: This is where you can filter all 'action' made by the users like:
+**Action: This is where you can filter all 'action' made by the users like:**
 
 1. Add
 2. Auto Export
@@ -39,7 +39,7 @@ You can further filter your reports under the following criterias:
 9. Post
 10. Restore
 
-#### Table: 'Table' is a structured data organising method employed within the system so as to allow 'requests' to be verified against the table.
+**Table: 'Table' is a structured data organising method employed within the system so as to allow 'requests' to be verified against the table.**
 
 ![](../../.gitbook/assets/untitled5%20%2832%29.png)
 {% endtab %}

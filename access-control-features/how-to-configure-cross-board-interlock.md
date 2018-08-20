@@ -81,7 +81,7 @@ description: >-
 ## Quick Note: 
 
 1. To incorporate more control panels into the Cross Board Interlock, repeat STEP 2 onwards on different Control Panel and select the same group \(as per STEP 9\) to be included into the Cross Board Group.
-2. It is important that only empty slot relays are chose,.
+2. It is important that only empty slot relays are chosen.
 
 
 

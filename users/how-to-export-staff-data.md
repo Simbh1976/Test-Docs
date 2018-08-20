@@ -62,29 +62,31 @@ This section will allow you to export data by **working shifts** \(by untick 'Al
 {% tab title="Export by Text File" %}
 ![](../.gitbook/assets/untitled11%20%285%29.png)
 
-#### 1: If there is no requirement to change the Delimiter, leave this section as it is. Proceed to assign an export path by clicking on the ‘Open Folder’ icon.
+1. If there is no requirement to change the Delimiter, leave this section as it is. Proceed to assign an export path by clicking on the ‘Open Folder’ icon.
+2. Locate OR create a folder that you would like to export the file into. By default, the file name will be ‘Export’ and you can rename the file if you wish to do so. Next, click 'Open' \(refer to Picture 1 below\).
+3. By default, _Single Line output format_ \(data written in horizontal format\) will be the default choice. Untick this checkbox if you would like the data to be written in vertical format. The _fixed field length_ is to specify the data within the file to be in a fixed position. Tick the checkbox if there is such requirement. 
+4. At this juncture, if there are no further requirements to further change parameters, click 'Export'. If further changes are necessary, proceed to STEP 5.
 
-#### 2: Locate OR create a folder that you would like to export the file into. By default, the file name will be ‘Export’ and you can rename the file if you wish to do so. Click 'Open'.
-
-![](../.gitbook/assets/untitled10%20%2810%29.png)
-
-#### 3. By default, _Single Line output format_ \(data written in horizontal format\) will be the default choice. Untick this checkbox if you would like the data to be written in vertical format. The _fixed field length_ is to specify the data within the file to be in a fixed position. Tick the checkbox if there is such requirement. 
-
-#### 4. At this juncture, if there are no further requirements to further change parameters, click 'Export'. If further changes are necessary, proceed to STEP 5.
+![Picture 1](../.gitbook/assets/untitled10%20%2810%29.png)
 {% endtab %}
 
 {% tab title="Export by MS Excel" %}
-STEP I: \(Export by MS Excel File\) Locate OR create a folder that you would like to export the file into. By default, the file name will be ‘Export’ and you can rename the file if you wish to do so.
+![](../.gitbook/assets/untitled18%20%281%29.png)
 
-STEP II: \(Export by MS Excel File\) Tick this checkbox to include ‘Titles’ in the data that is going to be exported.
+1. Locate OR create a folder that you would like to export the file into. By default, the file name will be ‘Export’ and you can rename the file if you wish to do so. Next, click 'Open' \(refer to Picture 1 below\).
+2. \(Option\) Tick this checkbox to include ‘Titles’ in the data that is going to be exported. 'Title' are basically subject headers \(name\) to facilitate easy identification of data grouped under it.
+
+![Picture 1](../.gitbook/assets/untitled10%20%2810%29.png)
 {% endtab %}
 
 {% tab title="Export by CSV Format" %}
-STEP I: \(Export by CSV File\): Locate OR create a folder that you would like to export the file into. By default, the file name will be ‘Export’ and you can rename the file if you wish to do so.
+![](../.gitbook/assets/untitled19%20%282%29.png)
 
-STEP II: \(Export by CSV File\): Tick this checkbox to include ‘Titles’ in the data that is going to be exported.
+1. Locate OR create a folder that you would like to export the file into. By default, the file name will be ‘Export’ and you can rename the file if you wish to do so. Next, click 'Open' \(refer to Picture 1 below\).
+2. \(Option\) Tick this checkbox to include ‘Titles’ in the data that is going to be exported. 'Title' are basically subject headers \(name\) to facilitate easy identification of data grouped under it.
+3. You can choose to have all the fields to be exported as text type where data exported will have a 'quotation mark' right before and after the data, after each comma. Leave this section unchecked if there are no such requirements.
 
-STEP III: \(Export by CSV File\): You can choose to have all the fields to be exported as text type. Leave this section unchecked if there are no such requirements.
+![Picture 1](../.gitbook/assets/untitled10%20%2810%29.png)
 {% endtab %}
 {% endtabs %}
 

@@ -116,11 +116,11 @@ This generated report will show all input points in the system.
 
 ## 9. IO Board\*
 
-This generated report will show all IO Boards \(HIO Model\) connected to the Platform1 Server. For detail information and sample report, refer to Platform1 Server Manual.
+This generated report will show all IO Boards \(HIO Model\) connected to the Platform1 Server. For detail information and sample report, refer to Platform1 Server manual by pressing \(F1\) on your keyboard.
 
 ## 10. Alarm Zone\*
 
-This generated report will show all Alarm Zones created within IO Boards \(HIO Model\) connected to the Platform1 Server. For detail information and sample report, refer to Platform1 Server Manual.
+This generated report will show all Alarm Zones created within IO Boards \(HIO Model\) connected to the Platform1 Server. For detail information and sample report, refer to Platform1 Server manual by pressing \(F1\) on your keyboard.
 
 ## 11. Access Level
 
