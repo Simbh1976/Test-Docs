@@ -20,7 +20,7 @@ Time Set defines a **'Time Interval'** **\(Operational Hours\)** for the system 
 
 ## Time Zone
 
-Time Zone defines a **'Time Interval'** **\(‘Operational Hours’\)** for the system, **grouped together** on a **‘Weekly’** basis. To put this into a simpler perspective, Time Zone defines **'Day + Time Interval' \(Operational Day + Operational Hours\)** for the system. EntryPass Platform1 Server comes with two default Time Zone settings and System User configurable Time Zone settings:
+Time Zone defines a **'Time Interval'** **\(‘Operational Hours’\)** for the system, **grouped together daily** on a **‘Week’** basis. To put this into a simpler perspective, Time Zone defines **'daily operational hours within a week'** for the system. EntryPass Platform1 Server comes with two default Time Zone settings and System User configurable Time Zone settings:
 
 {% hint style="info" %}
 * Time Zone 0 = Not Active \(default and non-editable within the system\)
