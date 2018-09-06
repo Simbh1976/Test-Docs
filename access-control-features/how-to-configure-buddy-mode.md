@@ -28,7 +28,7 @@ description: This section will highlight the steps needed to configure Buddy Mod
 
 ![](../.gitbook/assets/untitled4%20%281%29.png)
 
-#### STEP 5: For the 2nd and subsequent that is to be paired to the 1st staff, repeat STEP 2 to STEP 5. Please note that to staffs that is required to be within the same buddy group, _**they must have the same 'buddy no'.**_
+#### STEP 5: For the 2nd and subsequent staffs that is to be paired to the 1st staff, repeat STEP 2 to STEP 5. Please note that to staffs that is required to be within the same buddy group, _**they must have the same 'buddy no'.**_
 
 _\*\*\*\*_
 

@@ -18,14 +18,14 @@ In the above example, if a staff is allocated with Access Level 1, then he will 
 
 ## Access Group
 
-Access Group will be the same as Access Level with the exception that, it has **'Unlimited Access Levels'** i.e., it does not limit itself to 255 levels \(configuration\) only. This feature is supported on the latest group of products.
+Access Group has the same feature as Access Level with the exception that, it has **'Unlimited Access Levels'** i.e., it does not limit itself to 255 levels \(configuration\) only. This feature is supported on the latest group of products.
 
 ## Antipassback
 
 Antipassback is a feature when enabled:
 
 {% hint style="info" %}
-#### Will not be allow any staffs to ENTER a location / zone twice without first EXITING that location / zone.
+#### Will not be allow staffs to ENTER a location / zone twice without first EXITING that location / zone.
 {% endhint %}
 
 To illustrate the above, consider the scenario below:

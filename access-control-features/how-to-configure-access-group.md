@@ -36,7 +36,7 @@ description: This section will highlight the steps needed to configure Access Gr
 
 
 
-STEP 6: A warning prompt will appear highlight whether to Assign this Access Group to all cards. 
+#### STEP 6: A warning prompt will appear highlight whether to Assign this Access Group to all cards. 
 
 ![](../.gitbook/assets/untitled6%20%282%29.png)
 

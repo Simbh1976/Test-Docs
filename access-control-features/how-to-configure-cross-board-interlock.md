@@ -68,7 +68,7 @@ description: >-
 
 
 
-#### STEP 11: Click on the chosen row and select option '8 - Inerlock'. The system will automatically allocate a name to this input point.
+#### STEP 11: Click on the chosen row and select option '8 - Interlock'. The system will automatically allocate a name to this input point.
 
 ![](../.gitbook/assets/untitled10%20%287%29.png)
 
