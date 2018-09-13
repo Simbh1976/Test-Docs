@@ -32,7 +32,7 @@ Time Zone defines a **'Time Interval'** **\(‘Operational Hours’\)** for the 
 
 ![Time Set within Time Zone](../.gitbook/assets/untitled1a%20%283%29.png)
 
-From the above illustration, we can clearly see that Time Zone contain subset\(s\) of Time Set. All hardware and features will point to Time Zone for operational day and time instruction.
+From the above illustration, we can clearly see that Time Zone contain subset\(s\) of Time Set. All hardware and features will point to **Time Zone for operational day and time instruction**. 
 
 It is important for you to note that:
 
@@ -40,7 +40,13 @@ It is important for you to note that:
 "Whenever any **hardware** Time Zone setting is in INACTIVE state, all **features** will not be functional despite its setting is ACTIVE"
 {% endhint %}
 
-To illustrate the above concept, we shall take a look at some of the setting scenarios below.
+## How does Time Set and Time Zone work?
+
+To understand the concept of how Time Set and Time Zone work, we shall take a look at the image below: 
+
+![This image represents a typical system set up](../.gitbook/assets/slide1a.PNG)
+
+
 
 ## Setting Scenarios
 
