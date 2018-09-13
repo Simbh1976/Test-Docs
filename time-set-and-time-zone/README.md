@@ -50,7 +50,7 @@ It is important for you to note that:
 
 ## How does Time Set and Time Zone work?
 
-To understand the concept of how Time Set and Time Zone work, we shall take a look at the image below: 
+To understand the concept of how Time Set and Time Zone work, we shall take a look at the image below that represents a typical system set up. 
 
 ![This image represents a typical system set up](../.gitbook/assets/slide1a.PNG)
 
