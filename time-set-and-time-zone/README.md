@@ -32,7 +32,15 @@ Time Zone defines a **'Time Interval'** **\(‘Operational Hours’\)** for the 
 
 ![Time Set within Time Zone](../.gitbook/assets/untitled1a%20%283%29.png)
 
-From the above illustration, we can clearly see that Time Zone contain subset\(s\) of Time Set. All hardware and features will point to **Time Zone for operational day and time instruction**. 
+From the above illustration, we can clearly see that Time Zone contain subset\(s\) of Time Set. All hardware and features will point to **Time Zone for operational day and time instruction**. So how does the above translate to the way the Control Panel monitor operational time and day requirements? Refer to below.
+
+![](../.gitbook/assets/tstz.png)
+
+When any Hardware OR Feature that is being assigned with **'Time Zone 2'** parameter, the operating day and time of that Hardware OR Feature will be as follows:
+
+| Day | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | Holiday |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Time | 09:00 - 17:00 | 09:00 - 17:00 | 09:00 - 17:00 | 09:00 - 15:00 | 09:00 - 15:00 | Not Active | Not Active | Not Active |
 
 It is important for you to note that:
 
