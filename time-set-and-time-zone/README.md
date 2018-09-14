@@ -1,16 +1,49 @@
----
-description: >-
-  This section will describe the concept of Time Set and Time Zone as well as
-  how to go about configuring it.
----
-
 # Time Set & Time Zone
 
-This section will cover the aspects of setting up Time Set and Time Zone. System Users should take particular note on the importance of having proper settings for Time Set and Time Zone as it will affect operational timing for HARDWARE and FEATURES. 
+This section will cover the aspects of setting up Time Set and Time Zone. **System Users should take particular note on the importance of having proper settings for Time Set and Time Zone as it will affect operational timing for HARDWARE and FEATURES.** 
 
-## Time Set
+## Definition of Time Set and Time Zone
 
-Time Set defines a **'Time Interval'** **\(Operational Hours\)** for the system expressed in **‘Hours’ and ‘Minutes’**. To further incorporate flexibility requirements on operational hours for Hardware and Features, there are 3 time ‘Intervals’ available for setting purposes. Time Set comes with two default settings:
+* **Time Set** can be defined as the **'Time Range'** \(expressed in **'Hours and Minutes'**\) ****for system's operation. ****
+* **Time Zone** can be defined as the **'Calendar Week'** \(expressed in **'Days' including Holidays**\) for system's operation. _**However**_, there is one additional IMPORTANT element for Time Zone where **each 'Day' in a Time Zone contain a subset of Time Set**. To understand this statement further, refer to the next topic.
+
+## Conceptual Framework of Time Set and Time Zone
+
+Referring to the definition of Time Zone above, it is: 
+
+* defined as the **'Calendar Week'** \(expressed in **'Days' including Holidays**\) for system's operation. _**However**_, there is one additional IMPORTANT element for Time Zone and that is **each 'Day' in a Time Zone contain a subset of Time Set**.
+
+To express the above statement graphically, refer to the table below:
+
+![](../.gitbook/assets/untitled1a%20%283%29.png)
+
+To demonstrate how the framework works, we shall apply a **time range** into Time Set \(e.g. 09:00 - 17:00\) using the image above:
+
+![](../.gitbook/assets/tstzsample.png)
+
+From the illustration above, we can clearly say that any Hardware OR Feature that is being assigned with this Time Zone, will have a **DAILY active operating time range** as below:
+
+![](../.gitbook/assets/tstzactive.png)
+
+Therefore, **any Hardware OR Feature assigned with such Time Zone, it's DAILY active operating hours will run according to the time range \(Time Set\) being assigned with, which in this case from 09:00 to 17:00 on a daily basis**. 
+
+{% hint style="danger" %}
+It is important to note that **all Hardware and Feature will run \(operate\) according to the Time Zone assigned to it.**
+{% endhint %}
+
+\*\*\*\*
+
+## Explanation on Time Set and Time Zone parameters
+
+### Time Set Settings
+
+![](../.gitbook/assets/time-set1.png)
+
+1. **Name:** The name of Time Sets are numerical and automatically assigned when a new Time Set is created.
+2. **Description:** This is the column where you can input the description of a newly created Time Set.
+3. **Interval:** This column describes '**Time Range'.** The range can start from **00:00 \(12.00am\) to 23:59 \(11.59pm\)** while you can set up to 3 different time ranges' within a single Time Set. 
+
+Time Set comes with two default settings:
 
 {% hint style="info" %}
 * Time Set 0 = Not Active \(default and non-editable within the system\)
@@ -18,9 +51,15 @@ Time Set defines a **'Time Interval'** **\(Operational Hours\)** for the system 
 * Time Set 2 and above = User configurable
 {% endhint %}
 
-## Time Zone
+### Time Zone Settings
 
-Time Zone defines a **'Time Interval'** **\(‘Operational Hours’\)** for the system, **grouped together daily** on a **‘Week’** basis. To put this into a simpler perspective, Time Zone defines **'daily operational hours within a week'** for the system. EntryPass Platform1 Server comes with two default Time Zone settings and System User configurable Time Zone settings:
+![](../.gitbook/assets/time-zone-1.png)
+
+1. **Name:** The name of Time Sets are numerical and automatically assigned when a new Time Set is created.
+2. **Description:** This is the column where you can input the description of a created Time Set.
+3. **Interval:** This column describes '**Time Range'.** The range can start from **00:00 \(12.00am\) to 23:59 \(11.59pm\)** while you can set up to 3 different time range within a Time Set. 
+
+Time Zone comes with two default settings:
 
 {% hint style="info" %}
 * Time Zone 0 = Not Active \(default and non-editable within the system\)
@@ -28,11 +67,9 @@ Time Zone defines a **'Time Interval'** **\(‘Operational Hours’\)** for the 
 * Time Zone 2 & above = User configurable
 {% endhint %}
 
+
+
 ## Infographic Illustration
-
-![Time Set within Time Zone](../.gitbook/assets/untitled1a%20%283%29.png)
-
-From the above illustration, we can clearly see that Time Zone contain subset\(s\) of Time Set. All hardware and features will point to **Time Zone for operational day and time instruction**. So how does the above translate to the way the Control Panel monitor operational time and day requirements? Refer to below.
 
 ![](../.gitbook/assets/tstz.png)
 
@@ -52,11 +89,7 @@ It is important for you to note that:
 "Whenever any **hardware** Time Zone setting is in INACTIVE state, all **features** will not be functional despite its setting is ACTIVE"
 {% endhint %}
 
-## How does Time Set and Time Zone work?
 
-To understand the concept of how Time Set and Time Zone work, we shall take a look at the image below that represents a typical system set up. 
-
-![](../.gitbook/assets/slide1a%20%281%29.PNG)
 
 ## Setting Scenarios
 
