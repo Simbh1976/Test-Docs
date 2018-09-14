@@ -36,11 +36,15 @@ From the above illustration, we can clearly see that Time Zone contain subset\(s
 
 ![](../.gitbook/assets/tstz.png)
 
-When any Hardware OR Feature that is being assigned with **'Time Zone 2'** parameter, the operating day and time of that Hardware OR Feature will be as follows:
+For illustration, when any Hardware OR Feature that is being assigned with **'Time Zone 2'** parameter, the operating day and time of that Hardware OR Feature will be as follows:
 
-| Day | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | Holiday |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Time | 09:00 - 17:00 | 09:00 - 17:00 | 09:00 - 17:00 | 09:00 - 15:00 | 09:00 - 15:00 | Not Active | Not Active | Not Active |
+{% hint style="info" %}
+* Mon - Wed: 09:00 - 17:00
+* Thu - Fri: 09:00 - 15:00
+* Sat, Sun and Public Holiday: Not Active
+{% endhint %}
+
+Similarly, if any Hardware OR Feature that is being assigned with 'Time Zone 1 \(24 Hours Active'\), the operating day and time of that Hardware OR Feature will be 24 hrs everyday, including Saturday, Sunday and Public Holidays.
 
 It is important for you to note that:
 
@@ -52,9 +56,7 @@ It is important for you to note that:
 
 To understand the concept of how Time Set and Time Zone work, we shall take a look at the image below that represents a typical system set up. 
 
-![This image represents a typical system set up](../.gitbook/assets/slide1a.PNG)
-
-
+![](../.gitbook/assets/slide1a%20%281%29.PNG)
 
 ## Setting Scenarios
 
