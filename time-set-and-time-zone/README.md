@@ -4,32 +4,38 @@ This section will cover the aspects of setting up Time Set and Time Zone. **Syst
 
 ## Definition of Time Set and Time Zone
 
-* **Time Set** can be defined as the **'Time Range'** \(expressed in **'Hours and Minutes'**\) ****for system's operation. ****
-* **Time Zone** can be defined as the **'Calendar Week'** \(expressed in **'Days' including Holidays**\) for system's operation. _**However**_, there is one additional IMPORTANT element for Time Zone where **each 'Day' in a Time Zone contain a subset of Time Set**. To understand this statement further, refer to the next topic.
+### Time Set
+
+* **Definition: The 'time frame' \(expressed in 'Hours and Minutes'\) for system's operation.** 
+
+### **Time Zone**
+
+* **Definition:** **The '**_**daily**_ **time frame' \(expressed in 'Days' including Holidays and \) for system's operation.** 
 
 ## Conceptual Framework of Time Set and Time Zone
 
-Referring to the definition of Time Zone above, it is: 
+Time Set and Time Zone are two important settings within the Entrypass Platform1 Server System, where it will dictate the **'**_**daily**_ **time frame'** for operation on 'Feature' and 'Hardware' connected to the Control Panel. 
 
-* defined as the **'Calendar Week'** \(expressed in **'Days' including Holidays**\) for system's operation. _**However**_, there is one additional IMPORTANT element for Time Zone and that is **each 'Day' in a Time Zone contain a subset of Time Set**.
+* Time Zone: specify operational Day \(Monday to Sunday inc. Holiday\)
+* Time Set: specify operational Time \(minutes and hours\)
 
-To express the above statement graphically, refer to the table below:
+![Image 1](../.gitbook/assets/presentation2.png)
 
-![](../.gitbook/assets/untitled1a%20%283%29.png)
+All 'Features' and 'Hardware' will be assigned and monitored with a Time Zone, by the Control Panel \(Image 1\). Each **Time Zone** \(e.g. TZ1\) will specify the **days** to operate while **within each day**, it will contain references to **Time Set** where it will specify the **time** to operate. 
 
-To demonstrate how the framework works, we shall apply a **time range** into Time Set \(e.g. 09:00 - 17:00\) using the image above:
-
-![](../.gitbook/assets/tstzsample.png)
-
-From the illustration above, we can clearly say that any Hardware OR Feature that is being assigned with this Time Zone, will have a **DAILY active operating time range** as below:
-
-![](../.gitbook/assets/tstzactive.png)
-
-Therefore, **any Hardware OR Feature assigned with such Time Zone, it's DAILY active operating hours will run according to the time range \(Time Set\) being assigned with, which in this case from 09:00 to 17:00 on a daily basis**. 
+It is important to note that:
 
 {% hint style="danger" %}
-It is important to note that **all Hardware and Feature will run \(operate\) according to the Time Zone assigned to it.**
+The Control Panel will monitor and operate all Features and Hardware connected **according to the Time Zone assigned to to each Feature or Hardware.** 
 {% endhint %}
+
+In order for systeTo express the above statement in graphical format, refer to table below:
+
+Operation Time
+
+![Image 3](../.gitbook/assets/tstz3.png)
+
+**When a Hardware OR Feature is assigned with Time Zone from Image 2, it's DAILY active operating hours will be 09:00 to 17:00.** 
 
 \*\*\*\*
 
@@ -57,7 +63,7 @@ Time Set comes with two default settings:
 
 1. **Name:** The name of Time Sets are numerical and automatically assigned when a new Time Set is created.
 2. **Description:** This is the column where you can input the description of a created Time Set.
-3. **Interval:** This column describes '**Time Range'.** The range can start from **00:00 \(12.00am\) to 23:59 \(11.59pm\)** while you can set up to 3 different time range within a Time Set. 
+3. **Days:** This column describes **'Days' \(expressed in a single week\).** This range starts from **Monday to Sunday AND Public Holidays.** 
 
 Time Zone comes with two default settings:
 
@@ -116,6 +122,11 @@ Consider the Time Set \(TS\) & Time Zone \(TZ\) settings below:
 ![Time Zone for Reader](../.gitbook/assets/untitled2%20%2811%29.png)
 
 #### When the above setting is applied to a hardware \(eg. a reader\), any staff using assigned access card would experience the following:
+
+| Hardware / Days | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | Holiday |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Reader | 09:00 - 17:00 | 09:00 - 17:00 | 09:00 - 17:00 | 09:00 - 17:00 | 09:00 - 17:00 | Inactive | Inactive | Inactive |
+|  |  |  |  |  |  |  |  |  |
 
 * **Between 9.00am - 5.00pm:** 
 
