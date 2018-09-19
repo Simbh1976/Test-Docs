@@ -17,29 +17,17 @@ This section will cover the aspects of setting up Time Set and Time Zone. **Syst
 Time Set and Time Zone are two important settings within the Entrypass Platform1 Server System, where it will dictate the **'**_**daily**_ **time frame'** for operation on 'Feature' and 'Hardware' connected to the Control Panel. 
 
 * Time Zone: specify operational Day \(Monday to Sunday inc. Holiday\)
-* Time Set: specify operational Time \(minutes and hours\)
+* Time Set: specify operational Time \(Time Intervals in minutes and hours\)
 
-![Image 1](../.gitbook/assets/presentation2.png)
+![Image 1](../.gitbook/assets/presentation2%20%281%29.png)
 
-All 'Features' and 'Hardware' will be assigned and monitored with a Time Zone, by the Control Panel \(Image 1\). Each **Time Zone** \(e.g. TZ1\) will specify the **days** to operate while **within each day**, it will contain references to **Time Set** where it will specify the **time** to operate. 
-
-It is important to note that:
+All 'Features' and 'Hardware' will be assigned and monitored by the Control Panel \(Image 1\) using Time Zone. Each **Time Zone** \(e.g. TZ1\) will specify the **days** to operate while **within each day**, it will contain a reference to **Time Set** specifying the **time \(in intervals\)** to operate. Therefore, it is important to note that:
 
 {% hint style="danger" %}
-The Control Panel will monitor and operate all Features and Hardware connected **according to the Time Zone assigned to to each Feature or Hardware.** 
+The Control Panel will **TURN ON OR OFF**_**,**_ **all Features and Hardware connected according to Time Zone assigned.** 
 {% endhint %}
 
-In order for systeTo express the above statement in graphical format, refer to table below:
-
-Operation Time
-
-![Image 3](../.gitbook/assets/tstz3.png)
-
-**When a Hardware OR Feature is assigned with Time Zone from Image 2, it's DAILY active operating hours will be 09:00 to 17:00.** 
-
-\*\*\*\*
-
-## Explanation on Time Set and Time Zone parameters
+## Description on Time Set and Time Zone settings
 
 ### Time Set Settings
 
@@ -49,35 +37,74 @@ Operation Time
 2. **Description:** This is the column where you can input the description of a newly created Time Set.
 3. **Interval:** This column describes '**Time Range'.** The range can start from **00:00 \(12.00am\) to 23:59 \(11.59pm\)** while you can set up to 3 different time ranges' within a single Time Set. 
 
-Time Set comes with two default settings:
+Time Set comes with the following settings:
 
-{% hint style="info" %}
-* Time Set 0 = Not Active \(default and non-editable within the system\)
-* Time Set 1 = 24 Hours Active \(default and non-editable within the system\)
-* Time Set 2 and above = User configurable
-{% endhint %}
+| Time Set | Description | Status | Information |
+| :--- | :--- | :--- | :--- |
+| 0 | Not Active | Default | This is a default setting and not user configurable. **Any day in a Time Zone assigned with this Time Set will render that day 'not active '.**  |
+| 1 | 24 Hours Active | Default | This is a default setting and not user configurable. **Any day in a Time Zone assigned with this Time Set will render that day 'active at all times' \(ie. 24 hours a day\).** |
+| 2 and above | User Configurable | User Configurable | Time Set settings can only be configured by users from Time Set 2 onward. |
 
 ### Time Zone Settings
 
-![](../.gitbook/assets/time-zone-1.png)
+![](../.gitbook/assets/time-zone-1%20%281%29.png)
 
 1. **Name:** The name of Time Sets are numerical and automatically assigned when a new Time Set is created.
 2. **Description:** This is the column where you can input the description of a created Time Set.
 3. **Days:** This column describes **'Days' \(expressed in a single week\).** This range starts from **Monday to Sunday AND Public Holidays.** 
+4. **Time Set:** This section will contain references to Time Set which will dictate the operating hours for the system.
 
-Time Zone comes with two default settings:
+Time Zone comes with the following settings:
+
+| Time Zone | Description | Status | Information |
+| :--- | :--- | :--- | :--- |
+| 0 | Not Active | Default | This is a default setting and not user configurable. **Any Hardware or Feature assigned with this Time Zone will be rendered 'not active ' \(ie. Turned Off\).**  |
+| 1 | 24 Hours Active | Default | This is a default setting and not user configurable. **Any Hardware or Feature assigned with this Time Zone will be rendered 'active at all times' \(ie. 24 hours a day\).** |
+| 2 and above | User Configurable | User Configurable | Time Zone settings can only be configured by users from Time Zone 2 onwards. |
+
+## System at Work
+
+This section will demonstrate how Time Zone and Time Set working together to control operation day and time. The following steps will always apply when customising your day and time operational requirements for any Hardware or Feature.
 
 {% hint style="info" %}
-* Time Zone 0 = Not Active \(default and non-editable within the system\)
-* Time Zone 1 = 24 Hours Active \(default and non-editable within the system\)
-* Time Zone 2 & above = User configurable
+* STEP 1 \(Create Time Set\): Always create the required Time Set in the system and specify operational times.
+* STEP 2 \(Create Time Zone\): At the Time Zone section, you will specify what are the operational times for each day within the week.
+* STEP 3 \(Link Time Zone\): Go to any hardware or feature and link that feature to the Time Zone created to activate or customise its operational day and time.
 {% endhint %}
 
+### Scenario
+
+Consider a hypothetical scenario below for Hardware \(N-Mini2 Reader\) setting and its operation matrix.
+
+{% hint style="info" %}
+N-Mini2 reader operational requirements:
+
+* Operating Days: Monday - Friday \(excluding Saturday, Sunday and Holidays\)
+* Operating Time 1: 09:00 - 17:00 \(Monday - Thursday\)
+* Operating Time 2: 09:00 - 18:00 \(Friday\)
+{% endhint %}
+
+![](../.gitbook/assets/tstz3.png)
+
+![](../.gitbook/assets/tstz4.png)
+
+To achieve the operational requirements above, the Time Set and Time Zone settings will be as following:
+
+#### STEP 1 \(Create Time Set\)
+
+![](../.gitbook/assets/time-zone-2.png)
+
+As mentioned above, Time Set must be created in order to allow Time Zone to create a link \(reference\) to Time Set to obtain operational time. As there are two different operational times, then there will be a requirement to create two different sets of Time Set. One important note to remember is:
+
+{% hint style="info" %}
+Multiple
+{% endhint %}
+
+#### STEP 2 \(Create Time Zone\)
 
 
-## Infographic Illustration
 
-![](../.gitbook/assets/tstz.png)
+#### Time Zone Settings
 
 For illustration, when any Hardware OR Feature that is being assigned with **'Time Zone 2'** parameter, the operating day and time of that Hardware OR Feature will be as follows:
 
