@@ -23,7 +23,7 @@ The Advanced Encryption Standard \(AES\), also known by its original name Rijnda
 Due to the nature of the system where the algorithm is based upon symmetric-key algorithm, meaning the same key is used for both encrypting and decrypting the data, **it is IMPORTANT that you need to take note and have proper safe keeping of User Key Numbers**. If this feature is to be enabled, it is strongly advised that you change the default AES key to a unique number. 
 
 {% hint style="warning" %}
-**Default AES Key Number: 123456.** 
+Default AES Key Number: 123456. 
 {% endhint %}
 
 {% hint style="danger" %}
