@@ -1,41 +1,62 @@
 # Time Set & Time Zone
 
-This section will cover the aspects of setting up Time Set and Time Zone. **System Users should take particular note on the importance of having proper settings for Time Set and Time Zone as it will affect operational timing for HARDWARE and FEATURES.** 
+This section will cover the aspects of setting up Time Set and Time Zone. **System Users should take particular note on the importance of having proper settings for Time Set and Time Zone as it will affect operating time for HARDWARE and FEATURES.** 
 
 ## Definition of Time Set and Time Zone
 
 ### Time Set
 
-* **Definition: The 'time frame' \(expressed in 'Hours and Minutes'\) for system's operation.** 
+* **Definition: The 'time frame' for system's operation.** 
+* **Parameter: TIME \(in hours and minutes\)**
 
 ### **Time Zone**
 
-* **Definition:** **The '**_**daily**_ **time frame' \(expressed in 'Days' including Holidays and \) for system's operation.** 
+* **Definition:** **The '**_**daily**_ **time frame' for system's operation.** 
+* **Parameter: DAY \(expressed in week including holiday\) AND TIME \(link to Time Set\)**
 
 ## Conceptual Framework of Time Set and Time Zone
 
-Time Set and Time Zone are two important settings within the Entrypass Platform1 Server System, where it will dictate the **'**_**daily**_ **time frame'** for operation on 'Feature' and 'Hardware' connected to the Control Panel. 
+![Image 1](../.gitbook/assets/presentation5.png)
 
-* Time Zone: specify operational Day \(Monday to Sunday inc. Holiday\)
-* Time Set: specify operational Time \(Time Intervals in minutes and hours\)
+Time Set and Time Zone are two important settings within the Entrypass Platform1 Server System, where it will dictate the **'**_**daily**_ **operating** **time frame'** for 'connected Hardware and Feature' to the Control Panel. To further explain on how DAY and TIME can be controlled, we can see from Image 1 that Time Zone will be responsible in dictating the Day for operation while within each Day, there will be a reference to Time Set to control the operating time range FOR THAT DAY \(refer to Image 2\). 
 
-![Image 1](../.gitbook/assets/presentation2%20%281%29.png)
+![Image 2](../.gitbook/assets/presentation6.png)
 
-All 'Features' and 'Hardware' will be assigned and monitored by the Control Panel \(Image 1\) using Time Zone. Each **Time Zone** \(e.g. TZ1\) will specify the **days** to operate while **within each day**, it will contain a reference to **Time Set** specifying the **time \(in intervals\)** to operate. Therefore, it is important to note that:
+1. **Time Zone:** Each line across represents a single Time Zone where it will define the operating days in the week \(Monday to Sunday\) including holidays.
+2. **Time Set:** Within each day, a Time Set will be 'chosen' to define the operating time for that particular day.
+3. **Time Interval:** This is where you set the operating time range.
 
-{% hint style="danger" %}
-The Control Panel will **TURN ON OR OFF**_**,**_ **all Features and Hardware connected according to Time Zone assigned.** 
+![Image 3](../.gitbook/assets/presentation4.png)
+
+Generally, **all connected Hardware and Feature will be assigned with a Time Zone** so that their daily operating time frame can be defined and controlled \(Image 3\). To illustrate how a Hardware OR Feature can be controlled, we shall take a look at the IN Reader \(Image 3\) which had been assigned with Time Zone 2. It's daily operating time frame will be as follows:
+
+| Days \(Time Zone 1\) | Time |
+| :--- | :--- |
+| Monday to Wednesday | 09:00 - 17:00 \(Time Set 2\) |
+| Thursday to Friday | 09:00 - 19:00 \(Time Set 1\) |
+| Saturday, Sunday and Holiday | Not Active \(Time Set 0\)\* |
+
+The table above demonstrates how Time Set and Time Zone working together to control the operational day and time frame of any Hardware or Feature. 
+
+## Steps in Creating Time Zones
+
+The following steps will always apply when customising your day and time operational requirements for any Hardware or Feature.
+
+{% hint style="info" %}
+* STEP 1 \(Create Time Set\): Always create the required Time Set in the system and specify operational times.
+* STEP 2 \(Create Time Zone\): At the Time Zone section, you will specify what are the operational times for each day within the week.
+* STEP 3 \(Assign Time Zone\): Go to any hardware or feature settings to assign the newly created Time Zone to activate or customise its operational day and time.
 {% endhint %}
 
-## Description on Time Set and Time Zone settings
+## Understanding Time Set and Time Zone settings
 
 ### Time Set Settings
 
 ![](../.gitbook/assets/time-set1.png)
 
 1. **Name:** The name of Time Sets are numerical and automatically assigned when a new Time Set is created.
-2. **Description:** This is the column where you can input the description of a newly created Time Set.
-3. **Interval:** This column describes '**Time Range'.** The range can start from **00:00 \(12.00am\) to 23:59 \(11.59pm\)** while you can set up to 3 different time ranges' within a single Time Set. 
+2. **Description:** This is the column where you can input the description for a newly created Time Set.
+3. **Interval:** This column describes '**Time Range'.** The range can start from **00:00 \(12.00am\) to 23:59 \(11.59pm\)** while you can set up to 3 different time range in a Time Set. 
 
 Time Set comes with the following settings:
 
@@ -49,8 +70,8 @@ Time Set comes with the following settings:
 
 ![](../.gitbook/assets/time-zone-1%20%281%29.png)
 
-1. **Name:** The name of Time Sets are numerical and automatically assigned when a new Time Set is created.
-2. **Description:** This is the column where you can input the description of a created Time Set.
+1. **Name:** The name of Time Zones are numerical and automatically assigned when a new Time Set is created.
+2. **Description:** This is the column where you can input the description of a created Time Zone.
 3. **Days:** This column describes **'Days' \(expressed in a single week\).** This range starts from **Monday to Sunday AND Public Holidays.** 
 4. **Time Set:** This section will contain references to Time Set which will dictate the operating hours for the system.
 
@@ -64,13 +85,7 @@ Time Zone comes with the following settings:
 
 ## System at Work
 
-This section will demonstrate how Time Zone and Time Set working together to control operation day and time. The following steps will always apply when customising your day and time operational requirements for any Hardware or Feature.
-
-{% hint style="info" %}
-* STEP 1 \(Create Time Set\): Always create the required Time Set in the system and specify operational times.
-* STEP 2 \(Create Time Zone\): At the Time Zone section, you will specify what are the operational times for each day within the week.
-* STEP 3 \(Assign Time Zone\): Go to any hardware or feature settings to assign the newly created Time Zone to activate or customise its operational day and time.
-{% endhint %}
+This section will demonstrate how Time Zone and Time Set work together to control operating day and time for Hardware and Feature. 
 
 ### Scenario
 
@@ -87,6 +102,8 @@ N-Mini2 reader operational requirements:
 ![](../.gitbook/assets/tstz3.png)
 
 ![](../.gitbook/assets/tstz4.png)
+
+
 
 To achieve the operational requirements above, the Time Set and Time Zone settings will be as following:
 
@@ -130,7 +147,7 @@ Now, the Time Zone is ready to be assigned. Just go to any Hardware or Feature s
 
 In order to understand Point 1 above, we shall create a hypothetical scenario to further demonstrate how this finer point works.
 
-![](../.gitbook/assets/presentation4.png)
+![](../.gitbook/assets/presentation4%20%281%29.png)
 
 {% hint style="info" %}
 N-Mini2 reader operational requirements:
