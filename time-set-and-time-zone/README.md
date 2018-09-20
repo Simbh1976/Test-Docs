@@ -16,17 +16,17 @@ This section will cover the aspects of setting up Time Set and Time Zone. **Syst
 
 ## Conceptual Framework of Time Set and Time Zone
 
-![Image 1](../.gitbook/assets/presentation5.png)
+![Image 1](../.gitbook/assets/presentation1.png)
 
 Time Set and Time Zone are two important settings within the Entrypass Platform1 Server System, where it will dictate the **'**_**daily**_ **operating** **time frame'** for 'connected Hardware and Feature' to the Control Panel. To further explain on how DAY and TIME can be controlled, we can see from Image 1 that Time Zone will be responsible in dictating the Day for operation while within each Day, there will be a reference to Time Set to control the operating time range FOR THAT DAY \(refer to Image 2\). 
 
-![Image 2](../.gitbook/assets/presentation6.png)
+![Image 2](../.gitbook/assets/presentation2%20%282%29.png)
 
 1. **Time Zone:** Each line across represents a single Time Zone where it will define the operating days in the week \(Monday to Sunday\) including holidays.
 2. **Time Set:** Within each day, a Time Set will be 'chosen' to define the operating time for that particular day.
 3. **Time Interval:** This is where you set the operating time range.
 
-![Image 3](../.gitbook/assets/presentation4.png)
+![](../.gitbook/assets/presentation3.png)
 
 Generally, **all connected Hardware and Feature will be assigned with a Time Zone** so that their daily operating time frame can be defined and controlled \(Image 3\). To illustrate how a Hardware OR Feature can be controlled, we shall take a look at the IN Reader \(Image 3\) which had been assigned with Time Zone 2. It's daily operating time frame will be as follows:
 
@@ -36,17 +36,21 @@ Generally, **all connected Hardware and Feature will be assigned with a Time Zon
 | Thursday to Friday | 09:00 - 19:00 \(Time Set 1\) |
 | Saturday, Sunday and Holiday | Not Active \(Time Set 0\)\* |
 
-The table above demonstrates how Time Set and Time Zone working together to control the operational day and time frame of any Hardware or Feature. 
+The table above demonstrates how Time Set and Time Zone working together to control the operational day and time frame of any Hardware or Feature. The reader will follow the day and time indicated above for Monday to Friday however when it comes to Saturday, Sunday and Holidays, the reader will not be active where in this instance, staff will be denied access. 
 
-## Steps in Creating Time Zones
+**\(\*\) Please refer to the topic 'Understanding Time Set and Time Zone settings.**
+
+## Steps in Customising Day and Time Operation 
 
 The following steps will always apply when customising your day and time operational requirements for any Hardware or Feature.
 
-{% hint style="info" %}
-* STEP 1 \(Create Time Set\): Always create the required Time Set in the system and specify operational times.
-* STEP 2 \(Create Time Zone\): At the Time Zone section, you will specify what are the operational times for each day within the week.
-* STEP 3 \(Assign Time Zone\): Go to any hardware or feature settings to assign the newly created Time Zone to activate or customise its operational day and time.
-{% endhint %}
+**STEP 1 \(Create Time Set\):** Always create the required Time Set in the system and specify operational times. 
+
+**STEP 2 \(Create Time Zone\):** At the Time Zone section, you will specify what are the operational times for each day within the week.
+
+**STEP 3 \(Assign Time Zone\):** Go to any hardware or feature settings to assign the newly created Time Zone to activate or customise its day and time operation.
+
+To understand how these steps work, refer to the section **'System at Work'**.
 
 ## Understanding Time Set and Time Zone settings
 
@@ -85,7 +89,7 @@ Time Zone comes with the following settings:
 
 ## System at Work
 
-This section will demonstrate how Time Zone and Time Set work together to control operating day and time for Hardware and Feature. 
+This section will demonstrate how Time Zone and Time Set work together using the system's actual settings. 
 
 ### Scenario
 
@@ -99,19 +103,13 @@ N-Mini2 reader operational requirements:
 * Operating Time 2: 09:00 - 18:00 \(Friday\)
 {% endhint %}
 
-![](../.gitbook/assets/tstz3.png)
-
-![](../.gitbook/assets/tstz4.png)
-
-
-
 To achieve the operational requirements above, the Time Set and Time Zone settings will be as following:
 
 #### STEP 1: Create Time Set
 
 ![](../.gitbook/assets/time-set.png)
 
-A Time Set will allow Time Zone to create a link \(reference\) to Time Set to obtain operational time. In this scenario, there are two different operational times, hence the requirement to create two different sets of Time Set \(Time Set 2 & Time Set 3\). 
+In this scenario, there are two different operational times, hence the requirement to create two different sets of Time Set \(Time Set 2 & Time Set 3\). 
 
 ![](../.gitbook/assets/time-zone-2.png)
 
@@ -119,21 +117,13 @@ The image above will highlight that the operating time had been created under Ti
 
 #### STEP 2: Create Time Zone
 
-![](../.gitbook/assets/time-zone1a.png)
-
-A Time Zone will allow all Hardware and Feature to reference it's operational day and time requirement. Within each day of the Time Zone, there is a Time Set referenced to that day.
-
 ![](../.gitbook/assets/time-zone-3.png)
 
-From the illustration above, we can see that there are three time sets being linked to a single Time Zone. Therefore we can conclude that the operational day and time frame will be as follows:
+A Time Zone for the scenario had been created under Time Zone 2 with the relevant Time Sets applied to it \(refer to image above\). From the image above we can see that: 
 
-{% hint style="info" %}
-Time Zone 2:
-
-* Monday - Thursday: 09:00 - 17:00 \(Time Set 2\)
-* Friday: 09:00 - 18:00 \(Time Set 3\)
-* Saturday, Sunday and Holiday: Inactive \(Time Set 0\)
-{% endhint %}
+* Monday to Thursday - Assigned with Time Set 2 \(09:00 - 17:00\)
+* Friday - Assigned with Time Set 3 \(09:00 - 18:00\)
+* Saturday, Sunday and Holiday: Time Set 0 \(Not Active\)
 
 #### STEP 3: Assign Time Zone
 
@@ -141,13 +131,13 @@ Now, the Time Zone is ready to be assigned. Just go to any Hardware or Feature s
 
 ![Assigning Time Zone](../.gitbook/assets/time-zone-4.png)
 
-## Finer Points on Time Zone assigned to Hardware and Features
+## Finer Points on Time Zone
 
 **Point 1: Time Zone assigned to Hardware will always precede Time Zone assigned to Features.**
 
 In order to understand Point 1 above, we shall create a hypothetical scenario to further demonstrate how this finer point works.
 
-![](../.gitbook/assets/presentation4%20%281%29.png)
+![](../.gitbook/assets/presentation3.png)
 
 {% hint style="info" %}
 N-Mini2 reader operational requirements:
@@ -156,25 +146,26 @@ N-Mini2 reader operational requirements:
 * Operating Time 1: 09:00 - 19:00 \(Monday - Wednesday\)
 * Operating Time 2: 09:00 - 17:00 \(Thursday - Friday\)
 
-Feature \(Antipassback\) operational requirements:
+Feature \(Antipassback\) operational day and time frame:
 
 * Operating Days: Monday - Sunday Including Holidays
-* Operating Time: 09:00 - 17:00
+* Operating Time: 09:00 - 19:00
 {% endhint %}
 
 Below would be a table highlighting the hardware and feature operation status.
 
-![](../.gitbook/assets/time-zone-5.png)
+![](../.gitbook/assets/time-zone-6.png)
 
-{% hint style="info" %}
-**Conclusion:** 
+With reference to the table above, we can see that:
 
-1. As long as the hardware \(e.g. reader\) stays ACTIVE, any features will be active as long as its Time Zone setting is similar to hardware \(e.g. reader\). 
-2. If the feature Time Zone is 'shorter' \(shorter operating hours\) compared to hardware, the feature will be INACTIVE \(turned off\) like Scenario 2. 
-3. If the feature Time Zone setting is 'longer' compared to the hardware \(e.g. reader\), the feature will not work beyond the hardware's Time Zone because the hardware is in INACTIVE state like Scenario 2.
-{% endhint %}
+1. On Monday to Wednesdays, both Reader \(N-Mini 2\) and Feature \(Antipassback\) will be active.
+2. On Thursday to Friday, both Reader \(N-Mini 2\) and Feature \(Antipassback\) will be active up to 17:00. Thereafter, the reader will not be active however, 
 
-#### Point 2: When Time sets overlap with each other between the time intervals, the system will pick the time interval with the longest duration of hours.
+#### 
+
+#### 
+
+#### Point 2: When Time Sets overlap with each other between the time intervals, the system will pick the time interval with the longest duration of hours.
 
 ## Quick Notes
 
