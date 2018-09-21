@@ -8,17 +8,23 @@ description: >-
 
 ## Access Level
 
-Access level can be defined as the 'right to access', of a staff member through a barrier \(Barrier can be defined as a gate, turnstile, doors, lifts\) and there is a maximum limit of 255 'levels' that can be created within the system. A single 'Level' can be defined as a single 'configuration' pattern where different types and location of the barriers can be assigned into the 'level' \(configuration\) creating a unique group of barriers that can only be accessed by those whom were assigned with these rights. For example:
+**Access level can be defined as the 'right to access', of a staff member through a barrier \(Barrier can be defined as a gate, turnstile, doors, lifts\).** When Access Level is active, staffs will only have access to those area whom they had been explicitly given  the permission to. 
+
+Access Level does not limit itself to a single door but rather, it can be grouped together that may contain multiple doors or other form of barriers to create a well integrated network of barriers. 
+
+ For example:
 
 | Access Level 1 | Access Level 2 |
 | :--- | :--- |
 | Ground Floor Entry, Office Door \(level 5\), Lift \(No.3\), Pantry Door \(level 5\) | Ground Floor Entry, Office Door \(level 10\), Lift \(No. 2\), Pantry Door \(level 10\) |
 
-In the above example, if a staff is allocated with Access Level 1, then he will have the 'rights' to access doors listed within Access Level 1 while, he will not be able to access any doors listed under Access Level 2. The only similarity in this case would be the Ground Floor Entry, which is available to both Access Levels.
+In the above example, when a staff is allocated with Access Level 1, he then will have the 'rights' to access doors and lift listed within Access Level 1 while, he will not be able to access any doors listed under Access Level 2. 
+
+In Access Level, there is a maximum limit of 255 'levels' \(groups\) that can be created within the system. A single 'Level' can be defined as a configuration \(group\) where different types of the barriers being grouped together creating a unique set of access control protocols within an area that only individuals assigned with the proper rights \(access level\) can have access to. 
 
 ## Access Group
 
-Access Group has the same feature as Access Level with the exception that, it has **'Unlimited Access Levels'** i.e., it does not limit itself to 255 levels \(configuration\) only. This feature is supported on the latest group of products.
+**Access Group has the same feature as Access Level** with the exception that, it has **'Unlimited Access Levels'** i.e., it does not limit itself to 255 levels \(configuration\). This feature is supported on the latest group of products. 
 
 ## Antipassback
 
@@ -31,11 +37,11 @@ Antipassback is a feature when enabled:
 To illustrate the above, consider the scenario below:
 
 {% hint style="info" %}
-John Doe is a staff in a building where he works at level 10. Upon reaching that level, he is walking towards the entrance to his office. He takes out his access card and flashed his card at the reader \(terminal\) and the door is **UNLOCKED**. However, he was distracted by a phone call and **DID NOT proceed to pass through that unlocked door** and after a brief period of time the door 'Re-lock' itself. When John finishes his call, he flashed his access card at the terminal again in an attempt to pass through that door. 
+John Doe is a staff in a building where he works at level 10. Upon reaching that level, he is walking towards the entrance to his office. He takes out his access card and flashed his card at the **entry reader** \(terminal\) and the door is **UNLOCKED**. However, he was distracted by a conversation and **DID NOT pass through that unlocked door,** while the door 'Re-lock' itself after a brief period of time. When John finished his conversation, he flashed **his access card at the entry reader \(terminal\) again in an attempt to unlock and pass through that door.** 
 
 **When Antipassback feature is DISABLED**: The door will **UNLOCK** and John _**WILL BE ABLE**_ to pass through that door again.
 
-**When Antipassback feature is ENABLED**: The door will stay **LOCKED** and John _**WILL NOT BE ABLE**_ to pass through that door because, he had not completed the full cycle of 'flashing in' AND 'flashing out' for that particular door. When John had flashed in at the entry reader to pass through that door, he must perform 'flash out' on the exit reader so that the next time he 'flashes in' on the entry reader again, the door will be unlocked.
+**When Antipassback feature is ENABLED**: The door will stay **LOCKED** and John _**WILL NOT BE ABLE**_ to pass through that door. As the system had detected that John had flashed his access card at the entry terminal and had not flashed out at the exit reader, the system will refuse to unlock the door as he is deemed to have 'flashed twice' at the entry terminal. When John had flashed in at the entry reader to pass through that door, he must perform 'flash out' on the exit reader so that the next time he 'flashes in' on the entry reader again, the door can be unlocked.
 {% endhint %}
 
 For Antipassback feature, there is two modes available:
