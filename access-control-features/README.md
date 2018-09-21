@@ -31,13 +31,13 @@ In Access Level, there is a maximum limit of 255 'levels' \(groups\) that can be
 Antipassback is a feature when enabled:
 
 {% hint style="info" %}
-#### Will not be allow staffs to ENTER a location / zone twice without first EXITING that location / zone.
+**Will not be allow staffs to ENTER a location / zone twice without first EXITING that location / zone.**
 {% endhint %}
 
 To illustrate the above, consider the scenario below:
 
 {% hint style="info" %}
-John Doe is a staff in a building where he works at level 10. Upon reaching that level, he is walking towards the entrance to his office. He takes out his access card and flashed his card at the **entry reader** \(terminal\) and the door is **UNLOCKED**. However, he was distracted by a conversation and **DID NOT pass through that unlocked door,** while the door 'Re-lock' itself after a brief period of time. When John finished his conversation, he flashed **his access card at the entry reader \(terminal\) again in an attempt to unlock and pass through that door.** 
+John Doe is walking towards the entrance to his office. He takes out his access card and flashed his card at the **entry reader** **\(terminal\)** and the door is **UNLOCKED**. However, he was distracted by a conversation and **DID NOT pass through that unlocked door,** while the door 'Re-lock' itself after a brief period of time. When John finished his conversation, he flashed **his access card at the entry reader \(terminal\) again in an attempt to unlock and pass through that door.** 
 
 **When Antipassback feature is DISABLED**: The door will **UNLOCK** and John _**WILL BE ABLE**_ to pass through that door again.
 
