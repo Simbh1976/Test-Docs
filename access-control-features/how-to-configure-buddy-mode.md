@@ -64,5 +64,7 @@ _\*\*\*\*_
 
 It is important to note that Buddy Mode numbers will range from 1- 255. For a Buddy Mode user, it is possible to allocate multiple users to them as buddies so as to increase the versatility of accessing a place without having to rely on a single designated individual.
 
+For Buddy no.1 \(refer to step 4\), it is RESERVED as an admin number. This would mean that for Buddy no.1, it is possible for the admin to be a buddy for Buddy group no. 2, 3, 4, 5 etc. while for Buddy no. 2 and above, they are only allowed to be paired with their own group ie, 
+
 
 
