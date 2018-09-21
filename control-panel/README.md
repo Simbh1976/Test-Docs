@@ -22,11 +22,7 @@ The Advanced Encryption Standard \(AES\), also known by its original name Rijnda
 
 Due to the nature of the system where the algorithm is based upon symmetric-key algorithm, meaning the same key is used for both encrypting and decrypting the data, **it is IMPORTANT that you need to take note and have proper safe keeping of User Key Numbers**. If this feature is to be enabled, it is strongly advised that you change the default AES key to a unique number. 
 
-{% hint style="warning" %}
 Default AES Key Number: 123456.
-{% endhint %}
 
-{% hint style="danger" %}
 As highlighted previously, it is important not to lose the AES Key number and the consequence of losing the key number would render the control panel not being able to connect to Platform1 Server when software is reinstalled or undergoing a data migration process. In the event that the User Key is missing and you would like to reconnect the Control Panel back to P1 Server, a ‘Hard Reset’ is required to be performed on Control Panel. During this process, the control panel will delete all data and history stored within.
-{% endhint %}
 
