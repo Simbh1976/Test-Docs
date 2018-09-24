@@ -10,7 +10,7 @@ description: >-
 
 **The function of Access level is to group together various barriers \(Barrier can be defined as a gate, turnstile, doors, lifts\) to form an Access Control protocol.** 
 
-'Access Level' can be seen as a configuration \(group\) where different types of the barriers being grouped together creating a unique set of access control protocols within an area that only individuals assigned with the proper rights \(access level\) can have access to.
+'Access Level' can be seen as a configuration \(group\) where different types of the barriers being grouped together creating a unique set of access control protocols within an area that only individuals assigned with the proper rights \(access level\) can have access to.In Access Level, there is a maximum limit of 255 'levels' \(groups\) that can be created within the system. 
 
  For example:
 
@@ -18,9 +18,7 @@ description: >-
 | :--- | :--- |
 | Ground Floor Entry, Office Door \(level 5\), Lift \(No.3\), Pantry Door \(level 5\) | Ground Floor Entry, Office Door \(level 10\), Lift \(No. 2\), Pantry Door \(level 10\) |
 
-When Access Level is active, staffs can only access barriers which had been grouped under the Access Level assigned to them. In the above example, when a staff is allocated with Access Level 1, he will then have the 'rights' to access doors and lift listed within Access Level 1 while, he will not be able to access any doors listed under Access Level 2. 
-
-In Access Level, there is a maximum limit of 255 'levels' \(groups\) that can be created within the system. 
+When Access Level is active, staffs can only access barriers which had been grouped under the Access Level assigned to them. In the above example, when a staff is assigned with Access Level 1, he will then have the 'rights' to access doors and lift listed within Access Level 1 while, he will not be able to access any doors listed under Access Level 2. 
 
 ## Access Group
 
@@ -104,15 +102,9 @@ A staff is paired with another staff to enter OR exit a door.
 
 This process would involve both staffs flashing their cards at the entry or exit readers to access an area. Without their respective buddies, they would not be able to enter / exit doors where buddy mode is active. 
 
-Within the Entrypass Platform 1 Server, buddies are paired according to a 'group number' that is assigned to them \(2 - 255\). For example, when a staff is assigned with group Buddy No. 2, that staff would require another staff that holds the same group Buddy No. to flash their cards at readers to access an area. 
+This feature would require a **minimum of two staffs to be assigned with the same group Buddy Number** while the maximum number of staffs being assigned with the same buddy number is up to the maximum number of cards within the Entrypass Platform1 Server's database. Buddies are paired according to a 'group number' that is assigned to them \(2 - 255\). For example, when a staff is assigned with group Buddy No. 2, that staff would require another staff \(buddy\) that holds Buddy No. 2 to flash their cards at readers to access an area. 
 
-This feature would require a **minimum of two staffs to be assigned with the same group Buddy Number** while the maximum number of staffs being assigned with the same buddy number is up to the maximum number of cards within the Entrypass Platform1 Server's database. 
-
-{% hint style="info" %}
-It is important to note that for card holders assigned with **Buddy No.1**, this number is reserved for **'ADMIN'.** 
-
-Buddy No.1 card holders have **NO REQUIREMENT to be paired with another Buddy No. 1** card holder to flash their cards at the reader to access an area. Instead, any other Buddy Numbers \(e.g. 2, 3, 4 etc.\) can be designated as a Buddy for Buddy No.1 card holders. 
-{% endhint %}
+For card holders assigned with **Buddy No.1**, this number is reserved for **'ADMIN'.** Buddy No.1 card holders have **NO REQUIREMENT to be paired with another Buddy No. 1** card holder to flash their cards at the reader to access an area. Instead, any other Buddy Numbers \(e.g. 2, 3, 4 etc.\) can be designated as a Buddy for Buddy No.1 card holders. 
 
 {% page-ref page="how-to-configure-buddy-mode.md" %}
 
@@ -121,8 +113,8 @@ Buddy No.1 card holders have **NO REQUIREMENT to be paired with another Buddy No
 This feature will enable you to:
 
 {% hint style="info" %}
-Monitor staffs within a particular area / zone.
+Monitor staffs' location within designated zones.
 {% endhint %}
 
-Roll Call is a feature that monitor staffs 
+This feature will display the staffs' information and also it's latest location at zones which had been designated to be monitored. Any staff whom flashes their access card at these zones, will have their information displayed on the Roll Call Tab. 
 

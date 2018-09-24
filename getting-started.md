@@ -36,5 +36,5 @@ We have included infographic illustration within the topics to further aid under
 
 1. To access the manual, press \(F1\) on the keyboard when your on Platform1 Server program. Alternatively you can **click on the drop down menu beside the shut down button and click 'Help'**. 
 
-![](.gitbook/assets/untitled2%20%2834%29.png)
+![Accessing the Entrypass Platform1 Manual](.gitbook/assets/untitled2%20%2834%29.png)
 

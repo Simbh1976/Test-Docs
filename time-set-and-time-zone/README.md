@@ -60,7 +60,7 @@ To understand how these steps work, refer to the section **'System at Work'**.
 
 ### Time Set Settings
 
-![](../.gitbook/assets/time-set1.png)
+![Time Set Settings](../.gitbook/assets/time-set1.png)
 
 1. **Name:** The name of Time Sets are numerical and automatically assigned when a new Time Set is created. _However you are allowed to change the name in Time Set to alpha numeric._
 2. **Description:** This is the column where you can input the description for a newly created Time Set.
@@ -78,7 +78,7 @@ Time Set comes with the following settings:
 
 ### Time Zone Settings
 
-![](../.gitbook/assets/time-zone-1%20%281%29.png)
+![Time Zone Settings](../.gitbook/assets/time-zone-1%20%281%29.png)
 
 1. **Name:** The name of Time Zones are numerical and automatically assigned when a new Time Zone is created. 
 2. **Description:** This is the column where you can input the description of a created Time Zone.
@@ -115,17 +115,17 @@ To achieve the operational requirements above, the Time Set and Time Zone settin
 
 #### STEP 1: Create Time Set
 
-![](../.gitbook/assets/time-set.png)
+![Time Set](../.gitbook/assets/time-set.png)
 
 In this scenario, there are two different operational times, hence the requirement to create two different sets of Time Set \(Time Set 2 & Time Set 3\). 
 
-![](../.gitbook/assets/time-zone-2.png)
+![Two different sets of Time Set](../.gitbook/assets/time-zone-2.png)
 
 The image above will highlight that the operating time had been created under Time Set 2 and Time Set 3. This will later allow Time Zones to be referenced to this Time Set.
 
 #### STEP 2: Create Time Zone
 
-![](../.gitbook/assets/time-zone-3.png)
+![Time Zone settings](../.gitbook/assets/time-zone-3.png)
 
 A Time Zone for the scenario had been created under Time Zone 2 with the relevant Time Sets applied to it \(refer to image above\). From the image above we can see that: 
 

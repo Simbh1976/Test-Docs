@@ -40,7 +40,7 @@ This parameter will dictate the entry and exit zone for readers. Entry zones can
 
 ## 6. Card + Pin Time Zone 
 
-This parameter will dictate whether Card + Pin is active or inactive. By activating this feature, a user would be required to furnish additional credential when they flash their access cards which is the ‘pin number’ which had been assigned to that individual when he / she was registered as a staff. By default, the Card + Pin Time Zone will be set at ‘0 – inactive’ and to activate this feature, just select a Time Zone that this feature is to operate upon.
+This parameter will dictate whether Card + Pin is active or inactive. By activating this feature, a user would be required to key in their personal Pin Number when they flash their access cards. **This ‘pin number’ is assigned to that individual when he / she during staff registration process**. By default, the Card + Pin Time Zone will be set at ‘0 – inactive’ and to activate this feature, just select a Time Zone that this feature is to operate upon.
 
 ## 7. Card + Pin Lockout Count 
 
@@ -48,7 +48,7 @@ This parameter will dictate the number of times a user will be allowed to incorr
 
 ## 8. Lock Release Time Zone 
 
-This parameter will dictate the time period an electromagnetic lock will stay ‘unlocked’ \(security turned off\). By default, this feature is inactive however if a Time Zone is being assigned to this feature e.g. Monday to Sunday at 18:00PM – 20:00PM, then the electromagnetic lock will stay ‘UNLOCKED’ throughout 18:00PM – 20:00PM and **the door can be freely opened and closed without the need to flash access cards**. After 20:00, the electromagnetic lock will resume to its original state of locking the door and staffs would need to flash their access cards to open the door.
+This parameter will dictate the time period an electromagnetic lock will stay ‘unlocked’ \(security turned off\). By default, this feature is inactive however if a Time Zone is being assigned to this feature e.g. Monday to Sunday at 18:00PM – 20:00PM, then the electromagnetic lock will stay ‘UNLOCKED’ throughout Sunday 18:00PM – 20:00PM and **the door can be freely opened and closed without the need to flash access cards**. After 20:00, the electromagnetic lock will resume to its original state of locking the door and staffs would need to flash their access cards to open the door.
 
 ## 9. Exit Button Enabled Time Zone 
 
@@ -62,29 +62,29 @@ This parameter will dictate the time period in which Antipassback \(please refer
 
 ## 11. Antipassback Lockout 
 
-This parameter will enable a 'Lockout' in the event that the Antipassback feature is triggered. The access card that the staff is holding will no longer be allowed to enter the door until the lockout is reversed by the System Administrator. If the card continue to be flashed while it is still under Antipassback lockout, it will result in a 'Card Lockout' in which, the card no longer can be used on **ANY** doors until the lockout is reversed. To clear the lockout, please visit the section 'Send / Retrieve' \(Specific\) in Platform1 Server manual. 
+This parameter will enable a 'Lockout' in the event that the Antipassback feature is triggered. The access card that the staff is holding will no longer be allowed to enter the door until the lockout is reversed by the System Administrator. If the card continue to be flashed while it is still under Antipassback lockout, it will result in a 'Card Lockout' in which, the card no longer can be used on **ANY** doors until the lockout is cleared. To clear the lockout, please visit the section 'Send / Retrieve' \(Specific\) in Platform1 Server manual. 
 
 ## 12. Buddy Mode Time Zone 
 
-This parameter will dictate the time period in which the Buddy Mode will be active. For more information on Buddy Mode feature please refer to 'Buddy Mode' under Access Control Feature page below. By default, this feature is inactive and when a Time Zone is assigned to this feature, Buddy Mode feature will stay active throughout the time period.
+This parameter will dictate the time period in which the Buddy Mode will be active. For more information on Buddy Mode feature please refer to 'Buddy Mode' under Access Control Feature page below. By default, this feature is inactive and when a Time Zone is assigned to this feature, Buddy Mode feature will stay active throughout the specified time period.
 
 {% page-ref page="../access-control-features/" %}
 
 ## 13. Pin 1 to Pin 3 
 
-This is where you will be able to set the Pin Number for local doors. By setting a Pin Number for the Doors, the User would have to key in this Pin Number \(up to three different pins\) whenever they flash their access control cards to the reader. This feature is a universal feature where all users will be required to key in the pin, irrespective of whether ‘Pin + Card’ feature is enabled or not.
+This is where you will be able to set the Pin Number for local doors. **This setting will enable any staff to access a door by keying in the pin number at readers without the need to flash their access cards.** 
 
 ## 14. Pin 1 to Pin 3 Time Zone 
 
-This parameter is where you can set the time period in which the Pin numbers will be active. By default, this feature is inactive and when a Time Zone is assigned to this feature, Pin 1 to Pin 3 feature will stay active throughout the time period.
+This parameter will set the time period in which the Pin numbers will be active \(for no.13\). By default, this feature is inactive and when a Time Zone is assigned to this feature, Pin 1 to Pin 3 feature will stay active throughout the time period.
 
 ## 15. Pin Lock Out Count 
 
-This parameter will dictate the number of times a user will be allowed to enter ‘wrong’ Pin Numbers. Once a user incorrectly entered wrong pin number exceeding the allowable count specified within this parameter, a lockout will occur.
+This parameter will dictate the number of times a user will be allowed to enter ‘wrong’ Pin Numbers at the reader. Once a staff incorrectly entered the wrong pin number exceeding the allowable count specified in this parameter, a 'card lockout' will occur.
 
 ## 16. Time Attendance reader 
 
-This parameter will enable the feature for Time Attendance. By enabling this feature, the door will record data required for Time Attendance Reporting. By default, this feature is inactive and by ticking the checkbox, this will activate the feature and will be active at all times.
+This parameter will enable the feature for Time Attendance. By enabling this feature, the door will record data required for Time Attendance Reporting. By default, this feature is inactive and by ticking the checkbox, this will activate the feature and it will be active at all times.
 
 ## 17. Roll Call Reader 
 
@@ -125,7 +125,7 @@ This parameter will enable you to toggle the security mode in either ‘Low’ o
 
 ## 23. Keyed Card + Pin Time Zone 
 
-This parameter will enable the feature Keyed Card + Pin Time Zone. By default this feature will be inactive and when a Time Zone had been assigned to this feature, Keyed Card + Pin Time Zone feature will stay active throughout the time period. Keyed Card is a feature where users do not possess the ‘physical card’ however, they have the ‘Card Number’ that is allocated to them. When using a terminal, instead of flashing the physical access card, users would have to key in the ‘card number’ in conjunction with the ‘pin number’ of the terminal.
+This parameter will enable the feature Keyed Card + Pin Time Zone. By default this feature will be inactive and when a Time Zone had been assigned to this feature, Keyed Card + Pin Time Zone feature will stay active throughout the time period. Keyed Card + Pin Time Zone is a feature where users do not possess the ‘physical card’ however, they have the ‘Card Number’ that is assigned to them. When using a terminal, instead of flashing the physical access card, users would have to key in the ‘card number’ in conjunction with the ‘pin number’ of the terminal. 
 
 ## 24. Enable Interlock 
 
