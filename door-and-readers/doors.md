@@ -140,68 +140,59 @@ This parameter will allow you to choose to de-energize \(Unlock\) the Electromag
 * **Release Time:** Time period of unlock **starts from THE TIME EM LOCK IS DE-ENERGIZED \(UNLOCKED\).** 
 * **Open Time:** Time period of unlock **starts when THE DOOR IS OPENED \(UNLOCKED\).**
 
-To further illustrate between the differences in both modes, refer to the below where both options is set with different time period: 
-
-* Release Time Setting: 15 Seconds 
-* Open Time Setting: 30 Seconds 
-
-#### \*\*\*\*
-
 ### **Infographic Illustration \(Lock Energize Option = Release Time\)**
 
-_Scenario 1 \(Typical Usage Scenario\)_
+![Scenario 1 \(Door Unopened\)](../.gitbook/assets/slide2_release_time_1.PNG)
 
-![](../.gitbook/assets/untitled5%20%2834%29.png)
+1. A Staff flashes his access card at the reader, the Control Panel unlocks the EM Lock and start the countdown for Release Time. 
+2. However, the Staff did not pass through the door and it is left UNOPENED. At this moment, the door sensor detected that the door still remain closed therefore Release Time countdown will continue.
+3. When the Release Time countdown is completed the control panel will re-energise \(Re-lock\) the 
 
-1. A Staff user flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\).
-2. The Staff proceed to open the door and passes through it. 
-3. The staff closes the door behind and the EM Lock is re-energised \(Re-lock\).
+   EM Lock. The door sensor detected that the door remain closed therefore, no alarms will be triggered by the Control Panel.
 
-_Scenario 2 \(Door Unopened\)_
 
-![](../.gitbook/assets/untitled6%20%2821%29.png)
 
-1. A Staff flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\). 
-2. However, the Staff did not pass through the door and is left UNOPENED.
-3. EM Lock is re-energised \(Re-locked\) when door is left unopened after the release duration of 15 sec is over.
+![Scenario 2 \(Door Left Opened\)](../.gitbook/assets/slide2_release_time_2.PNG)
 
-_Scenario 3 \(Door Left Open\)_
+1. A Staff flashes his access card at the reader, the Control Panel unlocks the EM Lock and start the countdown for Release Time. 
+2. The Staff open and passes through the door. The door sensor detected the door is opened and Release Time countdown continues. The EM Lock remain unlocked at this time.
+3. At this point in time, the door was left opened by the staff. The Release Time countdown is completed and the Control Panel re-energises the EM Lock \(Re-lock\). At this point in time, the door sensor detected the door was left opened and the control panel will trigger the alarm.
 
-![](../.gitbook/assets/untitled7%20%2816%29.png)
 
-1. A Staff user flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\). 
-2. The Staff passes through the door and LEFT THE DOOR OPEN behind leaving the EM Lock unlocked.
-3. The EM Lock automatically re-energises \(Re-lock\) after 15 seconds when 'Release Time' countdown ends, an alarm will be triggered with the message 'Door is left open'.
+
+![Scenario 3 \(Typical Usage\)](../.gitbook/assets/slide2_release_time_3.PNG)
+
+1. A Staff flashes his access card at the reader, the Control Panel unlocks the EM Lock and start the countdown for Release Time. 
+2. The Staff open and passes through the door. The door sensor detected the door is opened and Release Time countdown continues. The EM Lock remain unlocked at this time.
+3. The staff closes the door behind him and the door sensor had detected that the door is closed. The Control Panel re-energises \(re-lock\) the EM Lock and stops the Release Time countdown.
 
 \_\_
 
 ### **Infographic Illustration \(Lock Energise Option = Open Time\)**
 
-_Scenario 1 \(Typical Usage Scenario\)_
+![Scenario 1 \(Door Unopened\)](../.gitbook/assets/slide2_open_time_1.PNG)
 
-![](../.gitbook/assets/untitled8%20%2814%29.png)
+1. A Staff flashes his access card at the reader, the Control Panel unlocks the EM Lock and start the countdown for Release Time. 
+2. However, the Staff did not pass through the door and it is left UNOPENED. At this moment, the door sensor detected that the door still remain closed therefore Release Time countdown will continue.
+3. When the Release Time countdown is completed the control panel will re-energise \(Re-lock\) the 
 
-1. A Staff user flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\).
-2. The Staff proceed to open the door and passes through it. At this point, 'Release Time' countdown will stop AND 'Open Time' countdown will START.
-3. The staff closes the door behind and the EM Lock is re-energised \(Re-lock\). At this point, 'Open Time' countdown STOPS.
+   EM Lock. The door sensor detected that the door remain closed therefore, no alarms will be triggered by the Control Panel.
 
-_Scenario 2 \(Door Unopened\)_
 
-![](../.gitbook/assets/untitled9.png)
 
-1. A Staff flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\).
-2. However, the Staff did not pass through the door and is left UNOPENED.
-3. EM Lock is re-energised \(Re-locked\) when door is left unopened after the release duration of 15 sec is over. 
+![Scenario 2 \(Door Left Opened\)](../.gitbook/assets/slide2_open_time_2.PNG)
 
-NOTE: When the door is unopened, the Lock Re-energise countdown period follows 'Release Time'.
+1. A Staff flashes his access card at the reader, the Control Panel unlocks the EM Lock and start the countdown for Release Time. 
+2. The Staff open and passes through the door. The door sensor detected the door is opened, stops the Release Time countdown and starts the Open Time Countdown. The EM Lock remain unlocked at this time.
+3. At this point in time, the door was left opened by the staff. The Open Time countdown is completed and the Control Panel re-energises the EM Lock \(Re-lock\). At this point in time, the door sensor detected the door was left opened and the control panel will trigger the alarm.
 
-_Scenario 3 \(Door Left Open\)_
 
-![](../.gitbook/assets/untitled10%20%286%29.png)
 
-1. A Staff user flashes his access card at the reader, the EM Lock unlocks the door \(unlock period of 15 seconds IS CALCULATED FROM NOW\). 
-2. The Staff passes through the door and LEFT THE DOOR OPEN behind leaving the EM Lock unlocked. At this point, 'Release Time' countdown STOPS and 'Open Time' countdown STARTS.
-3. EM Lock automatically re-energises \(Re-lock\) after 15 seconds when 'Open Time' countdown ends, an alarm will be triggered with the message 'Door is left open'.
+![](../.gitbook/assets/slide2_open_time_3.PNG)
+
+1. A Staff flashes his access card at the reader, the Control Panel unlocks the EM Lock and start the countdown for Release Time. 
+2. The Staff open and passes through the door. The door sensor detected the door is opened, stops the Release Time countdown and starts the Open Time Countdown. The EM Lock remain unlocked at this time.
+3. The staff closes the door behind him and the door sensor had detected that the door is closed. The Control Panel re-energises \(re-lock\) the EM Lock and stops the Open Time countdown.
 
 ## 26. Door Sensor Delay 
 
