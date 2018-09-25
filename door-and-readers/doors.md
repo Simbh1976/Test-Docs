@@ -194,6 +194,12 @@ This parameter will allow you to choose to de-energize \(Unlock\) the Electromag
 2. The Staff open and passes through the door. The door sensor detected the door is opened, stops the Release Time countdown and starts the Open Time Countdown. The EM Lock remain unlocked at this time.
 3. The staff closes the door behind him and the door sensor had detected that the door is closed. The Control Panel re-energises \(re-lock\) the EM Lock and stops the Open Time countdown.
 
+{% hint style="info" %}
+Important note on Open Time: 
+
+Only when a door is opened, Open Time countdown will begin while stopping Release Time countdown.
+{% endhint %}
+
 ## 26. Door Sensor Delay 
 
 This parameter will enable you to set a ‘delay’ in registering of doors’ open/close status within EntryPass Platform1 Server Standard Edition. The time period is measured in ‘units’ i.e. 1 unit \(0.1 Seconds\) while maximum units is at 255 \(approx.. 14 seconds\). When an event happen e.g. a door being forced open, that event reporting will be delayed hence, the triggering of alarm will also be delayed by the number of units \(time\) that had been set.
